@@ -752,7 +752,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW5" name="{=Settlements.Settlement.name.castle_EW5}Nuremberg Burg" owner="Faction.clan_empire_west_7" posX="264.634" posY="407.65" culture="Culture.empire" prosperity="610" gate_posX="267.33" gate_posY="406.6704">
+  <Settlement id="castle_EW5" name="{=Settlements.Settlement.name.castle_EW5}Nuremberg Castle" owner="Faction.clan_empire_west_7" posX="264.634" posY="407.65" culture="Culture.empire" prosperity="610" gate_posX="267.33" gate_posY="406.6704">
     <Components>
       <Town id="castle_comp_EW5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -775,7 +775,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_EW5_2" name="{=Settlements.Settlement.name.castle_village_EW5_2}Lyon" posX="256.896" posY="393.749" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW5_2}Goleryn sits on the steep descent from the Porea plateau to the valley of the Amynis, overshadowed by Mount Tanon to the southeast. The villagers raise sheep on the steep slopes.">
+  <Settlement id="castle_village_EW5_2" name="{=Settlements.Settlement.name.castle_village_EW5_2}Metz" posX="256.896" posY="393.749" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW5_2}Goleryn sits on the steep descent from the Porea plateau to the valley of the Amynis, overshadowed by Mount Tanon to the southeast. The villagers raise sheep on the steep slopes.">
     <Components>
       <Village id="castle_village_comp_EW5_2" village_type="VillageType.sheep_farm" hearth="421" gate_rotation="0.208" trade_bound="Settlement.castle_EW5" bound="Settlement.castle_EW5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1545,7 +1545,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Erebulos" posX="631.47" posY="263.573" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies in the headwaters of the Chlosonys River, in rolling hills set amid beech forests in whose thick, dark soil grows a variety of crops.">
+  <Settlement id="village_ES1_4" name="{=Settlements.Settlement.name.village_ES1_4}Mamistra" posX="631.47" posY="263.573" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_4}Erebulos lies in the headwaters of the Chlosonys River, in rolling hills set amid beech forests in whose thick, dark soil grows a variety of crops.">
     <Components>
       <Village id="village_comp_ES1_4" village_type="VillageType.clay_mine" hearth="231" gate_rotation="0.008" trade_bound="Settlement.town_ES1" bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1932,7 +1932,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Sturgia - 5 towns, 18 villages, 6 castles, 3.60 villages per town, 33.3% castle ratio -->
-  <Settlement id="castle_S1" name="{=Settlements.Settlement.name.castle_S1}Ustokol Castle" owner="Faction.clan_sturgia_5" posX="272.135" posY="593.449" culture="Culture.sturgia" prosperity="890" gate_posX="274.0234" gate_posY="593.2222">
+  <Settlement id="castle_S1" name="{=Settlements.Settlement.name.castle_S1}Rogaland Castle" owner="Faction.clan_sturgia_5" posX="272.135" posY="593.449" culture="Culture.sturgia" prosperity="890" gate_posX="274.0234" gate_posY="593.2222">
     <Components>
       <Town id="castle_comp_S1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_battania_town" gate_rotation="0.408" />
     </Components>
@@ -1942,7 +1942,7 @@
       <Location id="prison" scene_name="sturgia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_S1_1" name="{=Settlements.Settlement.name.castle_village_S1_1}Ustokol" posX="239.455" posY="594.328" culture="Culture.sturgia" text="{=Settlements.Settlement.text.castle_village_S1_1}Ustokol sits where the Seavorn river reaches the Bay of Varcheg. Villagers here tend flax in the cool and misty lowlands.">
+  <Settlement id="castle_village_S1_1" name="{=Settlements.Settlement.name.castle_village_S1_1}Mollebukta" posX="239.455" posY="594.328" culture="Culture.sturgia" text="{=Settlements.Settlement.text.castle_village_S1_1}Ustokol sits where the Seavorn river reaches the Bay of Varcheg. Villagers here tend flax in the cool and misty lowlands.">
     <Components>
       <Village id="castle_village_comp_S1_1" village_type="VillageType.flax_plant" hearth="240" gate_rotation="0.258" trade_bound="Settlement.castle_S1" bound="Settlement.castle_S1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -2050,7 +2050,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_S5" name="{=Settlements.Settlement.name.castle_S5}Ov Castle" owner="Faction.clan_sturgia_7" posX="452.961" posY="543.248" culture="Culture.sturgia" prosperity="800" gate_posX="451.7241" gate_posY="544.503">
+  <Settlement id="castle_S5" name="{=Settlements.Settlement.name.castle_S5}Uppsala Castle" owner="Faction.clan_sturgia_7" posX="452.961" posY="543.248" culture="Culture.sturgia" prosperity="800" gate_posX="451.7241" gate_posY="544.503">
     <Components>
       <Town id="castle_comp_S5" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.908" />
     </Components>
@@ -2060,7 +2060,7 @@
       <Location id="prison" scene_name="sturgia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_S5_1" name="{=Settlements.Settlement.name.castle_village_S5_1}Ov" posX="434.253" posY="542.324" culture="Culture.sturgia" text="{=Settlements.Settlement.text.castle_village_S5_1}Ov lies at the mouth of the Skorniva, a small river running out of the northern forests into the Byalic Gulf. Villagers set up nets to trap salmon migrating up and down the river.">
+  <Settlement id="castle_village_S5_1" name="{=Settlements.Settlement.name.castle_village_S5_1}Uppsala" posX="434.253" posY="542.324" culture="Culture.sturgia" text="{=Settlements.Settlement.text.castle_village_S5_1}Ov lies at the mouth of the Skorniva, a small river running out of the northern forests into the Byalic Gulf. Villagers set up nets to trap salmon migrating up and down the river.">
     <Components>
       <Village id="castle_village_comp_S5_1" village_type="VillageType.trapper" hearth="403" gate_rotation="0.008" trade_bound="Settlement.castle_S5" bound="Settlement.castle_S5" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -2529,7 +2529,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Oslo" owner="Faction.clan_sturgia_5" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
+  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Viken (Oslo)" owner="Faction.clan_sturgia_5" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
     <Components>
       <Town id="town_comp_S7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2549,7 +2549,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_S7_1" name="{=Settlements.Settlement.name.village_S7_1}Korsyas" posX="287.861" posY="568.57" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_1}Korsyas is a fishing village on the northern coast of the Lachyar peninsula. The fishermen here live dangerous lives, venturing out into the stormy Byalic Gulf in search of char, cod, and even small whales.">
+  <Settlement id="village_S7_1" name="{=Settlements.Settlement.name.village_S7_1}Akershus" posX="287.861" posY="568.57" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_1}Korsyas is a fishing village on the northern coast of the Lachyar peninsula. The fishermen here live dangerous lives, venturing out into the stormy Byalic Gulf in search of char, cod, and even small whales.">
     <Components>
       <Village id="village_comp_S7_1" village_type="VillageType.fisherman" hearth="527" gate_rotation="0.758" trade_bound="Settlement.town_S7" bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -2562,7 +2562,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_S7_2" name="{=Settlements.Settlement.name.village_S7_2}Karbur" posX="315.057" posY="585.752" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_2}Karbur sits on the northern coast of the Lachyar peninsula, bordering the Byalic Gulf. The cold forests here produce an ambudance of berries, that are gathered and dried and sold as spice.">
+  <Settlement id="village_S7_2" name="{=Settlements.Settlement.name.village_S7_2}Buskerud" posX="315.057" posY="585.752" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_2}Karbur sits on the northern coast of the Lachyar peninsula, bordering the Byalic Gulf. The cold forests here produce an ambudance of berries, that are gathered and dried and sold as spice.">
     <Components>
       <Village id="village_comp_S7_2" village_type="VillageType.wheat_farm" hearth="296" gate_rotation="0.758" trade_bound="Settlement.town_S7" bound="Settlement.town_S7" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -2575,7 +2575,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_S1_2" name="{=Settlements.Settlement.name.castle_village_S1_2}Zhemyan" posX="264.659" posY="603.249" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_3}Zhemyan is a fishing village at the tip of the Kachyar peninsula. Villagers brave the storms that sweep through the Byalic sea to pull up ample catches of cod and char.">
+  <Settlement id="castle_village_S1_2" name="{=Settlements.Settlement.name.castle_village_S1_2}Hafrsfjord" posX="264.659" posY="603.249" culture="Culture.sturgia" text="{=Settlements.Settlement.text.village_S7_3}Zhemyan is a fishing village at the tip of the Kachyar peninsula. Villagers brave the storms that sweep through the Byalic sea to pull up ample catches of cod and char.">
     <Components>
       <Village id="castle_village_comp_S1_2" village_type="VillageType.fisherman" hearth="100" gate_rotation="0.758" trade_bound="Settlement.castle_S1" bound="Settlement.castle_S1" background_crop_position="0.0" background_mesh="gui_bg_village_sturgia" wait_mesh="wait_sturgia_village" castle_background_mesh="gui_bg_castle_sturgia" />
     </Components>
@@ -3477,7 +3477,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_V5_1" name="{=Settlements.Settlement.name.castle_village_V5_1}Tirby" posX="161.077" posY="586.582" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V5_1}Tirby lies in the eastern slopes of Mount Ebor. The rapidly changing weather, fed by cross-winds from the western ocean and the northern Byalic Gulf, allow the growing of grapes and other southern crops.">
+  <Settlement id="castle_village_V5_1" name="{=Settlements.Settlement.name.castle_village_V5_1}Aarhus" posX="161.077" posY="586.582" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V5_1}Tirby lies in the eastern slopes of Mount Ebor. The rapidly changing weather, fed by cross-winds from the western ocean and the northern Byalic Gulf, allow the growing of grapes and other southern crops.">
     <Components>
       <Village id="castle_village_comp_V5_1" village_type="VillageType.silver_mine" hearth="640" trade_bound="Settlement.castle_V5" bound="Settlement.castle_V5" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3503,7 +3503,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V6" name="{=Settlements.Settlement.name.castle_V6}Caleus Castle" owner="Faction.clan_vlandia_6" posX="230.536" posY="552.587" culture="Culture.vlandia" prosperity="760" gate_posX="230.9808" gate_posY="551.6971">
+  <Settlement id="castle_V6" name="{=Settlements.Settlement.name.castle_V6}Vordingborg" owner="Faction.clan_vlandia_6" posX="230.536" posY="552.587" culture="Culture.vlandia" prosperity="760" gate_posX="230.9808" gate_posY="551.6971">
     <Components>
       <Town id="castle_comp_V6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3513,7 +3513,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_V6_1" name="{=Settlements.Settlement.name.castle_village_V6_1}Caleus" posX="243.165" posY="540.646" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V6_1}Caleus lies near the source of the Gosin river, a small tributary of the Trand. The gentle wooded hills of this recently settled region are rich in fir and oak for timbers.">
+  <Settlement id="castle_village_V6_1" name="{=Settlements.Settlement.name.castle_village_V6_1}Schleswig" posX="243.165" posY="540.646" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V6_1}Caleus lies near the source of the Gosin river, a small tributary of the Trand. The gentle wooded hills of this recently settled region are rich in fir and oak for timbers.">
     <Components>
       <Village id="castle_village_V6_1" village_type="VillageType.flax_plant" hearth="429" trade_bound="Settlement.castle_V6" bound="Settlement.castle_V6" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3572,7 +3572,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_V8_1" name="{=Settlements.Settlement.name.castle_village_V8_1}Verecsand" posX="174.652" posY="472.815" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V8_1}Verecsand lies in thick woods inland from the coastal Epiric range of hills, in border country disputed with the Battanians. Clay is gathered from the local streambeds.">
+  <Settlement id="castle_village_V8_1" name="{=Settlements.Settlement.name.castle_village_V8_1}Aachen" posX="174.652" posY="472.815" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V8_1}Verecsand lies in thick woods inland from the coastal Epiric range of hills, in border country disputed with the Battanians. Clay is gathered from the local streambeds.">
     <Components>
       <Village id="castle_village_V8_1" village_type="VillageType.wheat_farm" hearth="230" gate_rotation="0.008" trade_bound="Settlement.castle_V8" bound="Settlement.castle_V8" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3708,7 +3708,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_V8_2" name="{=Settlements.Settlement.name.castle_village_V8_2}Marin" posX="166.471" posY="465.155" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_4}Marin lies on the Gosin river, a small tributary of the Trand. The mild winds coming up the valley from the sea, combined with the cold morning mists, allow the growing of grapes.">
+  <Settlement id="castle_village_V8_2" name="{=Settlements.Settlement.name.castle_village_V8_2}Luxemburg" posX="166.471" posY="465.155" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_4}Marin lies on the Gosin river, a small tributary of the Trand. The mild winds coming up the valley from the sea, combined with the cold morning mists, allow the growing of grapes.">
     <Components>
       <Village id="castle_village_comp_V8_2" village_type="VillageType.vineyard" hearth="341" gate_rotation="0.008" trade_bound="Settlement.castle_V8" bound="Settlement.castle_V8" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3907,7 +3907,7 @@
     </CommonAreas>
   </Settlement>
   <!-- From the pre-Calradic hero Armac-->
-  <Settlement id="village_V6_1" name="{=Settlements.Settlement.name.village_V6_1}Arromanc" posX="170.209" posY="374.64" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_1}Arromanc sits on a cape of the same name. Exposed to the sea winds and lacking a natural harbor, the residents here fish less than their neighbors. The salt spray however has created ample coastal meadows, fine grazing for sheep.">
+  <Settlement id="village_V6_1" name="{=Settlements.Settlement.name.village_V6_1}Lyon" posX="170.209" posY="374.64" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_1}Arromanc sits on a cape of the same name. Exposed to the sea winds and lacking a natural harbor, the residents here fish less than their neighbors. The salt spray however has created ample coastal meadows, fine grazing for sheep.">
     <Components>
       <Village id="village_comp_V6_1" village_type="VillageType.olive_trees" hearth="120" gate_rotation="0.058" trade_bound="Settlement.town_V6" bound="Settlement.town_V6" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -4117,7 +4117,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Battania = 5 towns, 16 villages, 6 castles, 4.00 villages per town, 38% castle ratio -->
-  <Settlement id="castle_B1" name="{=Settlements.Settlement.name.castle_B1}Ab Comer Castle" owner="Faction.clan_battania_5" posX="223.762" posY="431.444" culture="Culture.battania" prosperity="880" gate_posX="222.6241" gate_posY="429.5237">
+  <Settlement id="castle_B1" name="{=Settlements.Settlement.name.castle_B1}Angenstein Castle" owner="Faction.clan_battania_5" posX="223.762" posY="431.444" culture="Culture.battania" prosperity="880" gate_posX="222.6241" gate_posY="429.5237">
     <Components>
       <Town id="castle_comp_B1" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4566,7 +4566,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_B3_2" name="{=Settlements.Settlement.name.castle_village_B3_2}Tor Melina" posX="214.675" posY="506.304" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B3_4}Tor Melina sits in the upper reaches of the Seavorn valley, away from the river, amid forests of oak, yew and beech. Careful tending by the Battanians ensure that there are always enough towering trees to harvest, with new saplings allowed to grow to replace those cut down.">
+  <Settlement id="castle_village_B3_2" name="{=Settlements.Settlement.name.castle_village_B3_2}Paderborn" posX="214.675" posY="506.304" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B3_4}Tor Melina sits in the upper reaches of the Seavorn valley, away from the river, amid forests of oak, yew and beech. Careful tending by the Battanians ensure that there are always enough towering trees to harvest, with new saplings allowed to grow to replace those cut down.">
     <Components>
       <Village id="castle_village_comp_B3_2" village_type="VillageType.silk_plant" hearth="357" trade_bound="Settlement.castle_B3" bound="Settlement.castle_B3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4713,7 +4713,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_B5_3" name="{=Settlements.Settlement.name.village_B5_3}Mag Arba" posX="232.425" posY="415.342" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_3}Mag Arba sits in the middle Seavorn's floodplain, one of the flatter parts of the Battanian lands. The local economy is based largely on the gathering of clay for the region's potters.">
+  <Settlement id="village_B5_3" name="{=Settlements.Settlement.name.village_B5_3}Verdun" posX="232.425" posY="415.342" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_3}Mag Arba sits in the middle Seavorn's floodplain, one of the flatter parts of the Battanian lands. The local economy is based largely on the gathering of clay for the region's potters.">
     <Components>
       <Village id="village_comp_B5_3" village_type="VillageType.clay_mine" hearth="468" gate_rotation="0.008" trade_bound="Settlement.town_B5" bound="Settlement.town_B5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4726,7 +4726,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_B1_2" name="{=Settlements.Settlement.name.castle_village_B1_2}Inveth" posX="217.657" posY="417.779" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_4}Inveth sits on high ground overlooking the Seavorn plain. The surrounding hillsides support the growing of wheat.">
+  <Settlement id="castle_village_B1_2" name="{=Settlements.Settlement.name.castle_village_B1_2}Basel" posX="217.657" posY="417.779" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_4}Inveth sits on high ground overlooking the Seavorn plain. The surrounding hillsides support the growing of wheat.">
     <Components>
       <Village id="castle_village_comp_B1_2" village_type="VillageType.wheat_farm" hearth="468" gate_rotation="0.008" trade_bound="Settlement.castle_B1" bound="Settlement.castle_B1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
