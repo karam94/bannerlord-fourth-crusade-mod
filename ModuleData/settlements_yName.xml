@@ -1356,7 +1356,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Lavenia Castle" owner="Faction.clan_empire_south_3" posX="620.957" posY="254.729" culture="Culture.empire" prosperity="1100" gate_posX="618.6501" gate_posY="255.7068">
+  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Kozan Castle" owner="Faction.clan_empire_south_3" posX="620.957" posY="254.729" culture="Culture.empire" prosperity="1100" gate_posX="618.6501" gate_posY="255.7068">
     <Components>
       <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1366,7 +1366,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Lavenia" posX="600.638" posY="242.03" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village, located where the Tripotamian plains meet Lake Perasos. The shallow waters here are known for catfish and freshwater sole.">
+  <Settlement id="castle_village_ES4_1" name="{=Settlements.Settlement.name.castle_village_ES4_1}Sis" posX="600.638" posY="242.03" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES4_1}Lavenia is a fishing village, located where the Tripotamian plains meet Lake Perasos. The shallow waters here are known for catfish and freshwater sole.">
     <Components>
       <Village id="castle_village_comp_ES4_1" village_type="VillageType.fisherman" hearth="378" gate_rotation="0.008" trade_bound="Settlement.castle_ES4" bound="Settlement.castle_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1392,7 +1392,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Morenia Castle" owner="Faction.clan_empire_south_8" posX="557.31" posY="279.074" culture="Culture.empire" prosperity="850" gate_posX="555.6404" gate_posY="281.4941">
+  <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Konya" owner="Faction.clan_empire_south_8" posX="557.31" posY="279.074" culture="Culture.empire" prosperity="850" gate_posX="555.6404" gate_posY="281.4941">
     <Components>
       <Town id="castle_comp_ES5" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1560,7 +1560,7 @@
   </Settlement>
   <!-- Rhogas and Lykaron - west and center of larger southern lake, clan 7, queen-->
   <!-- Rhogas is tight between lake and mountains, like Trebizond -->
-  <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Vostrum" owner="Faction.clan_empire_south_4" posX="568.691" posY="239.759" culture="Culture.empire" prosperity="5100" gate_posX="571.2314" gate_posY="243.8832">
+  <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Tarsus" owner="Faction.clan_empire_south_4" posX="568.691" posY="239.759" culture="Culture.empire" prosperity="5100" gate_posX="571.2314" gate_posY="243.8832">
     <Components>
       <Town id="town_comp_ES2" is_castle="false" level="1" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -2612,7 +2612,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A2" name="{=Settlements.Settlement.name.castle_A2}Sahel Castle" owner="Faction.clan_aserai_3" posX="617.677" posY="127.096" culture="Culture.aserai" prosperity="890" gate_posX="617.4824" gate_posY="125.3398">
+  <Settlement id="castle_A2" name="{=Settlements.Settlement.name.castle_A2}Al Karak" owner="Faction.clan_aserai_3" posX="617.677" posY="127.096" culture="Culture.aserai" prosperity="890" gate_posX="617.4824" gate_posY="125.3398">
     <Components>
       <Town id="castle_comp_A2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2635,7 +2635,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A2_2" name="{=Settlements.Settlement.name.castle_village_A2_2}Asmait" posX="622.677" posY="107.025" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A2_2}Asmait lies where the Jebal Tamar hills turn south and run along the coast. The land here, though no longer desert, is still dry and warm enough to allow date palms to flourish.">
+  <Settlement id="castle_village_A2_2" name="{=Settlements.Settlement.name.castle_village_A2_2}Shoubak" posX="622.677" posY="107.025" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A2_2}Asmait lies where the Jebal Tamar hills turn south and run along the coast. The land here, though no longer desert, is still dry and warm enough to allow date palms to flourish.">
     <Components>
       <Village id="castle_village_comp_A2_2" village_type="VillageType.date_farm" hearth="401" gate_rotation="0.108" trade_bound="Settlement.castle_A2" bound="Settlement.castle_A2" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2694,7 +2694,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A4_1" name="{=Settlements.Settlement.name.castle_village_A4_1}Medeni" posX="436.694" posY="178.228" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A4_1}Medeni sits in the edge of the Jebal Tarba, a series of mesas carved by ancient rivers. Pockets of groundwater, trapped by the shifting faults, water groves of date palms.">
+  <Settlement id="castle_village_A4_1" name="{=Settlements.Settlement.name.castle_village_A4_1}Barqa" posX="436.694" posY="178.228" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A4_1}Medeni sits in the edge of the Jebal Tarba, a series of mesas carved by ancient rivers. Pockets of groundwater, trapped by the shifting faults, water groves of date palms.">
     <Components>
       <Village id="castle_village_comp_A4_1" village_type="VillageType.date_farm" hearth="540" trade_bound="Settlement.castle_A4" bound="Settlement.castle_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2743,7 +2743,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A6" name="{=Settlements.Settlement.name.castle_A6}Shibal Zumr Castle" owner="Faction.clan_aserai_3" posX="666.93" posY="245.247" culture="Culture.aserai" gate_posX="665.921" gate_posY="246.1539">
+  <Settlement id="castle_A6" name="{=Settlements.Settlement.name.castle_A6}Citadel of Aleppo" owner="Faction.clan_aserai_3" posX="666.93" posY="245.247" culture="Culture.aserai" gate_posX="665.921" gate_posY="246.1539">
     <Components>
       <Town id="castle_comp_A6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2753,7 +2753,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A6_1" name="{=Settlements.Settlement.name.castle_village_A6_1}Shibal Zumr" posX="679.928" posY="245.814" culture="Culture.aserai" prosperity="336" text="{=Settlements.Settlement.text.castle_village_A6_1}Shibal Zumr is an oasis of rich green in a depression in the dry eastern lands, where groundwater can well to the surface. Though the farmland is limited, there is enough to produce wheat for the residents with some left over to export.">
+  <Settlement id="castle_village_A6_1" name="{=Settlements.Settlement.name.castle_village_A6_1}Aleppo" posX="679.928" posY="245.814" culture="Culture.aserai" prosperity="336" text="{=Settlements.Settlement.text.castle_village_A6_1}Shibal Zumr is an oasis of rich green in a depression in the dry eastern lands, where groundwater can well to the surface. Though the farmland is limited, there is enough to produce wheat for the residents with some left over to export.">
     <Components>
       <Village id="castle_village_comp_A6_1" village_type="VillageType.wheat_farm" hearth="120" gate_rotation="0.508" trade_bound="Settlement.castle_A6" bound="Settlement.castle_A6" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2789,7 +2789,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Bunqaz" posX="322.492" posY="210.122" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_2}Bunqaz is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
+  <Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Qabes" posX="322.492" posY="210.122" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_2}Bunqaz is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
     <Components>
       <Village id="castle_village_comp_A7_2" village_type="VillageType.flax_plant" hearth="477" trade_bound="Settlement.castle_A7" bound="Settlement.castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2941,7 +2941,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A6_2" name="{=Settlements.Settlement.name.castle_village_A6_2}Lamesa" posX="659.664" posY="230.064" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_1}Lamesa and its neighbor Hoqqa sit inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
+  <Settlement id="castle_village_A6_2" name="{=Settlements.Settlement.name.castle_village_A6_2}Baalbek" posX="659.664" posY="230.064" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_1}Lamesa and its neighbor Hoqqa sit inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
     <Components>
       <Village id="castle_village_comp_A6_2" village_type="VillageType.desert_horse_ranch" hearth="327" trade_bound="Settlement.castle_A6" bound="Settlement.castle_A6" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2967,7 +2967,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Aleppo" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
+  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Hama" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
     <Components>
       <Village id="village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" trade_bound="Settlement.town_A2" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3132,7 +3132,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Mahloul" posX="593.332" posY="116.417" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A5_1}Mahloul sits in a ravine in the desert steppe southeast of the Bahr al-Yeshm. Groundwater provides just enough water to grow crops for subsistence, while the village makes its money from rearing horses on the rich but short-lived grass that grows after the spring rains.">
+  <Settlement id="village_A5_1" name="{=Settlements.Settlement.name.village_A5_1}Bilbeis" posX="593.332" posY="116.417" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A5_1}Mahloul sits in a ravine in the desert steppe southeast of the Bahr al-Yeshm. Groundwater provides just enough water to grow crops for subsistence, while the village makes its money from rearing horses on the rich but short-lived grass that grows after the spring rains.">
     <Components>
       <Village id="village_comp_A5_1" village_type="VillageType.desert_horse_ranch" hearth="231" trade_bound="Settlement.town_A5" bound="Settlement.town_A5" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3158,7 +3158,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Deir Hawa" posX="550.69" posY="135.427" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A5_3}Deir Hawa, the so-called 'monastery of the winds' named after a colony of ascetics who lived here long ago, sits in the bleak hills southeast of the Bahr al-Yeshm lake. They sink wells where the rocky hills trap rainwater, and cultivate aromatic berries which are dried and crushed and sold as spice.">
+  <Settlement id="village_A5_3" name="{=Settlements.Settlement.name.village_A5_3}Damietta" posX="550.69" posY="135.427" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A5_3}Deir Hawa, the so-called 'monastery of the winds' named after a colony of ascetics who lived here long ago, sits in the bleak hills southeast of the Bahr al-Yeshm lake. They sink wells where the rocky hills trap rainwater, and cultivate aromatic berries which are dried and crushed and sold as spice.">
     <Components>
       <Village id="village_comp_A5_3" village_type="VillageType.flax_plant" hearth="155" trade_bound="Settlement.town_A5" bound="Settlement.town_A5" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3171,7 +3171,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}Sanala" owner="Faction.clan_aserai_1" posX="401.651" posY="207.329" culture="Culture.aserai" prosperity="4300" gate_posX="399.0787" gate_posY="207.523">
+  <Settlement id="town_A6" name="{=Settlements.Settlement.name.town_A6}West Tripoli" owner="Faction.clan_aserai_1" posX="401.651" posY="207.329" culture="Culture.aserai" prosperity="4300" gate_posX="399.0787" gate_posY="207.523">
     <Components>
       <Town id="town_comp_A6" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
     </Components>
