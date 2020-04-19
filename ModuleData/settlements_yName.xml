@@ -223,7 +223,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EN9_1" name="{=Settlements.Settlement.name.castle_village_EN9_1}Mecalovea" posX="417.965" posY="471.167" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN9_1}Mecalovea sits on the Galchas, a small but swift river flowing into Lake Laconys, perched on a cliffside for protection from raiders in this frontier region. The canyons cut by the water have exposed numerous veins of iron, which form the basis for the region's economy.">
+  <Settlement id="castle_village_EN9_1" name="{=Settlements.Settlement.name.castle_village_EN9_1}Treptow" posX="417.965" posY="471.167" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN9_1}Mecalovea sits on the Galchas, a small but swift river flowing into Lake Laconys, perched on a cliffside for protection from raiders in this frontier region. The canyons cut by the water have exposed numerous veins of iron, which form the basis for the region's economy.">
     <Components>
       <Village id="castle_village_comp_EN9_1" village_type="VillageType.iron_mine" hearth="389" gate_rotation="0.008" trade_bound="Settlement.castle_EN9" bound="Settlement.castle_EN9" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -251,7 +251,7 @@
   </Settlement>
   <!-- Volarias and Tricaea, Northern  clan #2, marcher clan of patriarch faction, -->
   <!-- The allconquering -->
-  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Epicrotea" owner="Faction.clan_empire_north_2" posX="407.606" posY="474.927" culture="Culture.empire" prosperity="5100" gate_posX="404.7008" gate_posY="474.5175">
+  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Kolberg" owner="Faction.clan_empire_north_2" posX="407.606" posY="474.927" culture="Culture.empire" prosperity="5100" gate_posX="404.7008" gate_posY="474.5175">
     <Components>
       <Town id="town_comp_EN1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" />
     </Components>
@@ -272,7 +272,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Saffron field -->
-  <Settlement id="village_EN1_1" name="{=Settlements.Settlement.name.village_EN1_1}Marathea" posX="385.025" posY="461.536" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_1}Marathea lies near the headwaters of the Sevora. The land is relatively dry due to the local winds, but miners venture into the foothills of the Carassic massif to the south for the rich veins of iron ore.">
+  <Settlement id="village_EN1_1" name="{=Settlements.Settlement.name.village_EN1_1}Wollin" posX="385.025" posY="461.536" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_1}Marathea lies near the headwaters of the Sevora. The land is relatively dry due to the local winds, but miners venture into the foothills of the Carassic massif to the south for the rich veins of iron ore.">
     <Components>
       <Village id="village_comp_EN1_1" village_type="VillageType.iron_mine" hearth="322" trade_bound="Settlement.town_EN1" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -286,7 +286,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Horsefold -->
-  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.name.village_EN1_2}Stathymos" posX="407.717" posY="451.722" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_2}Stathymos sits by a small stream running into Lake Laconys. The thin woodlands and meadows at the dry western end of the lake are good territory for the imperial breeds of horses.">
+  <Settlement id="village_EN1_2" name="{=Settlements.Settlement.name.village_EN1_2}Stargard" posX="407.717" posY="451.722" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_2}Stathymos sits by a small stream running into Lake Laconys. The thin woodlands and meadows at the dry western end of the lake are good territory for the imperial breeds of horses.">
     <Components>
       <Village id="village_comp_EN1_2" village_type="VillageType.wheat_farm" hearth="125" trade_bound="Settlement.town_EN1" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -299,7 +299,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.name.village_EN1_3}Gymos" posX="429.111" posY="460.234" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_3}Gymos is a fishing village on the far west of Lake Laconys. Villagers harvest pike from the lake, and trout from the streams flowing into it.">
+  <Settlement id="village_EN1_3" name="{=Settlements.Settlement.name.village_EN1_3}Belgard" posX="429.111" posY="460.234" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN1_3}Gymos is a fishing village on the far west of Lake Laconys. Villagers harvest pike from the lake, and trout from the streams flowing into it.">
     <Components>
       <Village id="village_comp_EN1_3" village_type="VillageType.fisherman" hearth="125" trade_bound="Settlement.town_EN1" bound="Settlement.town_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -468,7 +468,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_EN6_2" name="{=Settlements.Settlement.name.castle_village_EN6_2}Potamis" posX="434.334" posY="421.463" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN4_1}Potamis sits on a small bay by the southern shores of Lake Laconys. The waters here have less fish than elsewhere, but villagers graze cattle on the nearby slopes.">
+  <Settlement id="castle_village_EN6_2" name="{=Settlements.Settlement.name.castle_village_EN6_2}Pressburg" posX="434.334" posY="421.463" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN4_1}Potamis sits on a small bay by the southern shores of Lake Laconys. The waters here have less fish than elsewhere, but villagers graze cattle on the nearby slopes.">
     <Components>
       <Village id="castle_village_comp_EN6_2" village_type="VillageType.cattle_farm" hearth="577" gate_rotation="0.508" trade_bound="Settlement.castle_EN6" bound="Settlement.castle_EN6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -706,7 +706,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW3" name="{=Settlements.Settlement.name.castle_EW3}Onica Castle" owner="Faction.clan_empire_west_1" posX="445.931" posY="272.569" culture="Culture.empire" prosperity="740" gate_posX="445.2068" gate_posY="275.0735">
+  <Settlement id="castle_EW3" name="{=Settlements.Settlement.name.castle_EW3}Castle of Acrocornith" owner="Faction.clan_empire_west_1" posX="445.931" posY="272.569" culture="Culture.empire" prosperity="740" gate_posX="445.2068" gate_posY="275.0735">
     <Components>
       <Town id="castle_comp_EW3" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -716,7 +716,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EW3_1" name="{=Settlements.Settlement.name.castle_village_EW3_1}Onica" posX="458.472" posY="269.157" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW3_1}Onica sits near a crossing over the lower Aminys, just before it enters the Bay of Charas. The warm weather here is well suited to the growing of olive trees.">
+  <Settlement id="castle_village_EW3_1" name="{=Settlements.Settlement.name.castle_village_EW3_1}Corinth" posX="458.472" posY="269.157" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW3_1}Onica sits near a crossing over the lower Aminys, just before it enters the Bay of Charas. The warm weather here is well suited to the growing of olive trees.">
     <Components>
       <Village id="castle_village_comp_EW3_1" village_type="VillageType.olive_trees" hearth="312" trade_bound="Settlement.castle_EW3" bound="Settlement.castle_EW3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -964,7 +964,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW2_2" name="{=Settlements.Settlement.name.village_EW2_2}Neocorys" posX="393.508" posY="322.385" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW2_2}Neocorys, the new village, lies at the foot of the volcanic Mount Erythos. It was rebuilt on the ash of a recent explosion on soil that gives good grazing.">
+  <Settlement id="village_EW2_2" name="{=Settlements.Settlement.name.village_EW2_2}Pisa" posX="393.508" posY="322.385" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW2_2}Neocorys, the new village, lies at the foot of the volcanic Mount Erythos. It was rebuilt on the ash of a recent explosion on soil that gives good grazing.">
     <Components>
       <Village id="village_comp_EW2_2" village_type="VillageType.europe_horse_ranch" hearth="192" trade_bound="Settlement.town_EW2" bound="Settlement.town_EW2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -990,7 +990,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW2_4" name="{=Settlements.Settlement.name.village_EW2_4}Zeocorys" posX="416.539" posY="309.283" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW2_4}Zeocorys sits on the Zeos river, a tributary of the Aminys. In former times, this was a secure region of the central empire, and landlords have invested in huge estates to raise horses, for which the imperial military treasuries pay handsomely. Now, the horses are used by local forces, who watch anxiously for Vlandian raiders coming over the western hills.">
+  <Settlement id="village_EW2_4" name="{=Settlements.Settlement.name.village_EW2_4}Bologna" posX="416.539" posY="309.283" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW2_4}Zeocorys sits on the Zeos river, a tributary of the Aminys. In former times, this was a secure region of the central empire, and landlords have invested in huge estates to raise horses, for which the imperial military treasuries pay handsomely. Now, the horses are used by local forces, who watch anxiously for Vlandian raiders coming over the western hills.">
     <Components>
       <Village id="village_comp_EW2_4" village_type="VillageType.wheat_farm" hearth="143" trade_bound="Settlement.town_EW2" bound="Settlement.town_EW2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1038,7 +1038,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW3_2" name="{=Settlements.Settlement.name.village_EW3_2}Aegosca" posX="395.886" posY="343.079" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_2}Aegosca lies in a small valley overlooking the Aminys river. Though named for the goats that used to roam this region, the landowners have turned over the pastures to the raising of far more profitable horses.">
+  <Settlement id="village_EW3_2" name="{=Settlements.Settlement.name.village_EW3_2}Merano" posX="395.886" posY="343.079" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_2}Aegosca lies in a small valley overlooking the Aminys river. Though named for the goats that used to roam this region, the landowners have turned over the pastures to the raising of far more profitable horses.">
     <Components>
       <Village id="village_comp_EW3_2" village_type="VillageType.europe_horse_ranch" hearth="427" trade_bound="Settlement.town_EW3" bound="Settlement.town_EW3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1052,7 +1052,7 @@
     </CommonAreas>
   </Settlement>
   <!--  -->
-  <Settlement id="village_EW3_3" name="{=Settlements.Settlement.name.village_EW3_3}Dradios" posX="371.993" posY="371.042" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_3}Dradios sits on low rolling hills overlooking the River Amynis. The alluvial plains of this region have long been a breadbasket for the Empire.">
+  <Settlement id="village_EW3_3" name="{=Settlements.Settlement.name.village_EW3_3}Brescia" posX="371.993" posY="371.042" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_3}Dradios sits on low rolling hills overlooking the River Amynis. The alluvial plains of this region have long been a breadbasket for the Empire.">
     <Components>
       <Village id="village_comp_EW3_3" village_type="VillageType.wheat_farm" hearth="501" gate_rotation="0.008" trade_bound="Settlement.town_EW3" bound="Settlement.town_EW3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1680,7 +1680,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES3_3" name="{=Settlements.Settlement.name.village_ES3_3}Zestea" posX="467.529" posY="300.703" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES3_3}Zestea is located in the eastern edge of the Porea, a plateau named after an ancient Palaic tribal chief. Though his descendants now speak the imperial tongue, they still raise sheep in the highlands in the manner of their ancestors.">
+  <Settlement id="village_ES3_3" name="{=Settlements.Settlement.name.village_ES3_3}Durres" posX="467.529" posY="300.703" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES3_3}Zestea is located in the eastern edge of the Porea, a plateau named after an ancient Palaic tribal chief. Though his descendants now speak the imperial tongue, they still raise sheep in the highlands in the manner of their ancestors.">
     <Components>
       <Village id="village_comp_ES3_3" village_type="VillageType.sheep_farm" hearth="273" gate_rotation="0.258" trade_bound="Settlement.town_ES3" bound="Settlement.town_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1832,7 +1832,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Saldannis" posX="565.911" posY="326.602" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies in the low-lying, scrub-covered Chisaurian mountains between lakes Tanaesis and Perasos. Fine clay can be found in the streambeds, and the hills are also suitable for the growing of grapes.">
+  <Settlement id="village_ES6_1" name="{=Settlements.Settlement.name.village_ES6_1}Nicaea" posX="565.911" posY="326.602" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_1}Saldannis lies in the low-lying, scrub-covered Chisaurian mountains between lakes Tanaesis and Perasos. Fine clay can be found in the streambeds, and the hills are also suitable for the growing of grapes.">
     <Components>
       <Village id="village_comp_ES6_1" village_type="VillageType.clay_mine" hearth="248" gate_rotation="0.258" trade_bound="Settlement.town_ES6" bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1846,7 +1846,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Oakwood -->
-  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Spotia" posX="554.301" posY="337.683" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies in the southern foothills of the Chisaurian mountains, as they begin to give way to the plains of the southeast. Saffron grows on the hillsides and a wide variety of spice-yielding berries harvested from the nearby oak woods.">
+  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Adrianople (Edirne)" posX="554.301" posY="337.683" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies in the southern foothills of the Chisaurian mountains, as they begin to give way to the plains of the southeast. Saffron grows on the hillsides and a wide variety of spice-yielding berries harvested from the nearby oak woods.">
     <Components>
       <Village id="village_comp_ES6_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108" trade_bound="Settlement.town_ES6" bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1859,7 +1859,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_ES6_2" name="{=Settlements.Settlement.name.castle_village_ES6_2}Amycon" posX="480.809" posY="352.006" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_3}Amycon is at the center of a rural district on the imperial frontiers, just across a range of wooded hills from lands now held by the Khuzaits. The hillsides are good grazing for sheep.">
+  <Settlement id="castle_village_ES6_2" name="{=Settlements.Settlement.name.castle_village_ES6_2}Breslau" posX="480.809" posY="352.006" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_3}Amycon is at the center of a rural district on the imperial frontiers, just across a range of wooded hills from lands now held by the Khuzaits. The hillsides are good grazing for sheep.">
     <Components>
       <Village id="castle_village_ES6_2" village_type="VillageType.sheep_farm" hearth="133" gate_rotation="0.008" trade_bound="Settlement.castle_ES6" bound="Settlement.castle_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -3669,7 +3669,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V2_1" name="{=Settlements.Settlement.name.village_V2_1}Mareiven" posX="189.148" posY="486.143" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_1}Mareiven lies in the gentle wooded hills of the Trand valley. The people of this district are largely foresters.">
+  <Settlement id="village_V2_1" name="{=Settlements.Settlement.name.village_V2_1}Bayonne" posX="189.148" posY="486.143" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_1}Mareiven lies in the gentle wooded hills of the Trand valley. The people of this district are largely foresters.">
     <Components>
       <Village id="village_comp_V2_1" village_type="VillageType.lumberjack" hearth="216" gate_rotation="0.008" trade_bound="Settlement.town_V2" bound="Settlement.town_V2" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3823,7 +3823,7 @@
   </Settlement-->
   <!-- Thali's well -->
   <!-- from archaic Calradic Ialonos, home of the Ialoi tribe -->
-  <Settlement id="town_V5" name="{=Settlements.Settlement.name.town_V5}Galend" owner="Faction.clan_vlandia_1" posX="107.5" posY="411.689" culture="Culture.vlandia" prosperity="1900" gate_posX="111.4947" gate_posY="409.1742">
+  <Settlement id="town_V5" name="{=Settlements.Settlement.name.town_V5}Nantes" owner="Faction.clan_vlandia_1" posX="107.5" posY="411.689" culture="Culture.vlandia" prosperity="1900" gate_posX="111.4947" gate_posY="409.1742">
     <Components>
       <Town id="town_comp_V5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
@@ -3858,7 +3858,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Pre-Calradic, red -->
-  <Settlement id="village_V5_2" name="{=Settlements.Settlement.name.village_V5_2}Nantes" posX="114.641" posY="388.872" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_2}Meroc is a fishing village near the mouth of the Neur. Villagers harvest a good catch of mullet and bass from the brackish waters of the estuary, as well as flounder and clams from nearby mudflats.">
+  <Settlement id="village_V5_2" name="{=Settlements.Settlement.name.village_V5_2}Bayonne" posX="114.641" posY="388.872" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_2}Meroc is a fishing village near the mouth of the Neur. Villagers harvest a good catch of mullet and bass from the brackish waters of the estuary, as well as flounder and clams from nearby mudflats.">
     <Components>
       <Village id="village_comp_V5_2" village_type="VillageType.fisherman" hearth="527" trade_bound="Settlement.town_V5" bound="Settlement.town_V5" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3871,7 +3871,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V5_3" name="{=Settlements.Settlement.name.village_V5_3}Nogrent" posX="100.203" posY="423.756" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_3}Nogrent sits in a nook of the Biscan hills in central Vlandia. The region, with its mild winters, is prime land for the growing of olives.">
+  <Settlement id="village_V5_3" name="{=Settlements.Settlement.name.village_V5_3}Quimper" posX="100.203" posY="423.756" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_3}Nogrent sits in a nook of the Biscan hills in central Vlandia. The region, with its mild winters, is prime land for the growing of olives.">
     <Components>
       <Village id="village_comp_V5_3" village_type="VillageType.olive_trees" hearth="211" trade_bound="Settlement.town_V5" bound="Settlement.town_V5" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -4150,7 +4150,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_B2_1" name="{=Settlements.Settlement.name.castle_village_B2_1}Llanoc Hen" posX="252.977" posY="449.402" culture="Culture.battania" text="{=Settlements.Settlement.text.castle_village_B2_1}Llanoc Hen lies in the Galfin, the valley which is the Battanian kingdom's southernmost frontier. The villagers of these parts have learned to grow mulberries, as silk is much valued by the Vlandian and imperial neighbors with whom they trade when they are not at war.">
+  <Settlement id="castle_village_B2_1" name="{=Settlements.Settlement.name.castle_village_B2_1}Bamberg" posX="252.977" posY="449.402" culture="Culture.battania" text="{=Settlements.Settlement.text.castle_village_B2_1}Llanoc Hen lies in the Galfin, the valley which is the Battanian kingdom's southernmost frontier. The villagers of these parts have learned to grow mulberries, as silk is much valued by the Vlandian and imperial neighbors with whom they trade when they are not at war.">
     <Components>
       <Village id="castle_village_comp_B2_1" village_type="VillageType.swine_farm" hearth="319" gate_rotation="0.508" trade_bound="Settlement.castle_B2" bound="Settlement.castle_B2" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4700,7 +4700,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_B5_2" name="{=Settlements.Settlement.name.village_B5_2}Gainseth" posX="222.656" posY="476.266" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_2}Gainseth lies by the wooded banks of the River Seavorn. The clays of this lowland region provide the raw materials for Battania's famed pottery.">
+  <Settlement id="village_B5_2" name="{=Settlements.Settlement.name.village_B5_2}Wartburg" posX="222.656" posY="476.266" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_2}Gainseth lies by the wooded banks of the River Seavorn. The clays of this lowland region provide the raw materials for Battania's famed pottery.">
     <Components>
       <Village id="village_comp_B5_2" village_type="VillageType.clay_mine" hearth="473" gate_rotation="0.308" trade_bound="Settlement.town_B5" bound="Settlement.town_B5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
