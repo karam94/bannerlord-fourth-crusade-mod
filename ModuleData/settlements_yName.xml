@@ -1261,7 +1261,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES1" name="{=Settlements.Settlement.name.castle_ES1}Odrysa Castle" owner="Faction.clan_empire_south_3" posX="693.202" posY="306.624" culture="Culture.empire" prosperity="500" gate_posX="690.3297" gate_posY="306.6122">
+  <Settlement id="castle_ES1" name="{=Settlements.Settlement.name.castle_ES1}Edessa Fortress" owner="Faction.clan_empire_south_3" posX="693.202" posY="306.624" culture="Culture.empire" prosperity="500" gate_posX="690.3297" gate_posY="306.6122">
     <Components>
       <Town id="castle_comp_ES1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1271,7 +1271,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES1_1" name="{=Settlements.Settlement.name.castle_village_ES1_1}Odrysa" posX="682.092" posY="323.742" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES1_1}Odrysa sits near an isolated valley in the far southeast of the empire. This frontier zone, long underpopulated due to wars and raiding, still has enough oak to support a thriving forestry industry.">
+  <Settlement id="castle_village_ES1_1" name="{=Settlements.Settlement.name.castle_village_ES1_1}Edessa (Urfa)" posX="682.092" posY="323.742" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES1_1}Odrysa sits near an isolated valley in the far southeast of the empire. This frontier zone, long underpopulated due to wars and raiding, still has enough oak to support a thriving forestry industry.">
     <Components>
       <Village id="castle_village_comp_ES1_1" village_type="VillageType.lumberjack" hearth="272" gate_rotation="0.008" trade_bound="Settlement.castle_ES1" bound="Settlement.castle_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1485,7 +1485,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Imperial subfaction 3 begins -->
-  <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Danustica" owner="Faction.clan_empire_south_3" posX="661.191" posY="276.466" culture="Culture.empire" prosperity="4900" gate_posX="659.0048" gate_posY="276.9256">
+  <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Antioch (Antakya)" owner="Faction.clan_empire_south_3" posX="661.191" posY="276.466" culture="Culture.empire" prosperity="4900" gate_posX="659.0048" gate_posY="276.9256">
     <Components>
       <Town id="town_comp_ES1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.808" />
     </Components>
@@ -1506,7 +1506,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Feverheat -->
-  <Settlement id="castle_village_ES1_2" name="{=Settlements.Settlement.name.castle_village_ES1_2}Caira" posX="687.202" posY="276.935" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_1}Caira sits near the eastern shores of Lake Perasos. The region, close to both the steppe and the southern deserts, is warm enough to grow olives.">
+  <Settlement id="castle_village_ES1_2" name="{=Settlements.Settlement.name.castle_village_ES1_2}Hama" posX="687.202" posY="276.935" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_1}Caira sits near the eastern shores of Lake Perasos. The region, close to both the steppe and the southern deserts, is warm enough to grow olives.">
     <Components>
       <Village id="castle_village_ES1_2" village_type="VillageType.wheat_farm" hearth="304" gate_rotation="0.008" trade_bound="Settlement.castle_ES1" bound="Settlement.castle_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1519,7 +1519,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Polisia" posX="673.134" posY="260.585" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_2}Polisia sits on a finger of Lake Perasos, in shallow muddy waters known for their huge catfish.">
+  <Settlement id="village_ES1_2" name="{=Settlements.Settlement.name.village_ES1_2}Tartous" posX="673.134" posY="260.585" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_2}Polisia sits on a finger of Lake Perasos, in shallow muddy waters known for their huge catfish.">
     <Components>
       <Village id="village_comp_ES1_2" village_type="VillageType.salt_mine" hearth="218" gate_rotation="0.008" trade_bound="Settlement.town_ES1" bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -2812,7 +2812,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Antakya (Antioch)" posX="641.98" posY="241.732" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A8_1}Tamnuh sits in a small depression as the narrow plain by the Bahr al-Yeshm lake rises to meet the ridges of the Jejara Escarpment. Clay can be gathered from the local wadis.">
+  <Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Latakia" posX="641.98" posY="241.732" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A8_1}Tamnuh sits in a small depression as the narrow plain by the Bahr al-Yeshm lake rises to meet the ridges of the Jejara Escarpment. Clay can be gathered from the local wadis.">
     <Components>
       <Village id="castle_village_comp_A8_1" village_type="VillageType.clay_mine" hearth="352" gate_rotation="0.008" trade_bound="Settlement.castle_A8" bound="Settlement.castle_A8" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2967,7 +2967,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Hama" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
+  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Tadmur" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
     <Components>
       <Village id="village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" trade_bound="Settlement.town_A2" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
