@@ -128,7 +128,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EN6_1" name="{=Settlements.Settlement.name.castle_village_EN6_1}Ataconia" posX="449.761" posY="395.081" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN6_1}Ataconia sits on a plateau in the piedmont of the Dryatic mountains. The highland soil is good land for the growing of mulberry trees, on which silkworms are raised.">
+  <Settlement id="castle_village_EN6_1" name="{=Settlements.Settlement.name.castle_village_EN6_1}Prague" posX="449.761" posY="395.081" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN6_1}Ataconia sits on a plateau in the piedmont of the Dryatic mountains. The highland soil is good land for the growing of mulberry trees, on which silkworms are raised.">
     <Components>
       <Village id="castle_village_comp_EN6_1" village_type="VillageType.silver_mine" hearth="182" gate_rotation="0.558" trade_bound="Settlement.castle_EN6" bound="Settlement.castle_EN6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -729,7 +729,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW4" name="{=Settlements.Settlement.name.castle_EW4}Thractorae Castle" owner="Faction.clan_empire_west_3" posX="258.912" posY="375.931" culture="Culture.empire" prosperity="660" gate_posX="256.7101" gate_posY="374.8052">
+  <Settlement id="castle_EW4" name="{=Settlements.Settlement.name.castle_EW4}Castillo de la Alameda" owner="Faction.clan_empire_west_3" posX="258.912" posY="375.931" culture="Culture.empire" prosperity="660" gate_posX="256.7101" gate_posY="374.8052">
     <Components>
       <Town id="castle_comp_EW4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -739,7 +739,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EW4_1" name="{=Settlements.Settlement.name.castle_village_EW4_1}Thractorae" posX="257.337" posY="346.903" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW4_1}Thractorae sits on a cataract that cuts across the Gavys, the river that is Lake Perasos' outlet to the sea. Dates palms grow well in these southernmost reaches of the empire.">
+  <Settlement id="castle_village_EW4_1" name="{=Settlements.Settlement.name.castle_village_EW4_1}Madrid" posX="257.337" posY="346.903" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW4_1}Thractorae sits on a cataract that cuts across the Gavys, the river that is Lake Perasos' outlet to the sea. Dates palms grow well in these southernmost reaches of the empire.">
     <Components>
       <Village id="castle_village_comp_EW4_1" village_type="VillageType.date_farm" hearth="346" gate_rotation="0.208" trade_bound="Settlement.castle_EW4" bound="Settlement.castle_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -871,7 +871,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Lageta and Zeonika, west, akritas lords of soldier faction of empire (clan 6)-->
-  <Settlement id="town_EW1" name="{=Settlements.Settlement.name.town_EW1}Lageta" owner="Faction.clan_empire_west_3" posX="315.287" posY="397.114" culture="Culture.empire" prosperity="5200" gate_posX="314.4291" gate_posY="392.8451">
+  <Settlement id="town_EW1" name="{=Settlements.Settlement.name.town_EW1}Brandenburg (Berlin)" owner="Faction.clan_empire_west_3" posX="315.287" posY="397.114" culture="Culture.empire" prosperity="5200" gate_posX="314.4291" gate_posY="392.8451">
     <Components>
       <Town id="town_comp_EW1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.108" />
     </Components>
@@ -1003,7 +1003,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_EW3" name="{=Settlements.Settlement.name.town_EW3}Jalmarys" owner="Faction.clan_empire_west_1" posX="376.881" posY="341.654" culture="Culture.empire" prosperity="2700" gate_posX="377.8605" gate_posY="343.6901">
+  <Settlement id="town_EW3" name="{=Settlements.Settlement.name.town_EW3}Milan" owner="Faction.clan_empire_west_1" posX="376.881" posY="341.654" culture="Culture.empire" prosperity="2700" gate_posX="377.8605" gate_posY="343.6901">
     <Components>
       <Town id="town_comp_EW3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.508" />
     </Components>
@@ -1025,7 +1025,7 @@
   </Settlement>
   <!-- A royal demesne-->
   <!-- Goat's head Aegoscapsae shortening to Aegosca -Armagan -->
-  <Settlement id="castle_village_EW4_2" name="{=Settlements.Settlement.name.castle_village_EW4_2}Gamardan" posX="245.466" posY="356.213" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_1}Gamardan lies near the source of the river Amynis, where streams flowing out of the nearby woods join. Wheat grows abundantly in fields cut from the surrounding woods.">
+  <Settlement id="castle_village_EW4_2" name="{=Settlements.Settlement.name.castle_village_EW4_2}Zaragoza" posX="245.466" posY="356.213" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW3_1}Gamardan lies near the source of the river Amynis, where streams flowing out of the nearby woods join. Wheat grows abundantly in fields cut from the surrounding woods.">
     <Components>
       <Village id="castle_village_comp_EW4_2" village_type="VillageType.vineyard" hearth="427" trade_bound="Settlement.castle_EW4" bound="Settlement.castle_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1087,7 +1087,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_1" name="{=Settlements.Settlement.name.village_EW4_1}Arpotis" posX="343.009" posY="351.062" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_1}Arpotis sits in the valley of the Gavys, linking Lake Perasos to the sea. Here on the southern imperial frontier, dates palms are cultivated.">
+  <Settlement id="village_EW4_1" name="{=Settlements.Settlement.name.village_EW4_1}Genoa" posX="343.009" posY="351.062" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_1}Arpotis sits in the valley of the Gavys, linking Lake Perasos to the sea. Here on the southern imperial frontier, dates palms are cultivated.">
     <Components>
       <Village id="village_comp_EW4_1" village_type="VillageType.olive_trees" hearth="125" gate_rotation="0.408" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1126,7 +1126,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Zaragoza" posX="305.884" posY="349.945" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia sits on high land looking over Lake Perasos and the River Gavys. The region is warm but well-watered by rain, and is a main source of the southern Empire's wheat.">
+  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Barcelona" posX="305.884" posY="349.945" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia sits on high land looking over Lake Perasos and the River Gavys. The region is warm but well-watered by rain, and is a main source of the southern Empire's wheat.">
     <Components>
       <Village id="village_comp_EW4_4" village_type="VillageType.silver_mine" hearth="295" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -2529,7 +2529,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Revyl" owner="Faction.clan_sturgia_5" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
+  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Oslo" owner="Faction.clan_sturgia_5" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
     <Components>
       <Town id="town_comp_S7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -3562,7 +3562,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V8" name="{=Settlements.Settlement.name.castle_V8}Verecsand Castle" owner="Faction.clan_vlandia_7" posX="190.12" posY="466.865" culture="Culture.vlandia" prosperity="780" gate_posX="189.1221" gate_posY="466.6706">
+  <Settlement id="castle_V8" name="{=Settlements.Settlement.name.castle_V8}Mainz" owner="Faction.clan_vlandia_7" posX="190.12" posY="466.865" culture="Culture.vlandia" prosperity="780" gate_posX="189.1221" gate_posY="466.6706">
     <Components>
       <Town id="castle_comp_V8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.508" />
     </Components>
@@ -3649,7 +3649,7 @@
     </CommonAreas>
   </Settlement>
   <!-- From Calradic, Lobster claw  // how about Uxhall precursor - Arma-->
-  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Ocs Hall" owner="Faction.clan_vlandia_7" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
+  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Cologne" owner="Faction.clan_vlandia_7" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
     <Components>
       <Town id="town_comp_V2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" />
     </Components>
