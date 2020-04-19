@@ -647,7 +647,7 @@
     </CommonAreas>
   </Settlement>
   <!-- blackheath. To Ascyron, Lucon's heir -->
-  <Settlement id="castle_EW1" name="{=Settlements.Settlement.name.castle_EW1}Garontor Castle" owner="Faction.clan_empire_west_2" posX="273.429" posY="324.02" culture="Culture.empire" prosperity="880" gate_posX="275.6199" gate_posY="324.9102">
+  <Settlement id="castle_EW1" name="{=Settlements.Settlement.name.castle_EW1}Alcazar of Seville" owner="Faction.clan_empire_west_2" posX="273.429" posY="324.02" culture="Culture.empire" prosperity="880" gate_posX="275.6199" gate_posY="324.9102">
     <Components>
       <Town id="castle_comp_EW1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -657,7 +657,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EW1_1" name="{=Settlements.Settlement.name.castle_village_EW1_1}Garontor" posX="277.153" posY="338.961" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW1_1}Garontor lies at the northern end of the Zeos valley. Here, on the Battanian frontier, villages perch on cliffsides to spot raiders coming through the valley. Fields cluster close to the village where they can be watched and protected, while woodsmen range further out to harvest the area's plentiful trees.">
+  <Settlement id="castle_village_EW1_1" name="{=Settlements.Settlement.name.castle_village_EW1_1}Cordoba" posX="277.153" posY="338.961" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EW1_1}Garontor lies at the northern end of the Zeos valley. Here, on the Battanian frontier, villages perch on cliffsides to spot raiders coming through the valley. Fields cluster close to the village where they can be watched and protected, while woodsmen range further out to harvest the area's plentiful trees.">
     <Components>
       <Village id="castle_village_comp_EW1_1" village_type="VillageType.europe_horse_ranch" hearth="166" trade_bound="Settlement.castle_EW1" bound="Settlement.castle_EW1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -931,7 +931,7 @@
     </CommonAreas>
   </Settlement>
   <!-- City named after Empress Zeona -->
-  <Settlement id="town_EW2" name="{=Settlements.Settlement.name.town_EW2}Zeonica" owner="Faction.clan_empire_west_1" posX="412.408" posY="287.626" culture="Culture.empire" prosperity="4500" gate_posX="416.8959" gate_posY="289.4483">
+  <Settlement id="town_EW2" name="{=Settlements.Settlement.name.town_EW2}Venice" owner="Faction.clan_empire_west_1" posX="412.408" posY="287.626" culture="Culture.empire" prosperity="4500" gate_posX="416.8959" gate_posY="289.4483">
     <Components>
       <Town id="town_comp_EW2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_empire_town" gate_rotation="0.808" />
     </Components>
@@ -1067,7 +1067,7 @@
   </Settlement>
   <!-- Ortysia sits on a low-lying delta near the end of the lake. Reed-beds, like Itil or Astrakhan -->
   <!-- quailmarsh -->
-  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Ortysia" owner="Faction.clan_empire_west_2" posX="304.702" posY="331.418" culture="Culture.empire" prosperity="5600" gate_posX="306.2194" gate_posY="334.3485">
+  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Granada" owner="Faction.clan_empire_west_2" posX="304.702" posY="331.418" culture="Culture.empire" prosperity="5600" gate_posX="306.2194" gate_posY="334.3485">
     <Components>
       <Town id="town_comp_EW4" is_castle="false" level="2" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1113,7 +1113,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_3" name="{=Settlements.Settlement.name.village_EW4_3}Vinela" posX="340.289" posY="324.207" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_3}Vinela sits on the northern shores of Lake Perasos. The lake is now freshwater, but long ago the basin has cut off from the sea, and ample salt deposits can be found along its shores.">
+  <Settlement id="village_EW4_3" name="{=Settlements.Settlement.name.village_EW4_3}Rome" posX="340.289" posY="324.207" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_3}Vinela sits on the northern shores of Lake Perasos. The lake is now freshwater, but long ago the basin has cut off from the sea, and ample salt deposits can be found along its shores.">
     <Components>
       <Village id="village_comp_EW4_3" village_type="VillageType.salt_mine" hearth="295" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1126,7 +1126,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Garengolia" posX="305.884" posY="349.945" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia sits on high land looking over Lake Perasos and the River Gavys. The region is warm but well-watered by rain, and is a main source of the southern Empire's wheat.">
+  <Settlement id="village_EW4_4" name="{=Settlements.Settlement.name.village_EW4_4}Zaragoza" posX="305.884" posY="349.945" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_4}Garengolia sits on high land looking over Lake Perasos and the River Gavys. The region is warm but well-watered by rain, and is a main source of the southern Empire's wheat.">
     <Components>
       <Village id="village_comp_EW4_4" village_type="VillageType.silver_mine" hearth="295" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1141,7 +1141,7 @@
   </Settlement>
   <!-- Imperial subfaction 2 begins -->
   <!-- Amytatis and Bostrum, clan 4 patriarch and faction 2 leader, soldier's soldier -->
-  <Settlement id="town_EW5" name="{=Settlements.Settlement.name.town_EW5}Amitatys" owner="Faction.clan_empire_west_4" posX="441.84" posY="352.923" culture="Culture.empire" prosperity="4400" gate_posX="442.959" gate_posY="357.131">
+  <Settlement id="town_EW5" name="{=Settlements.Settlement.name.town_EW5}Vienna" owner="Faction.clan_empire_west_4" posX="441.84" posY="352.923" culture="Culture.empire" prosperity="4400" gate_posX="442.959" gate_posY="357.131">
     <Components>
       <Town id="town_comp_EW5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1425,7 +1425,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES6_1" name="{=Settlements.Settlement.name.castle_village_ES6_1}Sestadeim" posX="503.801" posY="349.47" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES6_1}Choronia sits on the wooded eastern slopes of Mount Tanon, an extinct volcano overlooking Lake Perasos. The black soil is well-suited to the growing of wheat.">
+  <Settlement id="castle_village_ES6_1" name="{=Settlements.Settlement.name.castle_village_ES6_1}Krakow" posX="503.801" posY="349.47" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES6_1}Choronia sits on the wooded eastern slopes of Mount Tanon, an extinct volcano overlooking Lake Perasos. The black soil is well-suited to the growing of wheat.">
     <Components>
       <Village id="castle_village_comp_ES6_1" village_type="VillageType.silver_mine" hearth="158" gate_rotation="0.008" trade_bound="Settlement.castle_ES6" bound="Settlement.castle_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1532,7 +1532,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Tegresos" posX="661.634" posY="293.11" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits alongside the Chlosonys river, a short but fast-flowing mountain stream flowing into Lake Perasos. This region, where the settled imperial lands slowly give way to steppe, is known for the quality of its sheep.">
+  <Settlement id="village_ES1_3" name="{=Settlements.Settlement.name.village_ES1_3}Kahramanmaras" posX="661.634" posY="293.11" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES1_3}Tegresos sits alongside the Chlosonys river, a short but fast-flowing mountain stream flowing into Lake Perasos. This region, where the settled imperial lands slowly give way to steppe, is known for the quality of its sheep.">
     <Components>
       <Village id="village_comp_ES1_3" village_type="VillageType.sheep_farm" hearth="231" gate_rotation="0.008" trade_bound="Settlement.town_ES1" bound="Settlement.town_ES1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1634,7 +1634,7 @@
   </Settlement>
   <!-- Akropora and Halmor, belong to clan 5 varros-->
   <!-- High ford-->
-  <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Poros" owner="Faction.clan_empire_south_2" posX="471.018" posY="269.821" culture="Culture.empire" prosperity="4500" gate_posX="472.3768" gate_posY="268.0157">
+  <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Athens" owner="Faction.clan_empire_south_2" posX="471.018" posY="269.821" culture="Culture.empire" prosperity="4500" gate_posX="472.3768" gate_posY="268.0157">
     <Components>
       <Town id="town_comp_ES3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1693,7 +1693,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Lycaron" owner="Faction.clan_empire_south_1" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
+  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Belgrade" owner="Faction.clan_empire_south_1" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
     <Components>
       <Town id="town_comp_ES4" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1812,7 +1812,7 @@
     </CommonAreas>
   </Settlement>
   <!-- vicium and danustika, eastern, clan 9 - brooders -->
-  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Phycaon" owner="Faction.clan_empire_south_6" posX="566.24" posY="347.43" culture="Culture.empire" prosperity="2600" gate_posX="566.696" gate_posY="345.217">
+  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Constantinople (Istanbul)" owner="Faction.clan_empire_south_6" posX="566.24" posY="347.43" culture="Culture.empire" prosperity="2600" gate_posX="566.696" gate_posY="345.217">
     <Components>
       <Town id="town_comp_ES6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508" />
     </Components>
@@ -3586,7 +3586,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Sargot, from Calradic Sargythea, Right Whale bay-->
-  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Sargot" owner="Faction.clan_vlandia_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
+  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Bordeaux" owner="Faction.clan_vlandia_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
     <Components>
       <Town id="town_comp_V1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.378" />
     </Components>
@@ -3961,7 +3961,7 @@
     </CommonAreas>
   </Settlement>
   <!-- -->
-  <Settlement id="town_V7" name="{=Settlements.Settlement.name.town_V7}Charas" owner="Faction.clan_vlandia_4" posX="182.189" posY="338.675" culture="Culture.vlandia" prosperity="3000" gate_posX="184.4817" gate_posY="342.4593">
+  <Settlement id="town_V7" name="{=Settlements.Settlement.name.town_V7}Lisbon" owner="Faction.clan_vlandia_4" posX="182.189" posY="338.675" culture="Culture.vlandia" prosperity="3000" gate_posX="184.4817" gate_posY="342.4593">
     <Components>
       <Town id="town_comp_V7" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
