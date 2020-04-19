@@ -1,0 +1,1 @@
+yName/ModuleData/spcultures_yName.xml: Cultures.Culture.name, Cultures.Culture.text

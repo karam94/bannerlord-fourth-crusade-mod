@@ -1,0 +1,23 @@
+<Module>
+  <Name value="I Name"/>
+  <Id value="yName"/>
+   <Version value="v1.1.0"/>
+   <SingleplayerModule value="true"/>
+   <MultiplayerModule value="false"/>
+   <Official value="false" />
+   <DependedModules>
+     <DependedModule Id="Native"/>
+   </DependedModules>
+   <SubModules>
+   </SubModules>
+   <Xmls>
+	 <XmlNode>                
+	   <XmlName id="SPCultures" path="spcultures_yName"/>
+		 <IncludedGameTypes>
+		   <GameType value = "Campaign"/>
+		   <GameType value = "CampaignStoryMode"/>
+		   <GameType value = "CustomGame"/>
+		 </IncludedGameTypes>
+	 </XmlNode>   
+   </Xmls>
+</Module>
