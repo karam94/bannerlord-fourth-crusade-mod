@@ -2802,7 +2802,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tamnuh Castle" owner="Faction.clan_aserai_8" posX="650.405" posY="210.393" culture="Culture.aserai" gate_posX="649.2784" gate_posY="211.1711">
+  <Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tripoli" owner="Faction.clan_aserai_8" posX="650.405" posY="210.393" culture="Culture.aserai" gate_posX="649.2784" gate_posY="211.1711">
     <Components>
       <Town id="castle_comp_A8" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2812,7 +2812,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Tamnuh" posX="641.98" posY="241.732" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A8_1}Tamnuh sits in a small depression as the narrow plain by the Bahr al-Yeshm lake rises to meet the ridges of the Jejara Escarpment. Clay can be gathered from the local wadis.">
+  <Settlement id="castle_village_A8_1" name="{=Settlements.Settlement.name.castle_village_A8_1}Antakya (Antioch)" posX="641.98" posY="241.732" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A8_1}Tamnuh sits in a small depression as the narrow plain by the Bahr al-Yeshm lake rises to meet the ridges of the Jejara Escarpment. Clay can be gathered from the local wadis.">
     <Components>
       <Village id="castle_village_comp_A8_1" village_type="VillageType.clay_mine" hearth="352" gate_rotation="0.008" trade_bound="Settlement.castle_A8" bound="Settlement.castle_A8" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2921,7 +2921,7 @@
     </CommonAreas>
   </Settlement>
   <!-- deep oasis town -->
-  <Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Husn Fulq" owner="Faction.clan_aserai_2" posX="686.263" posY="234.343" culture="Culture.aserai" prosperity="4200" gate_posX="686.8181" gate_posY="236.229">
+  <Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Damascus" owner="Faction.clan_aserai_2" posX="686.263" posY="234.343" culture="Culture.aserai" prosperity="4200" gate_posX="686.8181" gate_posY="236.229">
     <Components>
       <Town id="town_comp_A2" is_castle="false" level="3" background_crop_position="0.235" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.808" />
     </Components>
@@ -2954,7 +2954,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A2_2" name="{=Settlements.Settlement.name.village_A2_2}Abou Khih" posX="706.23" posY="202.192" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_2}Abu Khih lies in the western branch of the Jebal Tamar, where the dry winds of the Nahasa meet warm sea breezes from the west. Villagers trap rainwater in the hills with dams and irrigate oasis gardens of date palms.">
+  <Settlement id="village_A2_2" name="{=Settlements.Settlement.name.village_A2_2}Homs" posX="706.23" posY="202.192" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_2}Abu Khih lies in the western branch of the Jebal Tamar, where the dry winds of the Nahasa meet warm sea breezes from the west. Villagers trap rainwater in the hills with dams and irrigate oasis gardens of date palms.">
     <Components>
       <Village id="village_comp_A2_2" village_type="VillageType.date_farm" hearth="297" trade_bound="Settlement.town_A2" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2967,7 +2967,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Hoqqa" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
+  <Settlement id="village_A2_3" name="{=Settlements.Settlement.name.village_A2_3}Aleppo" posX="725.889" posY="249.251" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A2_3}Hoqqa and its neighbor Lamesa lie inland of the Jebal Tamar hills, in one of the last pockets of oasis agriculture before the barren wastes of the Nahasa. The villagers raise horses, grazing them in the grass that grows briefly after the spring rains, supplemented for the rest of the year by a mash of grain and dates.">
     <Components>
       <Village id="village_comp_A2_3" village_type="VillageType.desert_horse_ranch" hearth="243" trade_bound="Settlement.town_A2" bound="Settlement.town_A2" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3059,7 +3059,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A4_1" name="{=Settlements.Settlement.name.village_A4_1}Qablab" posX="591.506" posY="153.62" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_1}Qablab sits on the western edges of Lake Perasos. Though the lake is now freshwater, long ago it was a landlocked sea, and salt deposits can easily be found and mined near the shoreline.">
+  <Settlement id="village_A4_1" name="{=Settlements.Settlement.name.village_A4_1}Jaffa" posX="591.506" posY="153.62" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_1}Qablab sits on the western edges of Lake Perasos. Though the lake is now freshwater, long ago it was a landlocked sea, and salt deposits can easily be found and mined near the shoreline.">
     <Components>
       <Village id="village_comp_A4_1" village_type="VillageType.salt_mine" hearth="502" gate_rotation="0.208" trade_bound="Settlement.town_A4" bound="Settlement.town_A4" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3072,7 +3072,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A4_2" name="{=Settlements.Settlement.name.village_A4_2}Mossom" posX="630.013" posY="167.928" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_2}Mossom sits on the shores of Lake Perasos. Although the lake is now freshwater, aeons ago it was a landlocked sea, and ancient salt deposits can still be found and mined.">
+  <Settlement id="village_A4_2" name="{=Settlements.Settlement.name.village_A4_2}Acre" posX="630.013" posY="167.928" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_2}Mossom sits on the shores of Lake Perasos. Although the lake is now freshwater, aeons ago it was a landlocked sea, and ancient salt deposits can still be found and mined.">
     <Components>
       <Village id="village_comp_A4_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" trade_bound="Settlement.town_A4" bound="Settlement.town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3085,7 +3085,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A8_2" name="{=Settlements.Settlement.name.castle_village_A8_2}Kuqa" posX="652.93" posY="189.194" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_3}Kuqa sits on the coastal plain south of Lake Perasos. Rocky outcrops here trap runoff from the Jejara Escarpment to the north, allowing oasis gardens of date palms and other crops.">
+  <Settlement id="castle_village_A8_2" name="{=Settlements.Settlement.name.castle_village_A8_2}Beirut" posX="652.93" posY="189.194" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_3}Kuqa sits on the coastal plain south of Lake Perasos. Rocky outcrops here trap runoff from the Jejara Escarpment to the north, allowing oasis gardens of date palms and other crops.">
     <Components>
       <Village id="castle_village_comp_A8_2" village_type="VillageType.date_farm" hearth="454" gate_rotation="0.108" trade_bound="Settlement.castle_A8" bound="Settlement.castle_A8" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3098,7 +3098,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A4_4" name="{=Settlements.Settlement.name.village_A4_4}Doqa" posX="630.642" posY="182.594" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_4}Doqa is a fishing village on Lake Perasos. Villagers go out in shallow canoes to harvest perch that sometimes grow as long as a man is tall, keeping an eye out for the crocodiles who compete with them for their catch.">
+  <Settlement id="village_A4_4" name="{=Settlements.Settlement.name.village_A4_4}Tyre" posX="630.642" posY="182.594" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A4_4}Doqa is a fishing village on Lake Perasos. Villagers go out in shallow canoes to harvest perch that sometimes grow as long as a man is tall, keeping an eye out for the crocodiles who compete with them for their catch.">
     <Components>
       <Village id="village_comp_A4_4" village_type="VillageType.fisherman" hearth="454" gate_rotation="0.108" trade_bound="Settlement.town_A4" bound="Settlement.town_A4" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3112,7 +3112,7 @@
     </CommonAreas>
   </Settlement>
   <!-- eastern towns -->
-  <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Hubyar" owner="Faction.clan_aserai_3" posX="561.609" posY="119.752" culture="Culture.aserai" prosperity="3200" gate_posX="558.9596" gate_posY="121.2922">
+  <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Cairo" owner="Faction.clan_aserai_3" posX="561.609" posY="119.752" culture="Culture.aserai" prosperity="3200" gate_posX="558.9596" gate_posY="121.2922">
     <Components>
       <Town id="town_comp_A5" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -3315,7 +3315,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Qasira" owner="Faction.clan_aserai_6" posX="490.694" posY="163.097" culture="Culture.aserai" prosperity="3500" gate_posX="489.0013" gate_posY="160.3215">
+  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Alexandria" owner="Faction.clan_aserai_6" posX="490.694" posY="163.097" culture="Culture.aserai" prosperity="3500" gate_posX="489.0013" gate_posY="160.3215">
     <Components>
       <Town id="town_comp_A8" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
     </Components>
