@@ -3362,7 +3362,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Vlandia - 8 towns, 22 villages, 5 castles, 2.75 villages per town, 23% castle ratio -->
-  <Settlement id="castle_V1" name="{=Settlements.Settlement.name.castle_V1}Usanc Castle" owner="Faction.clan_vlandia_8" posX="223.555" posY="357.026" culture="Culture.vlandia" prosperity="537" gate_posX="222.5224" gate_posY="356.4457">
+  <Settlement id="castle_V1" name="{=Settlements.Settlement.name.castle_V1}Chateau Narbonnais" owner="Faction.clan_vlandia_8" posX="223.555" posY="357.026" culture="Culture.vlandia" prosperity="537" gate_posX="222.5224" gate_posY="356.4457">
     <Components>
       <Town id="castle_comp_V1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3372,7 +3372,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_V1_1" name="{=Settlements.Settlement.name.castle_village_V1_1}Usanc" posX="227.085" posY="340.175" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V1_1}Usanc sits near the marshy mouth of the river Amynis. This warm southern land supports the growing of olive trees.">
+  <Settlement id="castle_village_V1_1" name="{=Settlements.Settlement.name.castle_village_V1_1}Toulouse" posX="227.085" posY="340.175" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V1_1}Usanc sits near the marshy mouth of the river Amynis. This warm southern land supports the growing of olive trees.">
     <Components>
       <Village id="castle_village_comp_V1_1" village_type="VillageType.olive_trees" hearth="498" gate_rotation="0.008" trade_bound="Settlement.castle_V1" bound="Settlement.castle_V1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3421,7 +3421,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V3" name="{=Settlements.Settlement.name.castle_V3}Drapand Castle" owner="Faction.clan_vlandia_2" posX="109.383" posY="514.606" prosperity="830" culture="Culture.vlandia" gate_posX="109.7325" gate_posY="513.6299">
+  <Settlement id="castle_V3" name="{=Settlements.Settlement.name.castle_V3}Durham Castle" owner="Faction.clan_vlandia_2" posX="109.383" posY="514.606" prosperity="830" culture="Culture.vlandia" gate_posX="109.7325" gate_posY="513.6299">
     <Components>
       <Town id="castle_comp_V3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3431,7 +3431,7 @@
       <Location id="prison" scene_name="vlandia_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_V3_1" name="{=Settlements.Settlement.name.castle_village_V3_1}Drapand" posX="97.509" posY="489.095" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V3_1}Drapand sits near the tip of Cape Fal, the furthest west point in the Calradian continent. Though the rough waters off the cape make fishing difficult, the varied weather, including warm dry winds from the south, make olive-growing possible.">
+  <Settlement id="castle_village_V3_1" name="{=Settlements.Settlement.name.castle_village_V3_1}Dublin" posX="97.509" posY="489.095" culture="Culture.vlandia" text="{=Settlements.Settlement.text.castle_village_V3_1}Drapand sits near the tip of Cape Fal, the furthest west point in the Calradian continent. Though the rough waters off the cape make fishing difficult, the varied weather, including warm dry winds from the south, make olive-growing possible.">
     <Components>
       <Village id="castle_village_comp_V3_1" village_type="VillageType.olive_trees" hearth="285" gate_rotation="0.258" trade_bound="Settlement.castle_V3" bound="Settlement.castle_V3" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3607,7 +3607,7 @@
     </CommonAreas>
   </Settlement>
   <!-- From the Battanian Caliog, place of Cal -->
-  <Settlement id="village_V1_1" name="{=Settlements.Settlement.name.village_V1_1}Calioc" posX="186.614" posY="391.233" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V1_1}Calioc sits at the mouth of Seavorn river. The cold northern climate and wet coastal lowlands nearby support the growing of flax.">
+  <Settlement id="village_V1_1" name="{=Settlements.Settlement.name.village_V1_1}Dijon" posX="186.614" posY="391.233" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V1_1}Calioc sits at the mouth of Seavorn river. The cold northern climate and wet coastal lowlands nearby support the growing of flax.">
     <Components>
       <Village id="village_comp_V1_1" village_type="VillageType.flax_plant" hearth="132" gate_rotation="0.008" trade_bound="Settlement.town_V1" bound="Settlement.town_V1" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3695,7 +3695,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V2_3" name="{=Settlements.Settlement.name.village_V2_3}Fregian" posX="148.609" posY="494.408" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_3}Fregion sits where the swift-flowing river the Battanians call the Tryn slows in the lowlands and becomes the Trand. The folk of this region harvest the pines and other trees that grow next to the local marshes.">
+  <Settlement id="village_V2_3" name="{=Settlements.Settlement.name.village_V2_3}Nottingham" posX="148.609" posY="494.408" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_3}Fregion sits where the swift-flowing river the Battanians call the Tryn slows in the lowlands and becomes the Trand. The folk of this region harvest the pines and other trees that grow next to the local marshes.">
     <Components>
       <Village id="village_comp_V2_3" village_type="VillageType.flax_plant" hearth="347" gate_rotation="0.008" trade_bound="Settlement.town_V2" bound="Settlement.town_V2" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3723,7 +3723,7 @@
   </Settlement>
   <!-- Vlandian ruling clan 4_1, 2, 7, 13 -->
   <!-- From Calradic Parzeonerea: 'City of He Who Rules By Heaven's Will')-->
-  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}Pravend" owner="Faction.clan_vlandia_2" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
+  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}London" owner="Faction.clan_vlandia_2" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
     <Components>
       <Town id="town_comp_V3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" />
     </Components>
@@ -3744,7 +3744,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Valan's Bay (landing place) -->
-  <Settlement id="castle_village_V3_2" name="{=Settlements.Settlement.name.castle_village_V3_2}Valanby" posX="117.556" posY="500.743" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_1}Valanby sits on a cape overlooking the western ocean. Warm, dry winds from the south have created a small enclave where olives can be grown, and their oil exported throughout the Vlandian lands.">
+  <Settlement id="castle_village_V3_2" name="{=Settlements.Settlement.name.castle_village_V3_2}Manchester" posX="117.556" posY="500.743" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_1}Valanby sits on a cape overlooking the western ocean. Warm, dry winds from the south have created a small enclave where olives can be grown, and their oil exported throughout the Vlandian lands.">
     <Components>
       <Village id="castle_village_comp_V3_2" village_type="VillageType.olive_trees" hearth="280" gate_rotation="0.008" trade_bound="Settlement.castle_V3" bound="Settlement.castle_V3" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3757,7 +3757,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V3_2" name="{=Settlements.Settlement.name.village_V3_2}Rulund" posX="135.887" posY="452.216" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_2}Rulund sits near the mouth of the Trand river. The ocean keeps the winters mild enough to allow the growing of olives, even this far north.">
+  <Settlement id="village_V3_2" name="{=Settlements.Settlement.name.village_V3_2}Cornwall" posX="135.887" posY="452.216" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_2}Rulund sits near the mouth of the Trand river. The ocean keeps the winters mild enough to allow the growing of olives, even this far north.">
     <Components>
       <Village id="village_comp_V3_2" village_type="VillageType.swine_farm" hearth="112" gate_rotation="0.458" trade_bound="Settlement.town_V3" bound="Settlement.town_V3" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3783,7 +3783,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V3_4" name="{=Settlements.Settlement.name.village_V3_4}Palisona" posX="156.43" posY="455.027" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_4}Palisona sits on the southern coast of the Bay of Ostican. Hot winds that come across the ocean from the west during the spring make this surprisingly good land for the growing of olives.">
+  <Settlement id="village_V3_4" name="{=Settlements.Settlement.name.village_V3_4}Portsmouth" posX="156.43" posY="455.027" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V3_4}Palisona sits on the southern coast of the Bay of Ostican. Hot winds that come across the ocean from the west during the spring make this surprisingly good land for the growing of olives.">
     <Components>
       <Village id="village_comp_V3_4" village_type="VillageType.swine_farm" hearth="360" gate_rotation="0.008" trade_bound="Settlement.town_V3" bound="Settlement.town_V3" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3844,7 +3844,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Dirty stream -->
-  <Settlement id="village_V5_1" name="{=Settlements.Settlement.name.village_V5_1}Furbec" posX="121.298" posY="398.974" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_1}Furbec sits overlooking a cove on the rocky Biscan coast of central Vlandia. Though the villagers do some fishing, sheep grazed on the coastal meadows have traditionally been the core of this region's economy.">
+  <Settlement id="village_V5_1" name="{=Settlements.Settlement.name.village_V5_1}Rennes" posX="121.298" posY="398.974" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_1}Furbec sits overlooking a cove on the rocky Biscan coast of central Vlandia. Though the villagers do some fishing, sheep grazed on the coastal meadows have traditionally been the core of this region's economy.">
     <Components>
       <Village id="village_comp_V5_1" village_type="VillageType.vineyard" hearth="488" gate_rotation="0.008" trade_bound="Settlement.town_V5" bound="Settlement.town_V5" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3858,7 +3858,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Pre-Calradic, red -->
-  <Settlement id="village_V5_2" name="{=Settlements.Settlement.name.village_V5_2}Meroc" posX="114.641" posY="388.872" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_2}Meroc is a fishing village near the mouth of the Neur. Villagers harvest a good catch of mullet and bass from the brackish waters of the estuary, as well as flounder and clams from nearby mudflats.">
+  <Settlement id="village_V5_2" name="{=Settlements.Settlement.name.village_V5_2}Nantes" posX="114.641" posY="388.872" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V5_2}Meroc is a fishing village near the mouth of the Neur. Villagers harvest a good catch of mullet and bass from the brackish waters of the estuary, as well as flounder and clams from nearby mudflats.">
     <Components>
       <Village id="village_comp_V5_2" village_type="VillageType.fisherman" hearth="527" trade_bound="Settlement.town_V5" bound="Settlement.town_V5" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3886,7 +3886,7 @@
   </Settlement>
   <!-- House of Arromanc - Clan 3 old Jelkala and Charys, by the sea. 4_3, 4_8, 4_14 -->
   <!-- From the pre-Calradic, jackal's den -->
-  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Jaculan" owner="Faction.clan_vlandia_3" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
+  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Paris" owner="Faction.clan_vlandia_3" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
     <Components>
       <Town id="town_comp_V6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
@@ -3947,7 +3947,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V6_4" name="{=Settlements.Settlement.name.village_V6_4}Chornad" posX="152.551" posY="407.482" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_4}Chornad is a fishing village that sits on a sheltered cove. The sea breezes ensure a mild climate most of the year, and sardines and tuna can be caught in the warm ocean currents coming up from the south, just beyond the headlands.">
+  <Settlement id="village_V6_4" name="{=Settlements.Settlement.name.village_V6_4}Brugge" posX="152.551" posY="407.482" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_4}Chornad is a fishing village that sits on a sheltered cove. The sea breezes ensure a mild climate most of the year, and sardines and tuna can be caught in the warm ocean currents coming up from the south, just beyond the headlands.">
     <Components>
       <Village id="village_comp_V6_4" village_type="VillageType.fisherman" hearth="157" trade_bound="Settlement.town_V6" bound="Settlement.town_V6" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
