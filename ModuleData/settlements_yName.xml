@@ -788,7 +788,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW6" name="{=Settlements.Settlement.name.castle_EW6}Hertogea Castle" owner="Faction.clan_empire_west_8" posX="347.983" posY="391.892" culture="Culture.empire" prosperity="640" gate_posX="346.0122" gate_posY="390.3846">
+  <Settlement id="castle_EW6" name="{=Settlements.Settlement.name.castle_EW6}Neuschwanstein Castle" owner="Faction.clan_empire_west_8" posX="347.983" posY="391.892" culture="Culture.empire" prosperity="640" gate_posX="346.0122" gate_posY="390.3846">
     <Components>
       <Town id="castle_comp_EW6" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.408" />
     </Components>
@@ -1248,7 +1248,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_EW6_4" name="{=Settlements.Settlement.name.village_EW6_4}Leblenion" posX="355.291" posY="377.413" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW6_4}Leblenion sits on the lower slopes of Mount Erythris. Villagers have created terraces on the ridges with the basalt rocks, and grapes grown in the volcanic soil are prized for the strong-tasting wine they yield.">
+  <Settlement id="village_EW6_4" name="{=Settlements.Settlement.name.village_EW6_4}Lindau" posX="355.291" posY="377.413" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW6_4}Leblenion sits on the lower slopes of Mount Erythris. Villagers have created terraces on the ridges with the basalt rocks, and grapes grown in the volcanic soil are prized for the strong-tasting wine they yield.">
     <Components>
       <Village id="village_comp_EW6_4" village_type="VillageType.wheat_farm" hearth="339" trade_bound="Settlement.town_EW6" bound="Settlement.town_EW6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1307,7 +1307,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_ES2_2" name="{=Settlements.Settlement.name.castle_village_ES2_2}Metachia" posX="670.454" posY="343.708" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES2_2}Metachia is the center of a rural district on the southern shores of Lake Tanaesis, located amid oak scrub and woodland suitable for the cultivation of mulberry trees used in silk production.">
+  <Settlement id="castle_village_ES2_2" name="{=Settlements.Settlement.name.castle_village_ES2_2}Erzurum" posX="670.454" posY="343.708" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES2_2}Metachia is the center of a rural district on the southern shores of Lake Tanaesis, located amid oak scrub and woodland suitable for the cultivation of mulberry trees used in silk production.">
     <Components>
       <Village id="castle_village_comp_ES2_2" village_type="VillageType.silk_plant" hearth="258" gate_rotation="0.308" trade_bound="Settlement.castle_ES2" bound="Settlement.castle_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1593,7 +1593,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES2_2" name="{=Settlements.Settlement.name.village_ES2_2}Gorcorys" posX="555.62" posY="265.223" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_2}Gorcorys lies on the western end of the Tripotamos plain, north of Lake Perasos, just before it rises into barren highlands. The dark, well-watered soil here makes this region an imperial breadbasket.">
+  <Settlement id="village_ES2_2" name="{=Settlements.Settlement.name.village_ES2_2}Alanya" posX="555.62" posY="265.223" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_2}Gorcorys lies on the western end of the Tripotamos plain, north of Lake Perasos, just before it rises into barren highlands. The dark, well-watered soil here makes this region an imperial breadbasket.">
     <Components>
       <Village id="village_comp_ES2_2" village_type="VillageType.wheat_farm" hearth="355" trade_bound="Settlement.town_ES2" bound="Settlement.town_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1606,7 +1606,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES2_3" name="{=Settlements.Settlement.name.village_ES2_3}Avalyps" posX="586.185" posY="276.15" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_3}Avalyps lies on the Tripotamos plain, near the Sethys river. The dark, well-watered soil here makes this region an imperial breadbasket.">
+  <Settlement id="village_ES2_3" name="{=Settlements.Settlement.name.village_ES2_3}Ankara" posX="586.185" posY="276.15" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_3}Avalyps lies on the Tripotamos plain, near the Sethys river. The dark, well-watered soil here makes this region an imperial breadbasket.">
     <Components>
       <Village id="village_comp_ES2_3" village_type="VillageType.wheat_farm" hearth="355" trade_bound="Settlement.town_ES2" bound="Settlement.town_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1619,7 +1619,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES2_4" name="{=Settlements.Settlement.name.village_ES2_4}Alision" posX="548.257" posY="246.249" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_4}Alision sits beneath an outcrop of limestone, jutting off from the Tripotamian plain. There are rich salt deposits in this region, deposited long ago when the lake was a saline landlocked inner sea.">
+  <Settlement id="village_ES2_4" name="{=Settlements.Settlement.name.village_ES2_4}Antalya" posX="548.257" posY="246.249" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES2_4}Alision sits beneath an outcrop of limestone, jutting off from the Tripotamian plain. There are rich salt deposits in this region, deposited long ago when the lake was a saline landlocked inner sea.">
     <Components>
       <Village id="village_comp_ES2_4" village_type="VillageType.salt_mine" hearth="355" trade_bound="Settlement.town_ES2" bound="Settlement.town_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1752,7 +1752,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Onira" owner="Faction.clan_empire_south_1" posX="645.315" posY="325.385" culture="Culture.empire" prosperity="3400" gate_posX="644.1401" gate_posY="327.315">
+  <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Savas" owner="Faction.clan_empire_south_1" posX="645.315" posY="325.385" culture="Culture.empire" prosperity="3400" gate_posX="644.1401" gate_posY="327.315">
     <Components>
       <Town id="town_comp_ES5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1798,7 +1798,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES5_3" name="{=Settlements.Settlement.name.village_ES5_3}Parasemnos" posX="645.093" posY="305.478" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES5_3}Parasemnos sits at the head of a pass that descends from the plateaus of the imperial highlands to the basin of the Ophthys. Though the steep ravines of the region limit cultivation, wheat grows well in the region's dark soil.">
+  <Settlement id="village_ES5_3" name="{=Settlements.Settlement.name.village_ES5_3}Malatya" posX="645.093" posY="305.478" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES5_3}Parasemnos sits at the head of a pass that descends from the plateaus of the imperial highlands to the basin of the Ophthys. Though the steep ravines of the region limit cultivation, wheat grows well in the region's dark soil.">
     <Components>
       <Village id="village_comp_ES5_3" village_type="VillageType.trapper" hearth="282" trade_bound="Settlement.town_ES5" bound="Settlement.town_ES5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -2589,7 +2589,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Aserai - seven towns -->
-  <Settlement id="castle_A1" name="{=Settlements.Settlement.name.castle_A1}Tubilis Castle" owner="Faction.clan_aserai_1" posX="274.181" posY="272.167" culture="Culture.aserai" gate_posX="275.4893" gate_posY="271.7934">
+  <Settlement id="castle_A1" name="{=Settlements.Settlement.name.castle_A1}Ceuta" owner="Faction.clan_aserai_1" posX="274.181" posY="272.167" culture="Culture.aserai" gate_posX="275.4893" gate_posY="271.7934">
     <Components>
       <Town id="castle_comp_A1" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2599,7 +2599,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A1_1" name="{=Settlements.Settlement.name.castle_village_A1_1}Tubilis" posX="251.632" posY="263.255" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A1_1}Tubilis is a fishing village where the river that the Aserai call the Gabsa reaches the sea. Villagers sail out onto the calm waters of the gulf to seek tuna, sardines, and shark.">
+  <Settlement id="castle_village_A1_1" name="{=Settlements.Settlement.name.castle_village_A1_1}Marrakesh" posX="251.632" posY="263.255" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A1_1}Tubilis is a fishing village where the river that the Aserai call the Gabsa reaches the sea. Villagers sail out onto the calm waters of the gulf to seek tuna, sardines, and shark.">
     <Components>
       <Village id="castle_village_comp_A1_1" village_type="VillageType.fisherman" hearth="148" trade_bound="Settlement.castle_A1" bound="Settlement.castle_A1" background_crop_position="0.214" background_mesh="menu_aserai_village_1" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2648,7 +2648,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A3" name="{=Settlements.Settlement.name.castle_A3}Ain Baliq Castle" owner="Faction.clan_aserai_1" posX="323.167" posY="186.28" culture="Culture.aserai" prosperity="980" gate_posX="322.2627" gate_posY="187.7981">
+  <Settlement id="castle_A3" name="{=Settlements.Settlement.name.castle_A3}Constantine Castle" owner="Faction.clan_aserai_1" posX="323.167" posY="186.28" culture="Culture.aserai" prosperity="980" gate_posX="322.2627" gate_posY="187.7981">
     <Components>
       <Town id="castle_comp_A3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2658,7 +2658,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A3_1" name="{=Settlements.Settlement.name.castle_village_A3_1}Ain Baliq" posX="283.666" posY="187.29" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A3_1}Ain Baliq sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+  <Settlement id="castle_village_A3_1" name="{=Settlements.Settlement.name.castle_village_A3_1}Tlemcen" posX="283.666" posY="187.29" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A3_1}Ain Baliq sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
     <Components>
       <Village id="castle_village_comp_A3_1" village_type="VillageType.desert_horse_ranch" hearth="375" trade_bound="Settlement.castle_A3" bound="Settlement.castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2671,7 +2671,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A3_2" name="{=Settlements.Settlement.name.castle_village_A3_2}Aiwalitas" posX="344.876" posY="192.836" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A3_2}Aiwalitas sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
+  <Settlement id="castle_village_A3_2" name="{=Settlements.Settlement.name.castle_village_A3_2}Bougie" posX="344.876" posY="192.836" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A3_2}Aiwalitas sits in the rocky edges of the Jebal Tamar hills. The surrounding lands, though dry, produce enough grass in the spring to allow the breeding of horses.">
     <Components>
       <Village id="castle_village_comp_A3_2" village_type="VillageType.silver_mine" hearth="375" trade_bound="Settlement.castle_A3" bound="Settlement.castle_A3" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2766,7 +2766,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Uqba Castle" owner="Faction.clan_aserai_7" posX="357.485" posY="216.349" culture="Culture.aserai" prosperity="550" gate_posX="358.5762" gate_posY="214.9592">
+  <Settlement id="castle_A7" name="{=Settlements.Settlement.name.castle_A7}Tunis" owner="Faction.clan_aserai_7" posX="357.485" posY="216.349" culture="Culture.aserai" prosperity="550" gate_posX="358.5762" gate_posY="214.9592">
     <Components>
       <Town id="castle_comp_A7" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -2776,7 +2776,7 @@
       <Location id="prison" scene_name="aserai_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_A7_1" name="{=Settlements.Settlement.name.castle_village_A7_1}Uqba" posX="379.619" posY="220.607" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_1}Uqba sits at the mouth of the Scorched Gates, the pass where the Damar River pierces the limestone ridges between the Nahasa desert and the lake of Bahr al-Yeshm. The land is known for its fine date-palms.">
+  <Settlement id="castle_village_A7_1" name="{=Settlements.Settlement.name.castle_village_A7_1}Kairouan" posX="379.619" posY="220.607" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_1}Uqba sits at the mouth of the Scorched Gates, the pass where the Damar River pierces the limestone ridges between the Nahasa desert and the lake of Bahr al-Yeshm. The land is known for its fine date-palms.">
     <Components>
       <Village id="castle_village_comp_A7_1" village_type="VillageType.date_farm" hearth="477" trade_bound="Settlement.castle_A7" bound="Settlement.castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2789,7 +2789,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Qabes" posX="322.492" posY="210.122" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_2}Bunqaz is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
+  <Settlement id="castle_village_A7_2" name="{=Settlements.Settlement.name.castle_village_A7_2}Alger" posX="322.492" posY="210.122" culture="Culture.aserai" text="{=Settlements.Settlement.text.castle_village_A7_2}Bunqaz is a village on the right bank of the Damar River, which waters the arid south. The river widens and slows near the lake, and can be used to irrigate fine crops of wheat.">
     <Components>
       <Village id="castle_village_comp_A7_2" village_type="VillageType.flax_plant" hearth="477" trade_bound="Settlement.castle_A7" bound="Settlement.castle_A7" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2868,7 +2868,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A1_1" name="{=Settlements.Settlement.name.village_A1_1}Tasheba" posX="314.587" posY="256.302" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_1}Tasheba sits by the Gulf of Charas, in the coastal lands that the Aserai call the Retana. Fishermen go out in the Gulf, gentle and calm for most of the year, for tuna and sardines.">
+  <Settlement id="village_A1_1" name="{=Settlements.Settlement.name.village_A1_1}Badis" posX="314.587" posY="256.302" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_1}Tasheba sits by the Gulf of Charas, in the coastal lands that the Aserai call the Retana. Fishermen go out in the Gulf, gentle and calm for most of the year, for tuna and sardines.">
     <Components>
       <Village id="village_comp_A1_1" village_type="VillageType.fisherman" hearth="300" trade_bound="Settlement.town_A1" bound="Settlement.town_A1" background_crop_position="0.145" background_mesh="menu_aserai_village_2" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2881,7 +2881,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A1_2" name="{=Settlements.Settlement.name.village_A1_2}Baq" posX="296.806" posY="241.59" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_2}Baq sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
+  <Settlement id="village_A1_2" name="{=Settlements.Settlement.name.village_A1_2}Taza" posX="296.806" posY="241.59" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_2}Baq sits just inland of the Gulf of Charas. Prevailing easterly winds from the desert means that the land grows dry quickly, but this allows the cultivation of aromatic berries ground up for spices.">
     <Components>
       <Village id="village_comp_A1_2" village_type="VillageType.olive_trees" hearth="235" trade_bound="Settlement.town_A1" bound="Settlement.town_A1" background_crop_position="0.308" background_mesh="menu_aserai_village_3" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2894,7 +2894,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_A1_2" name="{=Settlements.Settlement.name.castle_village_A1_2}Fanab" posX="272.077" posY="253.368" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_3}Fanab sits on the Gulf of Charas, in the coastal strip that the Aserai call the Retana. Prevailing easterly winds from the desert keep the land relatively dry and warm, allowing for the cultivation of date palms.">
+  <Settlement id="castle_village_A1_2" name="{=Settlements.Settlement.name.castle_village_A1_2}Taroudant" posX="272.077" posY="253.368" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_3}Fanab sits on the Gulf of Charas, in the coastal strip that the Aserai call the Retana. Prevailing easterly winds from the desert keep the land relatively dry and warm, allowing for the cultivation of date palms.">
     <Components>
       <Village id="castle_village_comp_A1_2" village_type="VillageType.flax_plant" hearth="137" trade_bound="Settlement.castle_A1" bound="Settlement.castle_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -2907,7 +2907,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_A1_4" name="{=Settlements.Settlement.name.village_A1_4}Hiblet" posX="279.034" posY="231.426" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_4}Hiblet sits slightly inland from the Gulf of Charas, in the coastal strip that the Aserai call the Retana. Despite its proximity to the sea, prevailing easterly winds from the desert keep the land relatively dry and warm, allowing for the cultivation of date palms.">
+  <Settlement id="village_A1_4" name="{=Settlements.Settlement.name.village_A1_4}Fez" posX="279.034" posY="231.426" culture="Culture.aserai" text="{=Settlements.Settlement.text.village_A1_4}Hiblet sits slightly inland from the Gulf of Charas, in the coastal strip that the Aserai call the Retana. Despite its proximity to the sea, prevailing easterly winds from the desert keep the land relatively dry and warm, allowing for the cultivation of date palms.">
     <Components>
       <Village id="village_comp_A1_4" village_type="VillageType.date_farm" hearth="183" trade_bound="Settlement.town_A1" bound="Settlement.town_A1" background_crop_position="0.141" background_mesh="menu_aserai_village_4" wait_mesh="wait_aserai_village" castle_background_mesh="gui_bg_castle_aserai" />
     </Components>
@@ -3669,7 +3669,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V2_1" name="{=Settlements.Settlement.name.village_V2_1}Bayonne" posX="189.148" posY="486.143" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_1}Mareiven lies in the gentle wooded hills of the Trand valley. The people of this district are largely foresters.">
+  <Settlement id="village_V2_1" name="{=Settlements.Settlement.name.village_V2_1}Worms" posX="189.148" posY="486.143" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V2_1}Mareiven lies in the gentle wooded hills of the Trand valley. The people of this district are largely foresters.">
     <Components>
       <Village id="village_comp_V2_1" village_type="VillageType.lumberjack" hearth="216" gate_rotation="0.008" trade_bound="Settlement.town_V2" bound="Settlement.town_V2" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3934,7 +3934,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Alderstand-->
-  <Settlement id="village_V6_3" name="{=Settlements.Settlement.name.village_V6_3}Alorstan" posX="137.567" posY="394.109" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_3}Alorstan sits in the warm green plains in the heart of the Vlandian kingdom, along the Neur river. Olive trees thrive in the mild climate.">
+  <Settlement id="village_V6_3" name="{=Settlements.Settlement.name.village_V6_3}Angers" posX="137.567" posY="394.109" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V6_3}Alorstan sits in the warm green plains in the heart of the Vlandian kingdom, along the Neur river. Olive trees thrive in the mild climate.">
     <Components>
       <Village id="village_comp_V6_3" village_type="VillageType.olive_trees" hearth="157" trade_bound="Settlement.town_V6" bound="Settlement.town_V6" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -3994,7 +3994,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_V7_2" name="{=Settlements.Settlement.name.village_V7_2}Vesin" posX="165.403" posY="345.646" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V7_2}The village of Vesin lies hidden in a cleft of the cliffs overlooking the Bay of Charas. The soil is rocky but good for the growing of olives, the region's main product.">
+  <Settlement id="village_V7_2" name="{=Settlements.Settlement.name.village_V7_2}Coimbra" posX="165.403" posY="345.646" culture="Culture.vlandia" text="{=Settlements.Settlement.text.village_V7_2}The village of Vesin lies hidden in a cleft of the cliffs overlooking the Bay of Charas. The soil is rocky but good for the growing of olives, the region's main product.">
     <Components>
       <Village id="village_comp_V7_2" village_type="VillageType.olive_trees" hearth="169" gate_rotation="0.008" trade_bound="Settlement.town_V7" bound="Settlement.town_V7" background_crop_position="0.0" background_mesh="gui_bg_village_vlanda" wait_mesh="wait_vlandia_village" castle_background_mesh="gui_bg_castle_vlanda" />
     </Components>
@@ -4222,7 +4222,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B5" name="{=Settlements.Settlement.name.castle_B5}Rhemtoil Castle" owner="Faction.clan_battania_1" posX="315.343" posY="446.698" culture="Culture.battania" prosperity="860" gate_posX="313.89" gate_posY="448.3491">
+  <Settlement id="castle_B5" name="{=Settlements.Settlement.name.castle_B5}Sanssouci Palace" owner="Faction.clan_battania_1" posX="315.343" posY="446.698" culture="Culture.battania" prosperity="860" gate_posX="313.89" gate_posY="448.3491">
     <Components>
       <Town id="castle_comp_B5" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4245,7 +4245,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_B5_2" name="{=Settlements.Settlement.name.castle_village_B5_2}Claig Ban" posX="338.171" posY="443.755" culture="Culture.battania" text="{=Settlements.Settlement.text.castle_village_B5_2}Claig Ban sits overlooking the Cafalcombe valley, beneath the dark basalt Rock of Banseth. The villagers here gather clay from the mountain streams to supplement their farming incomes.">
+  <Settlement id="castle_village_B5_2" name="{=Settlements.Settlement.name.castle_village_B5_2}Gorlitz" posX="338.171" posY="443.755" culture="Culture.battania" text="{=Settlements.Settlement.text.castle_village_B5_2}Claig Ban sits overlooking the Cafalcombe valley, beneath the dark basalt Rock of Banseth. The villagers here gather clay from the mountain streams to supplement their farming incomes.">
     <Components>
       <Village id="castle_village_comp_B5_2" village_type="VillageType.clay_mine" hearth="347" gate_rotation="0.008" trade_bound="Settlement.castle_B5" bound="Settlement.castle_B5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4362,7 +4362,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Mengus' inheritance -->
-  <Settlement id="village_B1_1" name="{=Settlements.Settlement.name.village_B1_1}Dalmengus" posX="304.124" posY="461.07" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B1_1}Dalmengus sits in the dense woods of the upper Cafal valley. The soil of this land is not suited to most crops, by the local woodsmen are adept in harvesting fir and pine.">
+  <Settlement id="village_B1_1" name="{=Settlements.Settlement.name.village_B1_1}Leipzig" posX="304.124" posY="461.07" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B1_1}Dalmengus sits in the dense woods of the upper Cafal valley. The soil of this land is not suited to most crops, by the local woodsmen are adept in harvesting fir and pine.">
     <Components>
       <Village id="village_comp_B1_1" village_type="VillageType.wheat_farm" hearth="131" gate_rotation="0.008" trade_bound="Settlement.town_B1" bound="Settlement.town_B1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4390,7 +4390,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Great ridge -->
-  <Settlement id="village_B1_3" name="{=Settlements.Settlement.name.village_B1_3}Beglomuar" posX="301.07" posY="435.872" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B1_3}Beglomuar sits in a shallow wooded valley in the misty lower reaches of the Cafalcombe. Iron ore is plentiful in the nearby hills.">
+  <Settlement id="village_B1_3" name="{=Settlements.Settlement.name.village_B1_3}Potsdam" posX="301.07" posY="435.872" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B1_3}Beglomuar sits in a shallow wooded valley in the misty lower reaches of the Cafalcombe. Iron ore is plentiful in the nearby hills.">
     <Components>
       <Village id="village_comp_B1_3" village_type="VillageType.iron_mine" hearth="480" gate_rotation="0.008" trade_bound="Settlement.town_B1" bound="Settlement.town_B1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4525,7 +4525,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_B3_1" name="{=Settlements.Settlement.name.village_B3_1}Bog Beth" posX="221.658" posY="492.377" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B3_1}Bog Beth sits on the sandy lowlands of the lower Seavorn. Villagers grow vineyards and orchards on the hillsides.">
+  <Settlement id="village_B3_1" name="{=Settlements.Settlement.name.village_B3_1}Kyffhauser" posX="221.658" posY="492.377" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B3_1}Bog Beth sits on the sandy lowlands of the lower Seavorn. Villagers grow vineyards and orchards on the hillsides.">
     <Components>
       <Village id="village_comp_B3_1" village_type="VillageType.trapper" hearth="550" trade_bound="Settlement.town_B3" bound="Settlement.town_B3" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4628,7 +4628,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_B4_3" name="{=Settlements.Settlement.name.village_B4_3}Fenon Tryn" posX="317.477" posY="463.681" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B4_3}Fenon Tryn lies near the source of river that the Battanians call the Tryn. Limestone hills, watered by ocean breezes from the west, provide fine grazing for cattle.">
+  <Settlement id="village_B4_3" name="{=Settlements.Settlement.name.village_B4_3}Cottbus" posX="317.477" posY="463.681" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B4_3}Fenon Tryn lies near the source of river that the Battanians call the Tryn. Limestone hills, watered by ocean breezes from the west, provide fine grazing for cattle.">
     <Components>
       <Village id="village_comp_B4_3" village_type="VillageType.cattle_farm" hearth="328" trade_bound="Settlement.town_B4" bound="Settlement.town_B4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4687,7 +4687,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_B5_1" name="{=Settlements.Settlement.name.village_B5_1}Durn" posX="218.118" posY="436.668" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_1}Durn sits in low-lying marshes formed as the Seavorn is squeezed by the Menaig cataracts. The villagers here gather clay for the potters of Pen Cannoc and other nearby towns.">
+  <Settlement id="village_B5_1" name="{=Settlements.Settlement.name.village_B5_1}Ghent" posX="218.118" posY="436.668" culture="Culture.battania" text="{=Settlements.Settlement.text.village_B5_1}Durn sits in low-lying marshes formed as the Seavorn is squeezed by the Menaig cataracts. The villagers here gather clay for the potters of Pen Cannoc and other nearby towns.">
     <Components>
       <Village id="village_comp_B5_1" village_type="VillageType.clay_mine" hearth="530" gate_rotation="0.308" trade_bound="Settlement.town_B5" bound="Settlement.town_B5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_battania_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -5106,7 +5106,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K8_2" name="{=Settlements.Settlement.name.castle_village_K8_2}Gereden" posX="703.419" posY="321.663" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K2_3}Gereden and its outlying hamlets on the southern end of the Devseg plateau. Though rough country, it is known for the fine clay that can be gathered from the ravines.">
+  <Settlement id="castle_village_K8_2" name="{=Settlements.Settlement.name.castle_village_K8_2}Bitlis" posX="703.419" posY="321.663" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K2_3}Gereden and its outlying hamlets on the southern end of the Devseg plateau. Though rough country, it is known for the fine clay that can be gathered from the ravines.">
     <Components>
       <Village id="castle_village_comp_K8_2" village_type="VillageType.clay_mine" hearth="272" trade_bound="Settlement.castle_K8" bound="Settlement.castle_K8" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5358,7 +5358,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Karahan" posX="760.082" posY="309.814" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K6_1}Karahan lies in in the foothills of the Koh Rohini, the mountains separating the settled Khuzait lands from their nomadic neighbors. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
+  <Settlement id="village_K6_1" name="{=Settlements.Settlement.name.village_K6_1}Van" posX="760.082" posY="309.814" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K6_1}Karahan lies in in the foothills of the Koh Rohini, the mountains separating the settled Khuzait lands from their nomadic neighbors. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
     <Components>
       <Village id="village_comp_K6_1" village_type="VillageType.steppe_horse_ranch" hearth="621" trade_bound="Settlement.town_K6" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
     </Components>
