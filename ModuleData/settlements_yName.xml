@@ -448,7 +448,7 @@
   </Settlement>
   <!-- far northeast, with E4 - Argoron and Maeopita - Clan 3, Neretzes, imperial blowhards-->
   <!-- Argoron, pre-calradic name for a citadel -->
-  <Settlement id="town_EN4" name="{=Settlements.Settlement.name.town_EN4}Argoron" owner="Faction.clan_empire_north_1" posX="534.622" posY="495.804" culture="Culture.empire" prosperity="2800" gate_posX="532.6489" gate_posY="494.7029">
+  <Settlement id="town_EN4" name="{=Settlements.Settlement.name.town_EN4}Tskhumi" owner="Faction.clan_empire_north_1" posX="534.622" posY="495.804" culture="Culture.empire" prosperity="2800" gate_posX="532.6489" gate_posY="494.7029">
     <Components>
       <Town id="town_comp_EN4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.408" />
     </Components>
@@ -482,7 +482,7 @@
     </CommonAreas>
   </Settlement>
   <!-- -->
-  <Settlement id="village_EN4_2" name="{=Settlements.Settlement.name.village_EN4_2}Alatys" posX="523.468" posY="506.288" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN4_2}Alatys lies on the flat southeast end of Lake Laconys. The shallow waters of the lake here are well-stocked with flounder, while trout can be fished from nearby streams.">
+  <Settlement id="village_EN4_2" name="{=Settlements.Settlement.name.village_EN4_2}Maghas" posX="523.468" posY="506.288" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EN4_2}Alatys lies on the flat southeast end of Lake Laconys. The shallow waters of the lake here are well-stocked with flounder, while trout can be fished from nearby streams.">
     <Components>
       <Village id="village_comp_EN4_2" village_type="VillageType.fisherman" hearth="346" gate_rotation="0.008" trade_bound="Settlement.town_EN4" bound="Settlement.town_EN4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1330,7 +1330,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Melion" posX="616.414" posY="404.007" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion sits on a plain in the central highlands of the empire. The black soil, product of an ancient lava flow, allows a rich surplus of wheat to be exported from the surrounding farms.">
+  <Settlement id="castle_village_ES3_1" name="{=Settlements.Settlement.name.castle_village_ES3_1}Amisos (Samsun)" posX="616.414" posY="404.007" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES3_1}Melion sits on a plain in the central highlands of the empire. The black soil, product of an ancient lava flow, allows a rich surplus of wheat to be exported from the surrounding farms.">
     <Components>
       <Village id="castle_village_comp_ES3_1" village_type="VillageType.silk_plant" hearth="448" gate_rotation="0.308" trade_bound="Settlement.castle_ES3" bound="Settlement.castle_ES3" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1772,7 +1772,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES5_1" name="{=Settlements.Settlement.name.village_ES5_1}Lanthas" posX="620.77" posY="330.599" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES5_1}Lanthas sits near the source of the Miron, a river that divides the Carassic massif from the highlands of Visilia. Sheep graze where imperial settlers have cleared away the forests.">
+  <Settlement id="village_ES5_1" name="{=Settlements.Settlement.name.village_ES5_1}Nicomedia (Izmit)" posX="620.77" posY="330.599" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES5_1}Lanthas sits near the source of the Miron, a river that divides the Carassic massif from the highlands of Visilia. Sheep graze where imperial settlers have cleared away the forests.">
     <Components>
       <Village id="village_comp_ES5_1" village_type="VillageType.sheep_farm" hearth="402" trade_bound="Settlement.town_ES5" bound="Settlement.town_ES5" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1872,7 +1872,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Syronea" owner="Faction.clan_empire_south_5" posX="651.026" posY="387.791" culture="Culture.empire" prosperity="4000" gate_posX="648.9574" gate_posY="388.6999">
+  <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Trabzon" owner="Faction.clan_empire_south_5" posX="651.026" posY="387.791" culture="Culture.empire" prosperity="4000" gate_posX="648.9574" gate_posY="388.6999">
     <Components>
       <Town id="town_comp_ES7" is_castle="false" level="2" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -4740,7 +4740,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Khuzaits, 6 cities, 19 villages, 5 castles, 3.16 villages per town, 26% castle ratio  -->
-  <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Usek Castle" owner="Faction.clan_khuzait_3" posX="704.358" posY="451.659" culture="Culture.khuzait" prosperity="420" gate_posX="706.2659" gate_posY="451.9508">
+  <Settlement id="castle_K1" name="{=Settlements.Settlement.name.castle_K1}Dvin" owner="Faction.clan_khuzait_3" posX="704.358" posY="451.659" culture="Culture.khuzait" prosperity="420" gate_posX="706.2659" gate_posY="451.9508">
     <Components>
       <Town id="castle_comp_K1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
     </Components>
@@ -4750,7 +4750,7 @@
       <Location id="prison" scene_name="khuzait_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_K1_1" name="{=Settlements.Settlement.name.castle_village_K1_1}Usek" posX="690.54" posY="441.721" culture="Culture.khuzait" text="{=Settlements.Settlement.text.castle_village_K1_1}The village of Usek sits atop a pass over the Akkan hills. Many of its inhabitants live off the clay that can be gathered from nearby streambeds.">
+  <Settlement id="castle_village_K1_1" name="{=Settlements.Settlement.name.castle_village_K1_1}Nakhchivan" posX="690.54" posY="441.721" culture="Culture.khuzait" text="{=Settlements.Settlement.text.castle_village_K1_1}The village of Usek sits atop a pass over the Akkan hills. Many of its inhabitants live off the clay that can be gathered from nearby streambeds.">
     <Components>
       <Village id="castle_village_comp_K1_1" village_type="VillageType.sheep_farm" hearth="121" gate_rotation="0.508" trade_bound="Settlement.castle_K1" bound="Settlement.castle_K1" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -4776,7 +4776,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_K2" name="{=Settlements.Settlement.name.castle_K2}Akiser Castle" owner="Faction.clan_khuzait_4" posX="709.885" posY="371.244" culture="Culture.khuzait" prosperity="480" gate_posX="708.238" gate_posY="371.524">
+  <Settlement id="castle_K2" name="{=Settlements.Settlement.name.castle_K2}Ani" owner="Faction.clan_khuzait_4" posX="709.885" posY="371.244" culture="Culture.khuzait" prosperity="480" gate_posX="708.238" gate_posY="371.524">
     <Components>
       <Town id="castle_comp_K2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
     </Components>
@@ -4845,7 +4845,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_K5" name="{=Settlements.Settlement.name.castle_K5}Khimli Castle" owner="Faction.clan_khuzait_7" posX="746.776" posY="472.604" culture="Culture.khuzait" prosperity="620" gate_posX="745.2317" gate_posY="472.5977">
+  <Settlement id="castle_K5" name="{=Settlements.Settlement.name.castle_K5}Beylagan" owner="Faction.clan_khuzait_7" posX="746.776" posY="472.604" culture="Culture.khuzait" prosperity="620" gate_posX="745.2317" gate_posY="472.5977">
     <Components>
       <Town id="castle_comp_K5" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
     </Components>
@@ -4855,7 +4855,7 @@
       <Location id="prison" scene_name="khuzait_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_K5_1" name="{=Settlements.Settlement.name.castle_village_K5_1}Khimli" posX="740.446" posY="484.562" culture="Culture.khuzait" text="{=Settlements.Settlement.text.castle_village_K5_1}Khimli and its outlying hamlets lie in a nook of hills on the edge of the Devseg plateau, and are known for the fine clay that can be gathered from their streambeds.">
+  <Settlement id="castle_village_K5_1" name="{=Settlements.Settlement.name.castle_village_K5_1}Barda" posX="740.446" posY="484.562" culture="Culture.khuzait" text="{=Settlements.Settlement.text.castle_village_K5_1}Khimli and its outlying hamlets lie in a nook of hills on the edge of the Devseg plateau, and are known for the fine clay that can be gathered from their streambeds.">
     <Components>
       <Village id="castle_village_comp_K5_1" village_type="VillageType.clay_mine" hearth="463" gate_rotation="0.508" trade_bound="Settlement.castle_K5" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
     </Components>
@@ -5060,7 +5060,7 @@
     </CommonAreas>
   </Settlement>
   <!-- White fortress-->
-  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Akkalat" owner="Faction.clan_khuzait_4" posX="726.701" posY="372.704" culture="Culture.khuzait" prosperity="1900" gate_posX="726.4065" gate_posY="370.1996">
+  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Yerevan" owner="Faction.clan_khuzait_4" posX="726.701" posY="372.704" culture="Culture.khuzait" prosperity="1900" gate_posX="726.4065" gate_posY="370.1996">
     <Components>
       <Town id="town_comp_K2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5134,7 +5134,7 @@
   </Settlement>
   <!-- clan 1, Urkhunait, lords 1, 7, 10, 13 -->
   <!-- swamp city, Atil -->
-  <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Makeb" owner="Faction.clan_khuzait_1" posX="685.692" posY="480.056" culture="Culture.khuzait" prosperity="4100" gate_posX="683.6556" gate_posY="480.8119">
+  <Settlement id="town_K3" name="{=Settlements.Settlement.name.town_K3}Ganja" owner="Faction.clan_khuzait_1" posX="685.692" posY="480.056" culture="Culture.khuzait" prosperity="4100" gate_posX="683.6556" gate_posY="480.8119">
     <Components>
       <Town id="town_comp_K3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5180,7 +5180,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K3_3" name="{=Settlements.Settlement.name.village_K3_3}Mazen" posX="679.939" posY="466.064" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K3_3}Mazen sits on the northern end of Lake Tanaesis. The terrain around here is relatively flat, allowing residents to create artificial lagoons to harvest salt from the lake's brackish water.">
+  <Settlement id="village_K3_3" name="{=Settlements.Settlement.name.village_K3_3}Verevan" posX="679.939" posY="466.064" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K3_3}Mazen sits on the northern end of Lake Tanaesis. The terrain around here is relatively flat, allowing residents to create artificial lagoons to harvest salt from the lake's brackish water.">
     <Components>
       <Village id="village_comp_K3_3" village_type="VillageType.fisherman" hearth="178" trade_bound="Settlement.town_K3" bound="Settlement.town_K3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5194,7 +5194,7 @@
     </CommonAreas>
   </Settlement>
   <!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
-  <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Ortongard" owner="Faction.clan_khuzait_3" posX="745.826" posY="448.187" culture="Culture.khuzait" prosperity="3700" gate_posX="743.0511" gate_posY="443.6095">
+  <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Tbilisi" owner="Faction.clan_khuzait_3" posX="745.826" posY="448.187" culture="Culture.khuzait" prosperity="3700" gate_posX="743.0511" gate_posY="443.6095">
     <Components>
       <Town id="town_comp_K4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5214,7 +5214,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K5_2" name="{=Settlements.Settlement.name.castle_village_K5_2}Omrotok" posX="764.184" posY="455.996" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_1}Omrotok sits in a valley amid the jagged hills that rise north of the Asacys rivers. Its foresters harvest timbers and other goods from the northern woods.">
+  <Settlement id="castle_village_K5_2" name="{=Settlements.Settlement.name.castle_village_K5_2}Ardabil" posX="764.184" posY="455.996" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_1}Omrotok sits in a valley amid the jagged hills that rise north of the Asacys rivers. Its foresters harvest timbers and other goods from the northern woods.">
     <Components>
       <Village id="castle_village_comp_K5_2" village_type="VillageType.lumberjack" hearth="470" gate_rotation="0.508" trade_bound="Settlement.castle_K5" bound="Settlement.castle_K5" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5227,7 +5227,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K4_2" name="{=Settlements.Settlement.name.village_K4_2}Ransam" posX="765.346" posY="421.777" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_2}Ransam lies near the northernmost part of Calradia where it is still possible to grow grain. Although the local barley makes for a tougher, drier bread than more southerly crops, horses thrive on it, especially the sturdy steppe breeds.">
+  <Settlement id="village_K4_2" name="{=Settlements.Settlement.name.village_K4_2}Qazvin" posX="765.346" posY="421.777" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_2}Ransam lies near the northernmost part of Calradia where it is still possible to grow grain. Although the local barley makes for a tougher, drier bread than more southerly crops, horses thrive on it, especially the sturdy steppe breeds.">
     <Components>
       <Village id="village_comp_K4_2" village_type="VillageType.steppe_horse_ranch" hearth="108" trade_bound="Settlement.town_K4" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5240,7 +5240,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K4_3" name="{=Settlements.Settlement.name.village_K4_3}Mivanjan" posX="778.934" posY="435.546" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_3}Mivanjan sits in dry hills overlooking the valley of the River Vithys. Rich seams of iron ore can be found where the streams cut through the shale and limestone bedrock.">
+  <Settlement id="village_K4_3" name="{=Settlements.Settlement.name.village_K4_3}Baku" posX="778.934" posY="435.546" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K4_3}Mivanjan sits in dry hills overlooking the valley of the River Vithys. Rich seams of iron ore can be found where the streams cut through the shale and limestone bedrock.">
     <Components>
       <Village id="village_comp_K4_3" village_type="VillageType.sheep_farm" hearth="204" trade_bound="Settlement.town_K4" bound="Settlement.town_K4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
@@ -5266,7 +5266,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Chaikand" owner="Faction.clan_khuzait_1" posX="683.269" posY="422.582" culture="Culture.khuzait" prosperity="4500" gate_posX="684.5502" gate_posY="420.4101">
+  <Settlement id="town_K5" name="{=Settlements.Settlement.name.town_K5}Poti" owner="Faction.clan_khuzait_1" posX="683.269" posY="422.582" culture="Culture.khuzait" prosperity="4500" gate_posX="684.5502" gate_posY="420.4101">
     <Components>
       <Town id="town_comp_K5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.508" />
     </Components>
@@ -5286,7 +5286,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_K2_2" name="{=Settlements.Settlement.name.castle_village_K2_2}Kamshar" posX="677.361" posY="384.641" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K5_1}Kamshar is a village on the dry eastern coast of Lake Tanaesis. The shallow, brackish marshes are a good source of salt for the village and its surrounding hamlets.">
+  <Settlement id="castle_village_K2_2" name="{=Settlements.Settlement.name.castle_village_K2_2}Batumi" posX="677.361" posY="384.641" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K5_1}Kamshar is a village on the dry eastern coast of Lake Tanaesis. The shallow, brackish marshes are a good source of salt for the village and its surrounding hamlets.">
     <Components>
       <Village id="castle_village_comp_K2_2" village_type="VillageType.salt_mine" hearth="150" trade_bound="Settlement.castle_K2" bound="Settlement.castle_K2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
     </Components>
@@ -5338,7 +5338,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Odokh" owner="Faction.clan_khuzait_5" posX="754.602" posY="335.122" culture="Culture.khuzait" prosperity="1700" gate_posX="752.3246" gate_posY="334.0394">
+  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Tabriz" owner="Faction.clan_khuzait_5" posX="754.602" posY="335.122" culture="Culture.khuzait" prosperity="1700" gate_posX="752.3246" gate_posY="334.0394">
     <Components>
       <Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5371,7 +5371,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Nutyuk" posX="772.258" posY="313.308" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K6_2}Nutyuk lies in a sheltered valley, near one of the last patches of pine and juniper wood before one reaches the endless scrub and grass plains of the east. Rare berries, dried and used as a spice, grow amid the trees.">
+  <Settlement id="village_K6_2" name="{=Settlements.Settlement.name.village_K6_2}Zanjan" posX="772.258" posY="313.308" culture="Culture.khuzait" text="{=Settlements.Settlement.text.village_K6_2}Nutyuk lies in a sheltered valley, near one of the last patches of pine and juniper wood before one reaches the endless scrub and grass plains of the east. Rare berries, dried and used as a spice, grow amid the trees.">
     <Components>
       <Village id="village_comp_K6_2" village_type="VillageType.sheep_farm" hearth="168" trade_bound="Settlement.town_K6" bound="Settlement.town_K6" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
     </Components>
