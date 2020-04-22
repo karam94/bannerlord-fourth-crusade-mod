@@ -1,2 +1,2 @@
-yName/ModuleData/spcultures_4thCrusadeBannerlord.xml: Cultures.Culture.name, Cultures.Culture.text
-yName/ModuleData/settlements_4thCrusadeBannerlord.xml: Settlements.Settlement.name, Settlements.Settlement.text
+zzFourthCrusadeBannerlord/ModuleData/spcultures_4thCrusadeBannerlord.xml: Cultures.Culture.name, Cultures.Culture.text
+zzFourthCrusadeBannerlord/ModuleData/settlements_4thCrusadeBannerlord.xml: Settlements.Settlement.name, Settlements.Settlement.text
