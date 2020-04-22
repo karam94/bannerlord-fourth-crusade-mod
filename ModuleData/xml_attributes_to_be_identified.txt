@@ -1,2 +1,3 @@
 zzFourthCrusadeBannerlord/ModuleData/spcultures_4thCrusadeBannerlord.xml: Cultures.Culture.name, Cultures.Culture.text
 zzFourthCrusadeBannerlord/ModuleData/settlements_4thCrusadeBannerlord.xml: Settlements.Settlement.name, Settlements.Settlement.text
+zzFourthCrusadeBannerlord/ModuleData/spkingdoms_4thCrusadeBannerlord.xml: Kingdoms.Kingdom.name, Kingdoms.Kingdom.short_name, Kingdoms.Kingdom.title, Kingdoms.Kingdom.text
