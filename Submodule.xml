@@ -12,7 +12,7 @@
    </SubModules>
    <Xmls>
 	 <XmlNode>                
-	   <XmlName id="SPCultures" path="spcultures_yName"/>
+	   <XmlName id="SPCultures" path="spcultures_4thCrusadeBannerlord"/>
 		 <IncludedGameTypes>
 		   <GameType value = "Campaign"/>
 		   <GameType value = "CampaignStoryMode"/>
@@ -20,7 +20,7 @@
 		 </IncludedGameTypes>
 	 </XmlNode>   
 	 <XmlNode>                
-		<XmlName id="Settlements" path="settlements_yName"/>
+		<XmlName id="Settlements" path="settlements_4thCrusadeBannerlord"/>
 		  <IncludedGameTypes>
 			<GameType value = "Campaign"/>
 			<GameType value = "CampaignStoryMode"/>
