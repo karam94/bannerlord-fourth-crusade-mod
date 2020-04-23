@@ -6,7 +6,11 @@
    <MultiplayerModule value="false"/>
    <Official value="false" />
    <DependedModules>
-     <DependedModule Id="Native"/>
+      <DependedModule Id="Native"/>
+      <DependedModule Id="SandBoxCore"/>
+      <DependedModule Id="Sandbox"/>
+      <DependedModule Id="CustomBattle"/>
+      <DependedModule Id="StoryMode" />
    </DependedModules>
    <SubModules>
    </SubModules>
@@ -22,18 +26,27 @@
 	 <XmlNode>                
 		<XmlName id="Settlements" path="settlements_4thCrusadeBannerlord"/>
 		  <IncludedGameTypes>
-			<GameType value = "Campaign"/>
-			<GameType value = "CampaignStoryMode"/>
-			<GameType value = "CustomGame"/>
+			  <GameType value = "Campaign"/>
+			  <GameType value = "CampaignStoryMode"/>
+			  <GameType value = "CustomGame"/>
 		  </IncludedGameTypes>
 	</XmlNode>
   <XmlNode>                
 		<XmlName id="Kingdoms" path="spkingdoms_4thCrusadeBannerlord"/>
-		  <IncludedGameTypes>
-			<GameType value = "Campaign"/>
-			<GameType value = "CampaignStoryMode"/>
-			<GameType value = "CustomGame"/>
-		  </IncludedGameTypes>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "Sandbox"/>
+        <GameType value = "SandBoxCore"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+	</XmlNode>
+  <XmlNode>                
+		<XmlName id="NPCCharacters" path="lords_4thCrusadeBannerlord"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+      </IncludedGameTypes>
 	</XmlNode>
    </Xmls>
 </Module>
