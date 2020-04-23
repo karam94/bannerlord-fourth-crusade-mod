@@ -2193,7 +2193,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Jinda. Fierce, and retains strong grudges -->
-  <NPCCharacter id="lord_3_2" name="{=JhLPgr5x}Jinda" age="45" voice="curt" is_hero="true" default_group="Cavalry" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_2" name="{=JhLPgr5x}Jinan" age="45" voice="curt" is_hero="true" default_group="Cavalry" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0025512fd13c0001a7e3c8a64757b4876ba6785e867c96d8249d763f3bb7d86400057c5481a663680000000000000ce600000000000000000000000000006000" /-->
       <BodyProperties version="4" age="45" weight="0.1682" build="0.4398"  key="0022500FD1A00001A7E3C8A64774B4806BA6785E867C96D8249D763F7BB7D86103473C3504A663080000000000000CE600000000000000000000000000804003"  />
@@ -2209,7 +2209,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
   </NPCCharacter>
   <!-- Adram. Like Unqidh, a strong sense of being protector of his clan, but unlike the former aggressive -->
-  <NPCCharacter id="lord_3_3" name="{=n2FdWOtE}Adram" age="49" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_3" name="{=n2FdWOtE}Adam" age="49" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <BodyProperties version="4" age="49" weight="0.1219" build="0.3148"  key="0028F40E5A000192869C5A8B7780749AAB77564639947345843A865799F5751304952046099687170000000000000CE600000000000000000000000001200000"  />
     </face>
@@ -2240,7 +2240,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Maraa - patroness -->
-  <NPCCharacter id="lord_3_4" name="{=6WWJpv88}Maraa" age="45" voice="ironic" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_4" name="{=6WWJpv88}Marrah" age="45" voice="ironic" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0030d52ec0000001869c5a8b7786749aab77564639947345843a8657994575e500000000789687970000000000000ce600000000000000000000000000000000" /-->
       <BodyProperties version="4" age="45" weight="0.1744" build="0.3688"  key="002DD40E40000001869C5A8B77867490AB77564639947345843A8657994575E203863035089687070000000000000CE600000000000000000000000001000000"  />
@@ -2258,7 +2258,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- Banu Qild, a proud ascetic clan -->
   <!-- Tais al-Qildi, harsh patriarch -->
-  <NPCCharacter id="lord_3_5" name="{=iOZtAOgk}Tais" age="45" voice="curt" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_5" name="{=iOZtAOgk}Taha" age="45" voice="curt" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001cf12c807c22447c7b80b46c6a852c59a789a794986646595c3172725361a50005a8840288a9880000387a00000aeb00000033000000000000000000009000" /-->
       <BodyProperties version="4" age="45" weight="0.0262" build="0.5509"  key="001CF00CC07022447C7B80B46C63852C59A789A794986646595C317272A3611003B808350B88A9080000387A00000AEB00000033000000000000000001608002"  />
@@ -2276,7 +2276,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_51" name="{=891zDKIl}Haqan" age="19" voice="curt" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_51" name="{=891zDKIl}Hassan" age="19" voice="curt" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001cf12c807c22447c7b80b46c6a852c59a789a794986646595c3172725361a50005a8840288a9880000387a00000aeb00000033000000000000000000009000" /-->
       <BodyProperties version="4" age="39.07" weight="0.0046" build="0.591"  key="001CA00CC0702006877B80B46C63852C588D8B373A9A4D765978CD7569F67B1403990835094D341A0000387A00000AEB00000033000000000000000001388002"  />
@@ -2295,7 +2295,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Ruma, fierce, shames lords who do not uphold honor. Zeinab al-Ghazali type -->
-  <NPCCharacter id="lord_3_6" name="{=nBDKxiyC}Ruma" age="41" voice="curt" is_female="true" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_6" name="{=nBDKxiyC}Reema" age="41" voice="curt" is_female="true" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001f4926403c144e492d4a6c39985967d43ba74995c678a766758b96a9257855000288a4633c965e0000387a00000aeb00000033000000000000000000005000" /-->
       <BodyProperties version="4" age="41" weight="0.162" build="0.3596"  key="001C48058044144E492D4A6C39955961D43BA74995C678A766758B96A925785503352835033C960E0000387A00000AEB00000033000000000000000000685000"  />
@@ -2311,7 +2311,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- Heirs, 3_7 to 3_9 -->
   <!-- Dhiyul, decent but impulsive rich youth. Not especially martial -->
-  <NPCCharacter id="lord_3_7" name="{=xC3kCGte}Dhiyul" age="24" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_7" name="{=xC3kCGte}Dawoud" age="24" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="002fe12e4000018b8a8858a5958859896b7485948887b799759ca6da5889ac790000000000c609870000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="24" weight="0.1404" build="0"  key="002DE00E4000018A8A8858A5958859F96B7485948887B799A59CA6DA58F9AC1100A020030AB689070000387A00000AEB00000033000000000000000001580002"  />
@@ -2330,7 +2330,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Addas, models himself on Nimr's daring. Roguish -->
-  <NPCCharacter id="lord_3_8" name="{=saaeExBg}Addas" age="24" voice="ironic" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_8" name="{=saaeExBg}Ahmad" age="24" voice="ironic" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0034e12e4000414668b8689584586a577b6388885a9a9778565c69c88879b86d0000000000b709780000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="24" weight="0" build="0.1235"  key="0033E00E400042C668B8689556886AB77B6388885A9A9778965C69CB88E9B8200082000308C769180000387A00000AEB00000033000000000000000001080000"  />
@@ -2349,7 +2349,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Usair al-Qildi, much younger than his father. Smart, friendly zealot. fanatically devoted to values of the Faction. Friendly but capable of turning quickly -->
-  <NPCCharacter id="lord_3_9" name="{=LJ6Intaq}Usair" age="21" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_9" name="{=LJ6Intaq}Umar" age="21" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0029d92d8000410377b97895857977584c4376996749595b77ad7a887856ba7c0000000000a707570000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="21" weight="0" build="0.2793"  key="0028D80CC000310377B97895857577584C4376996749595B77AD7A8878F6BA010094000309A707070000387A00000AEB00000033000000000000000001300002"  />
@@ -2368,7 +2368,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- aserai heiresses -->
   <!-- unqidh the merchant's daughter, conventional -->
-  <NPCCharacter id="lord_3_10" name="{=TfNSLFNF}Anidha" age="20" voice="earnest" default_group="Infantry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_10" name="{=TfNSLFNF}Amina" age="20" voice="earnest" default_group="Infantry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0030dd2e0000040497d3427635d39ca7a837954a579662459958a8898646766a0000000406b767790000000000000ce600000000000000000000000000000000" /-->
       <BodyProperties version="4" age="20" weight="0.0046" build="0.4059"  key="002DDC0E4114000497D3427735F69CA7A837954A57966245AB588A8A86A676000C6600C209B760060000000000000CE600000000000000000000000000B80003"  />
@@ -2401,7 +2401,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Manan,  moralist but curious about solving ills of the world -->
-  <NPCCharacter id="lord_3_12" name="{=MlmPJ502}Manan" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_12" name="{=MlmPJ502}Maryam" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_aserai_noblewoman" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0032e52a80000002789b599a8a838669334638794c6571447e958a787445779e000000008786787a0000000000000ce600000000000000000000000000000000" /-->
       <BodyProperties version="4" age="22" weight="0" build="0.341"  key="0033B80A11140002249B59918A83D66033467AC7A588BA577E958E7874F5770101450013048679030000000000000CE600000000000000000000000000801003"  />
@@ -2415,7 +2415,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
   </NPCCharacter>
   <!-- Nuqar, warrior, devious but clever -->
-  <NPCCharacter id="lord_3_13" name="{=WTCIOhvV}Nuqar" age="38" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_13" name="{=WTCIOhvV}Nada" age="38" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0034e52e400053038b89aa97867aaa996c53778679797aa95a798cd78a78b96b0000000000dc07870000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="38" weight="0.2546" build="0.3873"  key="0033E40E400033038B89AA97867AAA996C53778679797AA95A798CD78AF8B90102B640240BDC07070000387A00000AEB00000033000000000000000001680002"  />
@@ -2433,7 +2433,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- Thamza, somewhat grizzled fighter, aware of his role keeping youth of clan out of danger -->
   <!-- //fitiwi face: 001afd2fc0004300ff5d5f37c7c186e7f0f08000f0ff00007f8f0f0dfff0f0ff000000000000000c000000000000000000000000000000000000000000000004 -->
-  <NPCCharacter id="lord_3_14" name="{=HSlqsoPK}Thamza" age="47" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_14" name="{=HSlqsoPK}Hamza" age="47" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001a592fc0000000649597e861b78378f08078798be967cd2ef789f6fff0f0f8000000040ba8c32c000000000000000000000000000000000000000000002004" /-->
       <BodyProperties version="4" age="47" weight="0" build="0.4923"  key="001C580FC0000000649597E861B78378F08078798BE967CD2EF789F68FF0F01004A700460AA8C30C000000000000000000000000000000000000000001482002"  />
@@ -2450,7 +2450,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Ghuzid, Qild clan attack dog -->
-  <NPCCharacter id="lord_3_15" name="{=NOchnEwX}Ghuzid" age="31" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_15" name="{=NOchnEwX}Ghassan" age="31" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0033e12d8000410b9a889786939895856a63759878978b8779498cbb8758b86d0000000000a908980000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="31" weight="0.1806" build="0.6034"  key="0033E00FC00039199A889786939895856A63759878978B8779498CBB87F8B8000189301408A908080000387A00000AEB00000033000000000000000001180002"  />
@@ -2468,7 +2468,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Suruq, cautious but deadly when cornered. Politically ambitious. Chooses words carefully -->
-  <NPCCharacter id="lord_3_16" name="{=Er3eFLdH}Suruq" age="28" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_16" name="{=Er3eFLdH}Saleem" age="28" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="002c6d2e1100058a888956a54983879ab4a44d2948825b79c9534642bb5d5318000835d4994b38990000387a00000aeb00000033000000000000000000003000" /-->
       <BodyProperties version="4" age="28" weight="0.2639" build="0.5787"  key="002D6C0E5100058A888956A54983879AB4A44D2948825B79C9534642BBF0530101A945130A4B38190000387A00000AEB00000033000000000000000001483002"  />
@@ -2486,7 +2486,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Iyalas, mild and generally goodnatured -->
-  <NPCCharacter id="lord_3_17" name="{=kvxnbHjF}Iyalas" age="28" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_17" name="{=kvxnbHjF}Ilyas" age="28" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0034a52fc00013408487660aad596598adc595494ceaabca7b5acc76d879653300000004085365580000387a00000aeb00000033000000000000000000008000" /-->
       <BodyProperties version="4" key="0033A40FC00013408487660AAD596596ADC595494CEAABCA7B5ACC7688E9650001077013005365180000387A00000AEB00000033000000000000000000008000"  />
@@ -2503,7 +2503,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Talas, abrasive but generally benevolent -->
-  <NPCCharacter id="lord_3_18" name="{=VAAIYJqI}Talas" age="28" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_18" name="{=VAAIYJqI}Talal" age="28" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0034e52e0000104177797895936978994c83899789a7798c67576b679668ac4b0000000000b807780000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="28" weight="0.2022" build="0.5077"  key="0033E40E4000104177797895936C78994C83899789A7798C97576B679698AC1101D830130DB857080000387A00000AEB00000033000000000000000001B80002"  />
@@ -2521,7 +2521,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Awdhan, competent warlord.  -->
-  <NPCCharacter id="lord_3_19" name="{=sABDrRyF}Awdhan" age="28" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_19" name="{=sABDrRyF}Rashed" age="28" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0034d52e000033c0ab499b3aa8b663243d5743873578a7317b5acc764599936d00000004085365580000387a00000aeb00000033000000000000000000001000" /-->
       <BodyProperties version="4" age="28" weight="0" build="0.7608"  key="0033D40E40000000AB499B3AA8B663443D5743873578A7317B5ACC7645E9930101AB00130A5365080000387A00000AEB00000033000000000000000001580002"  />
@@ -2538,7 +2538,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Karith, misanthropic  -->
-  <NPCCharacter id="lord_3_20" name="{=IgSZcCW0}Karith" age="28" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_20" name="{=IgSZcCW0}Karim" age="28" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="0025592fc0bc11c2baa3a37ca86837b9c8883885b3a18b5b777bb58b5ac6844c000c8c4496986a9a0000387a00000aeb00000033000000000000000000000000" /-->
       <BodyProperties version="4" age="28" weight="0.2639" build="0.5664"  key="0022580FC0BC0002BAA3A37CA86837B9C8883885B3A18B5B777BB58B5AF6841001A84C130A986A0A0000387A00000AEB00000033000000000000000001400000"  />
@@ -2555,7 +2555,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Ukhai, true believer in whatever cause he gravitates to, not much given to independent thought  -->
-  <NPCCharacter id="lord_3_21" name="{=gQ1JZ8ow}Ukhai" age="28" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_21" name="{=gQ1JZ8ow}Udhai" age="28" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="002c912e12bc258279773b5a8d89d6998c89d91976ac398293c3b96396878a5400079794b788d5620000387a00000aeb00000033000000000000000000002000" /-->
       <BodyProperties version="4" age="28" weight="0" build="0.4799"  key="002D900E52B4258279773B5A8D89D6998C89D91976AC398293C3B96396F78A1001A707130A88D5120000387A00000AEB00000033000000000000000001482002"  />
@@ -2572,7 +2572,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Hashan, gallant -->
-  <NPCCharacter id="lord_3_22" name="{=Xs2Ffm4I}Hashan" age="28" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_22" name="{=Xs2Ffm4I}Hassan" age="28" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001971249300340a9772c4c436aa7887a435497444328e72db8c48519d57749a0007a13480ba29780000387a00000aeb00000033000000000000000000005000" /-->
       <BodyProperties version="4" age="28" weight="0.3287" build="0.6528"  key="001670044F00000A9772C4C436A37887A435497444328E72DB8C48519DE7740001AA51130ABA29080000387A00000AEB00000033000000000000000001400002"  />
@@ -2588,7 +2588,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_3_23" name="{=yWPpaXij}Qahin" age="24" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
+  <NPCCharacter id="lord_3_23" name="{=yWPpaXij}Qusai" age="24" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.aserai_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.aserai_unarmored_noble_equipment" culture="Culture.aserai" occupation="Lord">
     <face>
       <!--face_key value="001971249300340a9772c4c436aa7887a435497444328e72db8c48519d57749a0007a13480ba29780000387a00000aeb00000033000000000000000000005000" /-->
       <BodyProperties version="4" age="24" weight="0.1929" build="0.588"  key="001C70045300340A9772C4C436AA7887A435497444328E72DB8C48517DF7741000B931030BBA29080000387A00000AEB00000033000000000000000001685000"  />
