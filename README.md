@@ -1,5 +1,8 @@
 # Mount & Blade: Bannerlord - 4th Crusade Mod
 
+![Current Map](/images/fullmap-min.png)
+Note: Ignore the factions that control each area for now.
+
 ## Overview
 
 The Kingdom of Calradia now represents a fictional representation of the world, post-Third Crusade. Saladin has captured the Holy Kingdom of Jerusalem and as a result, the Islamic world has seen the Mohads combine with the Ayyubid Dynasty in an attempt to capitalise on the fresh split between the Holy Roman Empire & Byzantine Empire due to disagreements around the planned Fourth Crusade in Europe.
