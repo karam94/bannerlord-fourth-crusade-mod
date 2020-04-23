@@ -329,7 +329,7 @@
   <!--ANCESTORS END-->
   <!-- For readability, ideally name age and voice should be close to the beginning of the NPCCharacter tag. Equipment can come next. -->
   <!--Lucon, head of aristocratic faction of empire 1 STEVEDIDFACE -->
-  <NPCCharacter id="lord_1_1" name="{=CLqPbdiZ}Lucon" age="62" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_1" name="{=CLqPbdiZ}Kaloyan" age="62" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="00005d2b0000034d649a77977876473b743a45888527b857869aa27956b54d3c000465a4653de87c00001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" age="62" weight="0.4583" build="0.2978"  key="00005C0B4000034D649A7797787A473B747A45888527B857869AA27956F54D0106947567093DE81C00001105000030A30000001F000000000000000001382000"  />
@@ -458,7 +458,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!--Clan 4 patriarch  Gario Comnos is soldier's solder, head of populist/military imperial faction STEVEDIDFACE. Switch with Sten's Putin/Caesar -->
-  <NPCCharacter id="lord_1_7" name="{=I72U5ttG}Garios" age="43" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="HorseArcher">
+  <NPCCharacter id="lord_1_7" name="{=I72U5ttG}Otto IV" age="43" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="HorseArcher">
     <face>
       <!--face_key value="0011714fc0fc028f96938148227287b6674886898a943687452b87978a787594000f26550f889888000000000000000000000000000000000000000001fc8040" /-->
       <BodyProperties version="4" age="43" weight="0.0201" build="0.6373"  key="0011700FC0FC05CF9693814822758CB6664886898A94C687952887978AF6750103CA06350C889808000000000000000000000000000000000000000001948040"  />
@@ -611,7 +611,7 @@
 	</NPCCharacter>
   -->
   <!-- Rhagaea, queen of imperial faction #3, head of clan 7 STEVEDIDFACE. Courteous demeanor - softspoken or earnest. -->
-  <NPCCharacter id="lord_1_14" name="{=kadJAjaA}Rhagaea" default_group="Infantry" age="43" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_14" name="{=kadJAjaA}Alexios III Angelos" default_group="Infantry" age="43" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0000ae3e50fc30045948a3188a41766557598897843a8925a7e38f3985789874000a16580a737521000000000000000000000000000000000000000001fc1040" /-->
       <BodyProperties version="4" age="43" weight="0" build="0.2917"  key="0000840E53003004597763188A71788157598897843A79256D88BF3685F898000374063507726701000000000000000000000000000000000000000000EC1040"  />
@@ -1705,7 +1705,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Ragenvad, Hardrada type -->
-  <NPCCharacter id="lord_2_1" name="{=rNrq6QdU}Raganvad" age="37" voice="curt" is_hero="true" default_group="Infantry" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_1" name="{=rNrq6QdU}Sverre Sigurdsson" age="37" voice="curt" is_hero="true" default_group="Infantry" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <!--face_key value="0000514140bc19029e3b66c84492388893a369b8b287576979538ac46b678b94000e28b50ec6b384000000000000000000000000000000000000000001585180" /-->
       <BodyProperties version="4" age="37" weight="0.0293" build="0.2114"  key="0000500140B419029E3B66C84492388893A369B8B287576979538AC46BE78B1102F308240FC6B314000000000000000000000000000000000000000001F05102"  />
@@ -2606,7 +2606,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- Vlandians -->
   <!-- Derthert, weary king -->
-  <NPCCharacter id="lord_4_1" name="{=jEIsVazl}Derthert" age="48" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.vlandia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.vlandia_unarmored_noble_equipment" culture="Culture.vlandia" occupation="Lord">
+  <NPCCharacter id="lord_4_1" name="{=jEIsVazl}John I" age="48" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.vlandia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.vlandia_unarmored_noble_equipment" culture="Culture.vlandia" occupation="Lord">
     <face>
       <!--face_key value="0000fe42c000220458c56743d5b5ab56396a8c717b876e66c7b287ab79c2a84b0005400905c96766000000000000000000000000000000000000000001282000" /-->
       <BodyProperties version="4" age="48" weight="0" build="0.2052"  key="0000FC02C000220458C56743D5B5AB56396A8C717B876E66C7B287AB79F2A81104C300460CC96706000000000000000000000000000000000000000001882000"  />
@@ -3151,7 +3151,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- BATTANIANS -->
   <!-- Caladog fen Gruffendoc, ruthless -->
-  <NPCCharacter id="lord_5_1" name="{=w51wGx4b}Caladog" age="31" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.battania_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.battania_unarmored_noble_equipment" culture="Culture.battania" occupation="Lord">
+  <NPCCharacter id="lord_5_1" name="{=w51wGx4b}Philip II Augustus" age="31" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.battania_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.battania_unarmored_noble_equipment" culture="Culture.battania" occupation="Lord">
     <face>
       <!--face_key value="00054548800027875ca466a563442bd406899779a794573b86a7c473581ab487000e66550e46c99d000000000000000000000000000000000000000001f83180" /-->
       <BodyProperties version="4" age="31" weight="0.0509" build="0.7546"  key="00054408800027935CA466A563442BD406899779A794573B86A7C47358FAB40101DB16140D46C90D000000000000000000000000000000000000000001B03180"  />
@@ -3561,7 +3561,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
 
 	-->
   <!-- Smart and devious -->
-  <NPCCharacter id="lord_6_1" name="{=Toj0vayQ}Monchug" age="38" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.khuzait_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.khuzait_unarmored_noble_equipment" culture="Culture.khuzait" occupation="Lord">
+  <NPCCharacter id="lord_6_1" name="{=Toj0vayQ}Genghis Khan" age="38" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.khuzait_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.khuzait_unarmored_noble_equipment" culture="Culture.khuzait" occupation="Lord">
     <face>
       <!--face_key value="0016ff8fc000274d9ebf61ffb76ea46ea4959af6f9a58e3dc8756149d64b84a8000ee65d09b1e944000000000000000000000000000000000000000000a07080" /-->
       <BodyProperties version="4" age="38" weight="0" build="0.1682"  key="0016FC0FC000274D9EBF61FFB762A46EA4959AF6F9A58E3DC875614976FB840002C306240CB1E914000000000000000000000000000000000000000001907082"  />
