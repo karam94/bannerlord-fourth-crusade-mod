@@ -41,6 +41,7 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 - Bring in better looking NPCs from NOBLE NOBLES.
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Assign the correct cities & towns to their correct starting empires.
+- Rename clans to more realistic names.
 
 ### Credits:
 
