@@ -13,7 +13,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Tarnovo" posX="498.312" posY="377.567" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits where streams from the nearby hills join to form Aris, a small river that runs into Lake Tanaesis. The land here is not especially rich, but is sufficient for the raising of sheep.">
+  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Sofia" posX="498.312" posY="377.567" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits where streams from the nearby hills join to form Aris, a small river that runs into Lake Tanaesis. The land here is not especially rich, but is sufficient for the raising of sheep.">
     <Components>
       <Village id="castle_village_comp_EN1_1" village_type="VillageType.sheep_farm" hearth="322" gate_rotation="0.008" trade_bound="Settlement.castle_EN1" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -251,7 +251,7 @@
   </Settlement>
   <!-- Volarias and Tricaea, Northern  clan #2, marcher clan of patriarch faction, -->
   <!-- The allconquering -->
-  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Kolberg" owner="Faction.clan_empire_north_2" posX="407.606" posY="474.927" culture="Culture.empire" prosperity="5100" gate_posX="404.7008" gate_posY="474.5175">
+  <Settlement id="town_EN1" name="{=Settlements.Settlement.name.town_EN1}Kolberg" owner="Faction.clan_empire_west_1" posX="407.606" posY="474.927" culture="Culture.empire" prosperity="5100" gate_posX="404.7008" gate_posY="474.5175">
     <Components>
       <Town id="town_comp_EN1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.208" />
     </Components>
@@ -1415,7 +1415,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Wawel Castle" owner="Faction.clan_empire_north_3" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
+  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Tarnovo" owner="Faction.clan_empire_north_3" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
     <Components>
       <Town id="castle_comp_ES6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1739,7 +1739,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Sofia" posX="535.418" posY="313.408" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_3}Canterion sits near where the headwaters of the Sethys come rushing out of a stone outcrop in the midst of the Tripotamian highlands. The chalky soil in these parts makes for fine grazing for horses.">
+  <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Nis" posX="535.418" posY="313.408" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_3}Canterion sits near where the headwaters of the Sethys come rushing out of a stone outcrop in the midst of the Tripotamian highlands. The chalky soil in these parts makes for fine grazing for horses.">
     <Components>
       <Village id="village_comp_ES4_3" village_type="VillageType.europe_horse_ranch" hearth="169" gate_rotation="0.008" trade_bound="Settlement.town_ES4" bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -3467,7 +3467,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V5" name="{=Settlements.Settlement.name.castle_V5}Tirby Castle" owner="Faction.clan_vlandia_5" posX="165.989" posY="564.639" culture="Culture.vlandia" prosperity="630" gate_posX="164.9052" gate_posY="564.4557">
+  <Settlement id="castle_V5" name="{=Settlements.Settlement.name.castle_V5}Tirby Castle" owner="Faction.clan_sturgia_1" posX="165.989" posY="564.639" culture="Culture.vlandia" prosperity="630" gate_posX="164.9052" gate_posY="564.4557">
     <Components>
       <Town id="castle_comp_V5" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3503,7 +3503,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V6" name="{=Settlements.Settlement.name.castle_V6}Vordingborg" owner="Faction.clan_vlandia_6" posX="230.536" posY="552.587" culture="Culture.vlandia" prosperity="760" gate_posX="230.9808" gate_posY="551.6971">
+  <Settlement id="castle_V6" name="{=Settlements.Settlement.name.castle_V6}Vordingborg" owner="Faction.clan_sturgia_1" posX="230.536" posY="552.587" culture="Culture.vlandia" prosperity="760" gate_posX="230.9808" gate_posY="551.6971">
     <Components>
       <Town id="castle_comp_V6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -4008,7 +4008,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Harthar and Sunion, to clan 4 -->
-  <Settlement id="town_V8" name="{=Settlements.Settlement.name.town_V8}Ostican" owner="Faction.clan_vlandia_5" posX="135.09" posY="547.52" culture="Culture.vlandia" prosperity="3900" gate_posX="137.2299" gate_posY="542.0079">
+  <Settlement id="town_V8" name="{=Settlements.Settlement.name.town_V8}Ostican" owner="Faction.clan_sturgia_1" posX="135.09" posY="547.52" culture="Culture.vlandia" prosperity="3900" gate_posX="137.2299" gate_posY="542.0079">
     <Components>
       <Town id="town_comp_V8" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" />
     </Components>
@@ -4068,7 +4068,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_V9" name="{=Settlements.Settlement.name.town_V9}Rovalt" owner="Faction.clan_vlandia_6" posX="179.501" posY="548.785" culture="Culture.vlandia" prosperity="2800" gate_posX="176.1519" gate_posY="545.7867">
+  <Settlement id="town_V9" name="{=Settlements.Settlement.name.town_V9}Rovalt" owner="Faction.clan_sturgia_1" posX="179.501" posY="548.785" culture="Culture.vlandia" prosperity="2800" gate_posX="176.1519" gate_posY="545.7867">
     <Components>
       <Town id="town_comp_V9" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
