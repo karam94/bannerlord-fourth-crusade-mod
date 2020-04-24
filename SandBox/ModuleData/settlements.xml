@@ -522,7 +522,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Myzon's town -->
-  <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_khuzait_1" posX="604.146" posY="426.119" culture="Culture.empire" prosperity="3900" gate_posX="604.5169" gate_posY="423.2607">
+  <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_empire_south_1" posX="604.146" posY="426.119" culture="Culture.empire" prosperity="3900" gate_posX="604.5169" gate_posY="423.2607">
     <Components>
       <Town id="town_comp_EN5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.608" />
     </Components>
@@ -3586,7 +3586,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Sargot, from Calradic Sargythea, Right Whale bay-->
-  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Paris" owner="Faction.clan_battania_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
+  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Bordeaux" owner="Faction.clan_battania_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
     <Components>
       <Town id="town_comp_V1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.378" />
     </Components>
@@ -3886,7 +3886,7 @@
   </Settlement>
   <!-- House of Arromanc - Clan 3 old Jelkala and Charys, by the sea. 4_3, 4_8, 4_14 -->
   <!-- From the pre-Calradic, jackal's den -->
-  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Bordeaux" owner="Faction.clan_battania_1" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
+  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Paris" owner="Faction.clan_battania_1" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
     <Components>
       <Town id="town_comp_V6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
