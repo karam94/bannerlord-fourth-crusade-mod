@@ -72,7 +72,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EN4" name="{=Settlements.Settlement.name.castle_EN4}Gaos Castle" owner="Faction.clan_empire_north_3" posX="560.55" posY="405.22" culture="Culture.empire" prosperity="860" gate_posX="562.4598" gate_posY="403.6138">
+  <Settlement id="castle_EN4" name="{=Settlements.Settlement.name.castle_EN4}Gaos Castle" owner="Faction.clan_empire_south_1" posX="560.55" posY="405.22" culture="Culture.empire" prosperity="860" gate_posX="562.4598" gate_posY="403.6138">
     <Components>
       <Town id="castle_comp_EN4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -141,7 +141,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EN7" name="{=Settlements.Settlement.name.castle_EN7}Kutaisi" owner="Faction.clan_empire_north_7" posX="652.684" posY="512.049" culture="Culture.empire" prosperity="990" gate_posX="650.2717" gate_posY="512.7138">
+  <Settlement id="castle_EN7" name="{=Settlements.Settlement.name.castle_EN7}Kutaisi" owner="Faction.clan_khuzait_1" posX="652.684" posY="512.049" culture="Culture.empire" prosperity="990" gate_posX="650.2717" gate_posY="512.7138">
     <Components>
       <Town id="castle_comp_EN7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -177,7 +177,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EN8" name="{=Settlements.Settlement.name.castle_EN8}Syratos Castle" owner="Faction.clan_empire_north_7" posX="663.562" posY="477.951" culture="Culture.empire" prosperity="560" gate_posX="661.7092" gate_posY="475.9247">
+  <Settlement id="castle_EN8" name="{=Settlements.Settlement.name.castle_EN8}Syratos Castle" owner="Faction.clan_khuzait_1" posX="663.562" posY="477.951" culture="Culture.empire" prosperity="560" gate_posX="661.7092" gate_posY="475.9247">
     <Components>
       <Town id="castle_comp_EN8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -522,7 +522,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Myzon's town -->
-  <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_empire_north_5" posX="604.146" posY="426.119" culture="Culture.empire" prosperity="3900" gate_posX="604.5169" gate_posY="423.2607">
+  <Settlement id="town_EN5" name="{=Settlements.Settlement.name.town_EN5}Myzea" owner="Faction.clan_khuzait_1" posX="604.146" posY="426.119" culture="Culture.empire" prosperity="3900" gate_posX="604.5169" gate_posY="423.2607">
     <Components>
       <Town id="town_comp_EN5" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.608" />
     </Components>
@@ -598,7 +598,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_EN6" name="{=Settlements.Settlement.name.town_EN6}Amprela" owner="Faction.clan_empire_north_4" posX="620.342" posY="483.919" culture="Culture.empire" prosperity="2300" gate_posX="624.6627" gate_posY="483.38">
+  <Settlement id="town_EN6" name="{=Settlements.Settlement.name.town_EN6}Amprela" owner="Faction.clan_khuzait_1" posX="620.342" posY="483.919" culture="Culture.empire" prosperity="2300" gate_posX="624.6627" gate_posY="483.38">
     <Components>
       <Town id="town_comp_EN6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -647,7 +647,7 @@
     </CommonAreas>
   </Settlement>
   <!-- blackheath. To Ascyron, Lucon's heir -->
-  <Settlement id="castle_EW1" name="{=Settlements.Settlement.name.castle_EW1}Alcazar of Seville" owner="Faction.clan_empire_west_2" posX="273.429" posY="324.02" culture="Culture.empire" prosperity="880" gate_posX="275.6199" gate_posY="324.9102">
+  <Settlement id="castle_EW1" name="{=Settlements.Settlement.name.castle_EW1}Alcazar of Seville" owner="Faction.clan_aserai_1" posX="273.429" posY="324.02" culture="Culture.empire" prosperity="880" gate_posX="275.6199" gate_posY="324.9102">
     <Components>
       <Town id="castle_comp_EW1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -670,7 +670,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW2" name="{=Settlements.Settlement.name.castle_EW2}Budapest" owner="Faction.clan_empire_west_4" posX="467.798" posY="359.131" culture="Culture.empire" prosperity="760" gate_posX="465.0477" gate_posY="359.6049">
+  <Settlement id="castle_EW2" name="{=Settlements.Settlement.name.castle_EW2}Budapest" owner="Faction.clan_empire_north_3" posX="467.798" posY="359.131" culture="Culture.empire" prosperity="760" gate_posX="465.0477" gate_posY="359.6049">
     <Components>
       <Town id="castle_comp_EW2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -706,7 +706,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW3" name="{=Settlements.Settlement.name.castle_EW3}Castle of Acrocornith" owner="Faction.clan_empire_west_1" posX="445.931" posY="272.569" culture="Culture.empire" prosperity="740" gate_posX="445.2068" gate_posY="275.0735">
+  <Settlement id="castle_EW3" name="{=Settlements.Settlement.name.castle_EW3}Castle of Acrocornith" owner="Faction.clan_empire_south_1" posX="445.931" posY="272.569" culture="Culture.empire" prosperity="740" gate_posX="445.2068" gate_posY="275.0735">
     <Components>
       <Town id="castle_comp_EW3" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -847,7 +847,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle" owner="Faction.clan_empire_west_6" posX="375.321" posY="445.862" culture="Culture.empire" prosperity="610" gate_posX="373.3361" gate_posY="444.4101">
+  <Settlement id="castle_EW8" name="{=Settlements.Settlement.name.castle_EW8}Gersegos Castle" owner="Faction.clan_empire_north_3" posX="375.321" posY="445.862" culture="Culture.empire" prosperity="610" gate_posX="373.3361" gate_posY="444.4101">
     <Components>
       <Town id="castle_comp_EW8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.408" />
     </Components>
@@ -1261,7 +1261,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES1" name="{=Settlements.Settlement.name.castle_ES1}Edessa Fortress" owner="Faction.clan_empire_south_3" posX="693.202" posY="306.624" culture="Culture.empire" prosperity="500" gate_posX="690.3297" gate_posY="306.6122">
+  <Settlement id="castle_ES1" name="{=Settlements.Settlement.name.castle_ES1}Edessa Fortress" owner="Faction.clan_khuzait_1" posX="693.202" posY="306.624" culture="Culture.empire" prosperity="500" gate_posX="690.3297" gate_posY="306.6122">
     <Components>
       <Town id="castle_comp_ES1" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1284,7 +1284,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Trabzon Hisar" owner="Faction.clan_empire_south_5" posX="661.582" posY="363.757" culture="Culture.empire" prosperity="770" gate_posX="659.9361" gate_posY="361.8679">
+  <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Trabzon Hisar" owner="Faction.clan_khuzait_1" posX="661.582" posY="363.757" culture="Culture.empire" prosperity="770" gate_posX="659.9361" gate_posY="361.8679">
     <Components>
       <Town id="castle_comp_ES2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1320,7 +1320,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_empire_south_7" posX="616.057" posY="383.799" culture="Culture.empire" prosperity="810" gate_posX="618.9845" gate_posY="383.4362">
+  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_khuzait_1" posX="616.057" posY="383.799" culture="Culture.empire" prosperity="810" gate_posX="618.9845" gate_posY="383.4362">
     <Components>
       <Town id="castle_comp_ES3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1356,7 +1356,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Kozan Castle" owner="Faction.clan_empire_south_3" posX="620.957" posY="254.729" culture="Culture.empire" prosperity="1100" gate_posX="618.6501" gate_posY="255.7068">
+  <Settlement id="castle_ES4" name="{=Settlements.Settlement.name.castle_ES4}Kozan Castle" owner="Faction.clan_khuzait_1" posX="620.957" posY="254.729" culture="Culture.empire" prosperity="1100" gate_posX="618.6501" gate_posY="255.7068">
     <Components>
       <Town id="castle_comp_ES4" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1392,7 +1392,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Konya" owner="Faction.clan_empire_south_8" posX="557.31" posY="279.074" culture="Culture.empire" prosperity="850" gate_posX="555.6404" gate_posY="281.4941">
+  <Settlement id="castle_ES5" name="{=Settlements.Settlement.name.castle_ES5}Konya" owner="Faction.clan_khuzait_1" posX="557.31" posY="279.074" culture="Culture.empire" prosperity="850" gate_posX="555.6404" gate_posY="281.4941">
     <Components>
       <Town id="castle_comp_ES5" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1415,7 +1415,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Wawel Castle" owner="Faction.clan_empire_south_1" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
+  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Wawel Castle" owner="Faction.clan_empire_north_3" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
     <Components>
       <Town id="castle_comp_ES6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1438,7 +1438,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES7" name="{=Settlements.Settlement.name.castle_ES7}Jogurys Castle" owner="Faction.clan_empire_south_7" posX="654.539" posY="434.006" culture="Culture.empire" prosperity="1050" gate_posX="651.8367" gate_posY="432.7817">
+  <Settlement id="castle_ES7" name="{=Settlements.Settlement.name.castle_ES7}Jogurys Castle" owner="Faction.clan_khuzait_1" posX="654.539" posY="434.006" culture="Culture.empire" prosperity="1050" gate_posX="651.8367" gate_posY="432.7817">
     <Components>
       <Town id="castle_comp_ES7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1485,7 +1485,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Imperial subfaction 3 begins -->
-  <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Antioch (Antakya)" owner="Faction.clan_empire_south_3" posX="661.191" posY="276.466" culture="Culture.empire" prosperity="4900" gate_posX="659.0048" gate_posY="276.9256">
+  <Settlement id="town_ES1" name="{=Settlements.Settlement.name.town_ES1}Antioch (Antakya)" owner="Faction.clan_empire_south_1" posX="661.191" posY="276.466" culture="Culture.empire" prosperity="4900" gate_posX="659.0048" gate_posY="276.9256">
     <Components>
       <Town id="town_comp_ES1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_seaside_1" wait_mesh="wait_empire_town" gate_rotation="0.808" />
     </Components>
@@ -1560,7 +1560,7 @@
   </Settlement>
   <!-- Rhogas and Lykaron - west and center of larger southern lake, clan 7, queen-->
   <!-- Rhogas is tight between lake and mountains, like Trebizond -->
-  <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Tarsus" owner="Faction.clan_empire_south_4" posX="568.691" posY="239.759" culture="Culture.empire" prosperity="5100" gate_posX="571.2314" gate_posY="243.8832">
+  <Settlement id="town_ES2" name="{=Settlements.Settlement.name.town_ES2}Tarsus" owner="Faction.clan_khuzait_1" posX="568.691" posY="239.759" culture="Culture.empire" prosperity="5100" gate_posX="571.2314" gate_posY="243.8832">
     <Components>
       <Town id="town_comp_ES2" is_castle="false" level="1" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1693,7 +1693,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Belgrade" owner="Faction.clan_empire_south_1" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
+  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Belgrade" owner="Faction.clan_empire_north_3" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
     <Components>
       <Town id="town_comp_ES4" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1752,7 +1752,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Savas" owner="Faction.clan_empire_south_1" posX="645.315" posY="325.385" culture="Culture.empire" prosperity="3400" gate_posX="644.1401" gate_posY="327.315">
+  <Settlement id="town_ES5" name="{=Settlements.Settlement.name.town_ES5}Savas" owner="Faction.clan_khuzait_1" posX="645.315" posY="325.385" culture="Culture.empire" prosperity="3400" gate_posX="644.1401" gate_posY="327.315">
     <Components>
       <Town id="town_comp_ES5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1872,7 +1872,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Trabzon" owner="Faction.clan_empire_south_5" posX="651.026" posY="387.791" culture="Culture.empire" prosperity="4000" gate_posX="648.9574" gate_posY="388.6999">
+  <Settlement id="town_ES7" name="{=Settlements.Settlement.name.town_ES7}Trabzon" owner="Faction.clan_empire_south_1" posX="651.026" posY="387.791" culture="Culture.empire" prosperity="4000" gate_posX="648.9574" gate_posY="388.6999">
     <Components>
       <Town id="town_comp_ES7" is_castle="false" level="2" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -2802,7 +2802,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tripoli" owner="Faction.clan_aserai_8" posX="650.405" posY="210.393" culture="Culture.aserai" gate_posX="649.2784" gate_posY="211.1711">
+  <Settlement id="castle_A8" name="{=Settlements.Settlement.name.castle_A8}Tripoli" owner="Faction.clan_empire_south_1" posX="650.405" posY="210.393" culture="Culture.aserai" gate_posX="649.2784" gate_posY="211.1711">
     <Components>
       <Town id="castle_comp_A8" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -3362,7 +3362,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Vlandia - 8 towns, 22 villages, 5 castles, 2.75 villages per town, 23% castle ratio -->
-  <Settlement id="castle_V1" name="{=Settlements.Settlement.name.castle_V1}Castillo Almonacid de Toledo" owner="Faction.clan_vlandia_8" posX="223.555" posY="357.026" culture="Culture.vlandia" prosperity="537" gate_posX="222.5224" gate_posY="356.4457">
+  <Settlement id="castle_V1" name="{=Settlements.Settlement.name.castle_V1}Castillo Almonacid de Toledo" owner="Faction.clan_empire_west_1" posX="223.555" posY="357.026" culture="Culture.vlandia" prosperity="537" gate_posX="222.5224" gate_posY="356.4457">
     <Components>
       <Town id="castle_comp_V1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3444,7 +3444,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V4" name="{=Settlements.Settlement.name.castle_V4}Wewelsburg Castle" owner="Faction.clan_vlandia_10" posX="199.557" posY="521.81" culture="Culture.vlandia" prosperity="650" gate_posX="199.5611" gate_posY="522.6012">
+  <Settlement id="castle_V4" name="{=Settlements.Settlement.name.castle_V4}Wewelsburg Castle" owner="Faction.clan_empire_west_1" posX="199.557" posY="521.81" culture="Culture.vlandia" prosperity="650" gate_posX="199.5611" gate_posY="522.6012">
     <Components>
       <Town id="castle_comp_V4" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3539,7 +3539,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V7" name="{=Settlements.Settlement.name.castle_V7}Chateau Narbonnaise" owner="Faction.clan_vlandia_1" posX="201.425" posY="415.486" culture="Culture.vlandia" prosperity="770" gate_posX="202.3589" gate_posY="416.0108">
+  <Settlement id="castle_V7" name="{=Settlements.Settlement.name.castle_V7}Chateau Narbonnaise" owner="Faction.clan_battania_1" posX="201.425" posY="415.486" culture="Culture.vlandia" prosperity="770" gate_posX="202.3589" gate_posY="416.0108">
     <Components>
       <Town id="castle_comp_V7" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.908" />
     </Components>
@@ -3562,7 +3562,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_V8" name="{=Settlements.Settlement.name.castle_V8}Mainz" owner="Faction.clan_vlandia_7" posX="190.12" posY="466.865" culture="Culture.vlandia" prosperity="780" gate_posX="189.1221" gate_posY="466.6706">
+  <Settlement id="castle_V8" name="{=Settlements.Settlement.name.castle_V8}Mainz" owner="Faction.clan_empire_west_1" posX="190.12" posY="466.865" culture="Culture.vlandia" prosperity="780" gate_posX="189.1221" gate_posY="466.6706">
     <Components>
       <Town id="castle_comp_V8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.508" />
     </Components>
@@ -3586,7 +3586,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Sargot, from Calradic Sargythea, Right Whale bay-->
-  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Bordeaux" owner="Faction.clan_vlandia_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
+  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Paris" owner="Faction.clan_battania_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
     <Components>
       <Town id="town_comp_V1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.378" />
     </Components>
@@ -3649,7 +3649,7 @@
     </CommonAreas>
   </Settlement>
   <!-- From Calradic, Lobster claw  // how about Uxhall precursor - Arma-->
-  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Cologne" owner="Faction.clan_vlandia_7" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
+  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Cologne" owner="Faction.clan_empire_west_1" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
     <Components>
       <Town id="town_comp_V2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" />
     </Components>
@@ -3886,7 +3886,7 @@
   </Settlement>
   <!-- House of Arromanc - Clan 3 old Jelkala and Charys, by the sea. 4_3, 4_8, 4_14 -->
   <!-- From the pre-Calradic, jackal's den -->
-  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Paris" owner="Faction.clan_vlandia_3" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
+  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Bordeaux" owner="Faction.clan_battania_1" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
     <Components>
       <Town id="town_comp_V6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
@@ -3961,7 +3961,7 @@
     </CommonAreas>
   </Settlement>
   <!-- -->
-  <Settlement id="town_V7" name="{=Settlements.Settlement.name.town_V7}Lisbon" owner="Faction.clan_vlandia_4" posX="182.189" posY="338.675" culture="Culture.vlandia" prosperity="3000" gate_posX="184.4817" gate_posY="342.4593">
+  <Settlement id="town_V7" name="{=Settlements.Settlement.name.town_V7}Lisbon" owner="Faction.clan_empire_west_1" posX="182.189" posY="338.675" culture="Culture.vlandia" prosperity="3000" gate_posX="184.4817" gate_posY="342.4593">
     <Components>
       <Town id="town_comp_V7" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
@@ -4140,7 +4140,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B2" name="{=Settlements.Settlement.name.castle_B2}Llanoc Hen Castle" owner="Faction.clan_battania_7" posX="249.177" posY="434.045" culture="Culture.battania" prosperity="720" gate_posX="248.2829" gate_posY="435.3959">
+  <Settlement id="castle_B2" name="{=Settlements.Settlement.name.castle_B2}Llanoc Hen Castle" owner="Faction.clan_empire_west_1" posX="249.177" posY="434.045" culture="Culture.battania" prosperity="720" gate_posX="248.2829" gate_posY="435.3959">
     <Components>
       <Town id="castle_comp_B2" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4176,7 +4176,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B3" name="{=Settlements.Settlement.name.castle_B3}Hamburg Castle" owner="Faction.clan_battania_6" posX="231.186" posY="520.256" culture="Culture.battania" prosperity="1060" gate_posX="229.8816" gate_posY="518.6246">
+  <Settlement id="castle_B3" name="{=Settlements.Settlement.name.castle_B3}Hamburg Castle" owner="Faction.clan_empire_west_1" posX="231.186" posY="520.256" culture="Culture.battania" prosperity="1060" gate_posX="229.8816" gate_posY="518.6246">
     <Components>
       <Town id="castle_comp_B3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4199,7 +4199,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B4" name="{=Settlements.Settlement.name.castle_B4}Pendraic Castle" owner="Faction.clan_battania_3" posX="274.145" posY="519.959" culture="Culture.battania" prosperity="950" gate_posX="276.4131" gate_posY="521.3125">
+  <Settlement id="castle_B4" name="{=Settlements.Settlement.name.castle_B4}Pendraic Castle" owner="Faction.clan_empire_west_1" posX="274.145" posY="519.959" culture="Culture.battania" prosperity="950" gate_posX="276.4131" gate_posY="521.3125">
     <Components>
       <Town id="castle_comp_B4" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4222,7 +4222,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B5" name="{=Settlements.Settlement.name.castle_B5}Sanssouci Palace" owner="Faction.clan_battania_1" posX="315.343" posY="446.698" culture="Culture.battania" prosperity="860" gate_posX="313.89" gate_posY="448.3491">
+  <Settlement id="castle_B5" name="{=Settlements.Settlement.name.castle_B5}Sanssouci Palace" owner="Faction.clan_empire_west_1" posX="315.343" posY="446.698" culture="Culture.battania" prosperity="860" gate_posX="313.89" gate_posY="448.3491">
     <Components>
       <Town id="castle_comp_B5" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4258,7 +4258,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B6" name="{=Settlements.Settlement.name.castle_B6}Riberhus Castle" owner="Faction.clan_battania_4" posX="324.518" posY="525.065" culture="Culture.battania" prosperity="720" gate_posX="325.4799" gate_posY="526.4038">
+  <Settlement id="castle_B6" name="{=Settlements.Settlement.name.castle_B6}Riberhus Castle" owner="Faction.clan_empire_west_1" posX="324.518" posY="525.065" culture="Culture.battania" prosperity="720" gate_posX="325.4799" gate_posY="526.4038">
     <Components>
       <Town id="castle_comp_B6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4294,7 +4294,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B7" name="{=Settlements.Settlement.name.castle_B7}Aster Castle" owner="Faction.clan_battania_2" posX="235.129" posY="478.09" culture="Culture.battania" prosperity="652" gate_posX="236.0877" gate_posY="477.6715">
+  <Settlement id="castle_B7" name="{=Settlements.Settlement.name.castle_B7}Aster Castle" owner="Faction.clan_empire_west_1" posX="235.129" posY="478.09" culture="Culture.battania" prosperity="652" gate_posX="236.0877" gate_posY="477.6715">
     <Components>
       <Town id="castle_comp_B7" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4317,7 +4317,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_B8" name="{=Settlements.Settlement.name.castle_B8}Uthelaim Castle" owner="Faction.clan_battania_1" posX="352.646" posY="497.737" culture="Culture.battania" prosperity="960" gate_posX="354.5785" gate_posY="496.8703">
+  <Settlement id="castle_B8" name="{=Settlements.Settlement.name.castle_B8}Uthelaim Castle" owner="Faction.clan_empire_west_1" posX="352.646" posY="497.737" culture="Culture.battania" prosperity="960" gate_posX="354.5785" gate_posY="496.8703">
     <Components>
       <Town id="castle_comp_B8" is_castle="true" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.908" />
     </Components>
@@ -4341,7 +4341,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Ford of the Horse -->
-  <Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Brandenburg (Berlin)" owner="Faction.clan_battania_1" posX="291.206" posY="442.702" culture="Culture.battania" prosperity="5000" gate_posX="291.2067" gate_posY="442.7153">
+  <Settlement id="town_B1" name="{=Settlements.Settlement.name.town_B1}Brandenburg (Berlin)" owner="Faction.clan_empire_west_1" posX="291.206" posY="442.702" culture="Culture.battania" prosperity="5000" gate_posX="291.2067" gate_posY="442.7153">
     <Components>
       <Town id="town_comp_B1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.108" />
     </Components>
@@ -4417,7 +4417,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Rock of Glanys -->
-  <Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Dunglanys" owner="Faction.clan_battania_2" posX="266.414" posY="483.402" culture="Culture.battania" prosperity="4000" gate_posX="266.2964" gate_posY="485.9951">
+  <Settlement id="town_B2" name="{=Settlements.Settlement.name.town_B2}Dunglanys" owner="Faction.clan_empire_west_1" posX="266.414" posY="483.402" culture="Culture.battania" prosperity="4000" gate_posX="266.2964" gate_posY="485.9951">
     <Components>
       <Town id="town_comp_B2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="battania_town_3" wait_mesh="wait_battania_town" gate_rotation="0.638" />
     </Components>
@@ -4505,7 +4505,7 @@
     </CommonAreas>
   </Settlement>
   <!-- "Town of the Sons of Cyd" -->
-  <Settlement id="town_B3" name="{=Settlements.Settlement.name.town_B3}Car Banseth" owner="Faction.clan_battania_3" posX="255.387" posY="515.614" culture="Culture.battania" prosperity="2200" gate_posX="253.7009" gate_posY="513.0099">
+  <Settlement id="town_B3" name="{=Settlements.Settlement.name.town_B3}Car Banseth" owner="Faction.clan_empire_west_1" posX="255.387" posY="515.614" culture="Culture.battania" prosperity="2200" gate_posX="253.7009" gate_posY="513.0099">
     <Components>
       <Town id="town_comp_B3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.808" />
     </Components>
@@ -4580,7 +4580,7 @@
     </CommonAreas>
   </Settlement>
   <!-- "castle of banseth"-->
-  <Settlement id="town_B4" name="{=Settlements.Settlement.name.town_B4}Seonon" owner="Faction.clan_battania_4" posX="329.92" posY="474.32" culture="Culture.battania" prosperity="2400" gate_posX="327.1309" gate_posY="473.0402">
+  <Settlement id="town_B4" name="{=Settlements.Settlement.name.town_B4}Seonon" owner="Faction.clan_empire_west_1" posX="329.92" posY="474.32" culture="Culture.battania" prosperity="2400" gate_posX="327.1309" gate_posY="473.0402">
     <Components>
       <Town id="town_comp_B4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" />
     </Components>
@@ -4667,7 +4667,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_B5" name="{=Settlements.Settlement.name.town_B5}Frankfurt" owner="Faction.clan_battania_5" posX="231.631" posY="451.187" culture="Culture.battania" prosperity="3800" gate_posX="230.1822" gate_posY="448.8185">
+  <Settlement id="town_B5" name="{=Settlements.Settlement.name.town_B5}Frankfurt" owner="Faction.clan_empire_west_1" posX="231.631" posY="451.187" culture="Culture.battania" prosperity="3800" gate_posX="230.1822" gate_posY="448.8185">
     <Components>
       <Town id="town_comp_B5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.608" />
     </Components>
