@@ -1284,7 +1284,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Trabzon Hisar" owner="Faction.clan_khuzait_1" posX="661.582" posY="363.757" culture="Culture.empire" prosperity="770" gate_posX="659.9361" gate_posY="361.8679">
+  <Settlement id="castle_ES2" name="{=Settlements.Settlement.name.castle_ES2}Trabzon Hisar" owner="Faction.clan_empire_south_1" posX="661.582" posY="363.757" culture="Culture.empire" prosperity="770" gate_posX="659.9361" gate_posY="361.8679">
     <Components>
       <Town id="castle_comp_ES2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1320,7 +1320,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_khuzait_1" posX="616.057" posY="383.799" culture="Culture.empire" prosperity="810" gate_posX="618.9845" gate_posY="383.4362">
+  <Settlement id="castle_ES3" name="{=Settlements.Settlement.name.castle_ES3}Melion Castle" owner="Faction.clan_empire_south_1" posX="616.057" posY="383.799" culture="Culture.empire" prosperity="810" gate_posX="618.9845" gate_posY="383.4362">
     <Components>
       <Town id="castle_comp_ES3" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -3586,7 +3586,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Sargot, from Calradic Sargythea, Right Whale bay-->
-  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Bordeaux" owner="Faction.clan_battania_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
+  <Settlement id="town_V1" name="{=Settlements.Settlement.name.town_V1}Paris" owner="Faction.clan_battania_1" posX="210.378" posY="383.893" culture="Culture.vlandia" prosperity="4500" gate_posX="207.0884" gate_posY="386.9565">
     <Components>
       <Town id="town_comp_V1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.378" />
     </Components>
@@ -3886,7 +3886,7 @@
   </Settlement>
   <!-- House of Arromanc - Clan 3 old Jelkala and Charys, by the sea. 4_3, 4_8, 4_14 -->
   <!-- From the pre-Calradic, jackal's den -->
-  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Paris" owner="Faction.clan_battania_1" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
+  <Settlement id="town_V6" name="{=Settlements.Settlement.name.town_V6}Bordeaux" owner="Faction.clan_battania_1" posX="149.91" posY="392.826" culture="Culture.vlandia" prosperity="4000" gate_posX="154.0926" gate_posY="392.1963">
     <Components>
       <Town id="town_comp_V6" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.408" />
     </Components>
