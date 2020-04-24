@@ -1067,7 +1067,7 @@
   </Settlement>
   <!-- Ortysia sits on a low-lying delta near the end of the lake. Reed-beds, like Itil or Astrakhan -->
   <!-- quailmarsh -->
-  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Granada" owner="Faction.clan_empire_west_2" posX="304.702" posY="331.418" culture="Culture.empire" prosperity="5600" gate_posX="306.2194" gate_posY="334.3485">
+  <Settlement id="town_EW4" name="{=Settlements.Settlement.name.town_EW4}Granada" owner="Faction.clan_aserai_1" posX="304.702" posY="331.418" culture="Culture.empire" prosperity="5600" gate_posX="306.2194" gate_posY="334.3485">
     <Components>
       <Town id="town_comp_EW4" is_castle="false" level="2" background_crop_position="0.45" background_mesh="menu_empire_seaside_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
