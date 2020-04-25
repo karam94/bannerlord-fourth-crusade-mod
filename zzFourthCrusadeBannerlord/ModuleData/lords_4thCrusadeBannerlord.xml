@@ -354,7 +354,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Lucon's wife. Traditional matriarch, benevolent-->
-  <NPCCharacter id="lord_1_2" name="{=wbLqHvjE}Zerosica" age="52" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_2" name="{=wbLqHvjE}Agatha" age="52" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0006eb9700000002996697b5ada9959a78999668743273447ab68778a7569692000a900e059879880000000000000ffe00000000000000000000000000000003" /-->
       <BodyProperties version="4" key="0005E80700000002996697B5ADAB959A78999668743273447AB68778A75696920007B008059879880000000000000FFE00000000000000000000000000C80004" />
@@ -369,7 +369,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Manteos Argoros, Patriarch of clan 2, stoic STEVEDIDFACE -->
-  <NPCCharacter id="lord_1_3" name="{=6GC0PsSh}Manteos" age="56" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_3" name="{=6GC0PsSh}Hermann" age="56" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000c63f1807c334db83cd2ed113114608a3c9abb76a6ba5456630141aaa69958000714bfae1d2189000000000000000000000000000000000000000000002183" /-->
       <BodyProperties version="4" key="000B6001407C334DB83CD2ED113614608A3C9ABB76A6BA5456630141AAA69958000764BA0E1D2189000000000000000000000000000000000000000001182184" />
@@ -388,7 +388,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Phenoria, matriarch of clan 2, -->
-  <NPCCharacter id="lord_1_4" name="{=WrAMfIG1}Phenoria" default_group="Cavalry" age="53" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_4" name="{=WrAMfIG1}Augustus" default_group="Cavalry" age="53" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="00064927c03c03804e486a9816653e5454789a77389b757a742b4376be86827c000a5b54ba7956c50000000000000ffe00000000000000000000000000009000" /-->
       <BodyProperties version="4" weight="0.4491" build="0.4244" key="00054807004403854E486A9816653E5454789A77389B757A742B4376BE86827C07567B78057956C50000000000000FFE00000000000000000000000000989000" />
@@ -404,7 +404,7 @@
     </Traits>
   </NPCCharacter>
   <!--Clan 3 patriarch Penton Neretzes is imperial blowhard, part of aristocratic imperial faction -->
-  <NPCCharacter id="lord_1_5" name="{=1cKxsHSh}Penton" age="51" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+  <NPCCharacter id="lord_1_5" name="{=1cKxsHSh}Cyrus" age="51" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
     <face>
       <!--face_key value="0011812fc03c000d56c95a399826a7946c65c77675b4c727b9a5987c94b6ba3b000e64740cda898600001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" key="0011800FC03C000D56C95A39982BA7946C65C77675B4C727B9A5987C94B6BA3B0007B47A0CDA898600001105000030A30000001F000000000000000001B89000" />
@@ -440,7 +440,7 @@
 		<equipment slot="Horse" id="Item.noble_horse" />
 	</NPCCharacter>
   -->
-  <NPCCharacter id="lord_1_6" name="{=q186AQHt}Phadon" age="19" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+  <NPCCharacter id="lord_1_6" name="{=q186AQHt}Milos" age="19" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
     <face>
       <!--face_key value="0011812fc03c000d56c95a399826a7946c65c77675b4c727b9a5987c94b6ba3b000e64740cda898600001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" age="30.72" weight="0" build="0" key="0011800FC03C034E9AC95A39982BA7946C658E785779C5BA8BA878A694B6BA3B0100047A0F39258900001105000030A30000001F000000000000000001B85100" />
@@ -485,7 +485,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Vendelia, somewhat bitter, feels she is taken for granted by Gario, accepts her marriage as a duty-->
-  <NPCCharacter id="lord_1_8" name="{=VzhbUL60}Vendelia" default_group="Cavalry" age="47" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_8" name="{=VzhbUL60}Juliana" default_group="Cavalry" age="47" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.5507" build="0.5759" key="000BDC0A000020028672362967865369A91887176B723646DCA3773773849A54056986570636A93300000000000000000000000000000000000000004ADC2082" />
     </face>
@@ -500,7 +500,7 @@
     </Traits>
   </NPCCharacter>
   <!--Apys, Clan 5 patriarch is debauched. Switch with Ascyron?  000c7da440bc300e669e57882766477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000045040-->
-  <NPCCharacter id="lord_1_9" name="{=QjJAbaoT}Apys" age="57" voice="ironic" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_9" name="{=QjJAbaoT}Amalric" age="57" voice="ironic" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000b7da440bc300e669e57882765477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000005040" /-->
       <BodyProperties version="4" key="000B7C0440BC300E669E57882765477B8BB7397B87A7A78B85A54998AC6579DC0007086A09868975000000000000000000000000000000000000000000005040" />
@@ -520,7 +520,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Melkea, his wife. Equally amoral. -->
-  <NPCCharacter id="lord_1_10" default_group="Cavalry" age="41" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=WnhPFlON}Melkea">
+  <NPCCharacter id="lord_1_10" default_group="Cavalry" age="41" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=WnhPFlON}Teresa">
     <face>
       <BodyProperties version="4" weight="0.4241" build="0.7095" key="000BAC0A00141004B77326194AC4402599338A6798924403D8C24F3379749A46047B6646071634C300000000000000000000000000000000000000001EF41083" />
     </face>
@@ -535,7 +535,7 @@
     </Traits>
   </NPCCharacter>
   <!-- crotor, patriarch clan 5, akritic border guards />-->
-  <NPCCharacter id="lord_1_11" name="{=acp2IcMs}Crotor" default_group="HorseArcher" age="51" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_11" name="{=acp2IcMs}Theobald" default_group="HorseArcher" age="51" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000bd3058000100d785aa72917c606a54d469cdc9a3683a59a15af927269e22c0001647bc65d7806000000000000000000000000000000000000000000001183" /-->
       <BodyProperties version="4" key="000BD0058000100D785AA72917C606A54D469CDC9A3683A59A15AF927269E22C00070478065D7806000000000000000000000000000000000000000000001184" />
@@ -550,7 +550,7 @@
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_111" name="{=auMsvXpb}Maximin" default_group="HorseArcher" age="19" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_111" name="{=auMsvXpb}Bartholomew" default_group="HorseArcher" age="19" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000bd3058000100d785aa72917c606a54d469cdc9a3683a59a15af927269e22c0001647bc65d7806000000000000000000000000000000000000000000001183" /-->
       <BodyProperties version="4" age="30.7" weight="0" build="0" key="000BD0058000328878DAE579759C4B844D469CDC9A3683A59A15AF927269E22C01F004780F5D7806000000000000000000000000000000000000000000C01184" />
@@ -566,7 +566,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Lysica Dionikos, dutiful frontier nobility. Fighter -->
-  <NPCCharacter id="lord_1_12" default_group="Cavalry" age="40" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=dwFZFQ6V}Lysica">
+  <NPCCharacter id="lord_1_12" default_group="Cavalry" age="40" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=dwFZFQ6V}Helena">
     <face>
       <!--face_key value="000ca12e00bc2005478d688968868296a6779bb376d6a724d866c7b9a9a97b7d000cc774ad629b660000000000000ffe00000000000000000000000000001080" /-->
       <BodyProperties version="4" key="000CA00E40BC2005478D688968868296A6779BB376D6A724D866C7B9A9A97B7D0007077C0D629B660000000000000FFE00000000000000000000000000001080" />
@@ -627,7 +627,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Self-consciously old-fashioned nobleman, but sided with the least conservative of any faction on his son's advice. Based on Don Fabrizio in The Leopard STEVEDIDFACE -->
-  <NPCCharacter id="lord_1_15" name="{=48bvCvb2}Pharon" age="62" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_15" name="{=48bvCvb2}Benedict" age="62" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016cd2cc0000340640b69b8656667865969a5977d6878675667688679664368000000000769896600001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" key="0016CC0CC000034D640B69B8656667865969A5977D6878675667688679664368000000080769896600001105000030A30000001F000000000000000000A40000" />
@@ -651,7 +651,7 @@
     <equipmentSet></equipmentSet>
     <equipmentSet civilian="true"></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_155" name="{=UTFGUeVQ}Zeno" age="18" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_155" name="{=UTFGUeVQ}Balian" age="18" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016cd2cc0000340640b69b8656667865969a5977d6878675667688679664368000000000769896600001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" age="30.7" weight="0" build="0" key="0016800E40000200160B69B865666786596419627A665364566768869A8C6B6701E000080769896600001105000030A30000001F000000000000000000A44000" />
@@ -669,7 +669,7 @@
     <equipmentSet civilian="true"></equipmentSet>
   </NPCCharacter>
   <!-- Martira, sister of Destor, somewhat withdrawn -->
-  <NPCCharacter id="lord_1_16" name="{=2fYYfHUI}Martira" age="50" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" default_group="Cavalry" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_16" name="{=2fYYfHUI}Mary" age="50" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" default_group="Cavalry" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0000a128800000049a6a869356785374d67695669a8482546e75a699765777b5000000000668a9880000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0000A008800000049A6A869356765374D67695669A8482546E75A699765777B50006600A0668A9880000000000000FFE00000000000000000000000000280000" />
@@ -683,7 +683,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Oros Patriarch of Mestrikaros, clan 9, a lord who nurses his grievances -->
-  <NPCCharacter id="lord_1_17" name="{=JFVseSa3}Oros" age="50" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_17" name="{=JFVseSa3}Emicho" age="50" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011ad2700000008975d98b886669678796aa5a76a87677859779a888658234a000000040797967900001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" key="0011AC0700000008975D98B886639678796AA5A76A87677859779A888658234A000430090497967900001105000030A30000001F000000000000000000A40000" />
@@ -699,7 +699,7 @@
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_177" name="{=I2gnhOc2}Honoratus" age="19" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_177" name="{=I2gnhOc2}Hugh" age="19" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011ad2700000008975d98b886669678796aa5a76a87677859779a888658234a000000040797967900001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" age="30.7" weight="0" build="0" key="0011CC0700000002755D98B886639678761559B8B7C879465D6A74A99895786C01E000090EA91E5500001105000030A30000001F0000000000000000009C2000" />
@@ -715,7 +715,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Hythea, wealthy and somewhat garish />-->
-  <NPCCharacter id="lord_1_18" name="{=OMkSgsV2}Jathea" default_group="Cavalry" age="48" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_18" name="{=OMkSgsV2}Anne" default_group="Cavalry" age="48" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0004892fc00005ce98aa77b76970a46a77e739675a3862468b759958865696bd00000004058788780000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0005880FC000000E98AA77B76970A46A77E739675A3862468B759958865696BD00040008058788780000000000000FFE00000000000000000000000000000000" />
@@ -733,7 +733,7 @@
   <!--Lords 1-20 are clan patriarchs and their wives/>-->
   <!--Lords 21-30 are marriageable heirs/>-->
   <!-- Ascyron, Lucon's heir, Sulla type. More enthusiastic than father. Switch with Apys? -->
-  <NPCCharacter id="lord_1_21" default_group="Cavalry" age="28" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=rGuYLmez}Ascyron">
+  <NPCCharacter id="lord_1_21" default_group="Cavalry" age="28" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=rGuYLmez}Alban">
     <face>
       <!--face_key value="000b312cc000300da4a56a443fb6aa9674a624797769aaa8d879575b59b825b9000367440645277900001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" key="000B300CC000300DA4A56A443FB7AA9674A624797769AAA8D879575B59B825B9000777450745277900001105000030A30000001F000000000000000001403000" />
@@ -751,7 +751,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Andros. Heir clan 2. Generally benevolent -->
-  <NPCCharacter id="lord_1_22" default_group="Cavalry" age="23" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=uTFjknE2}Andros">
+  <NPCCharacter id="lord_1_22" default_group="Cavalry" age="23" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=uTFjknE2}Rupert">
     <face>
       <!--face_key value="0000ed2fd47c0001f6dc47ab897187b66caa59a1e2e0a735dc984294be4e6657000b1b8408ac733400001105000030a30000001f000000000000000000005100" /-->
       <BodyProperties version="4" key="0000EC0FD47C0001F6DC47AB897687B66CAA59A1E2E0A735DC984294BE4E665700066B8706AC733400001105000030A30000001F000000000000000000C85100" />
@@ -768,7 +768,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Heir clan 3, Neretzes. Shallow like his father, good voice though -->
-  <NPCCharacter id="lord_1_23" default_group="Cavalry" age="26" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=XkNnlSwA}Jastion">
+  <NPCCharacter id="lord_1_23" default_group="Cavalry" age="26" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=XkNnlSwA}Sebastian">
     <face>
       <!--face_key value="0000b122c000300deb67d938447c61a7658b5985a9a6594e143d5345aae756a7000bc2540898d94800001105000030a30000001f000000000000000000007000" /-->
       <BodyProperties version="4" key="0000B002C000300DEB67D938447261A7658B5985A9A6594E143D5345AAE756A7000522540598D94800001105000030A30000001F000000000000000000787000" />
@@ -785,7 +785,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- gario's son or nephew, traits not set. younger than father. Switch face with someone else -->
-  <NPCCharacter id="lord_1_24" name="{=PjSQYAaR}Tadeos" default_group="Cavalry" age="21" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_24" name="{=PjSQYAaR}Ranulf" default_group="Cavalry" age="21" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016f12640fc334d7b57826ca4c57ca67949e6aca88b3acd7a45da9768858686000259a40573767b00001105000030a30000001f000000000000000000006000" /-->
       <BodyProperties version="4" key="0016F00580FC334D7B57826CA4C27CA67949E6ACA88B3ACD7A45DA9768858686000329A20373767B00001105000030A30000001F000000000000000000A06000" />
@@ -801,7 +801,7 @@
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_75" name="{=LiAefNmE}Thephilos" default_group="Cavalry" age="20" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_75" name="{=LiAefNmE}Theobald" default_group="Cavalry" age="20" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016f12640fc334d7b57826ca4c57ca67949e6aca88b3acd7a45da9768858686000259a40573767b00001105000030a30000001f000000000000000000006000" /-->
       <BodyProperties version="4" age="20" weight="0" build="0" key="0011700FC0FC030896938148227587B669B586898A943687321998859647875401F0065A0F9DB435000000000000000000000000000000000000000000B48042" />
@@ -818,7 +818,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Apys Varros heir - charismatic psychopath -->
-  <NPCCharacter id="lord_1_25" default_group="Cavalry" age="22" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=DH7SnD7L}Eronyx">
+  <NPCCharacter id="lord_1_25" default_group="Cavalry" age="22" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=DH7SnD7L}Henry">
     <face>
       <BodyProperties version="4" weight="0.7886" build="0.5725" key="000BAC088000368E94800B923B3A288737AC765AF2D7A91197858F34731640730199C013097777C600000000000000000000000000000000000000005D204000" />
     </face>
@@ -836,7 +836,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Dionicos heir - border lords, also cautious tactician -->
-  <NPCCharacter id="lord_1_26" default_group="HorseArcher" age="19" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=tTuaiLS6}Meritor">
+  <NPCCharacter id="lord_1_26" default_group="HorseArcher" age="19" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=tTuaiLS6}Amadeus">
     <face>
       <!--face_key value="0016052e400003c67a776955ea791e79989c4b679a8c5255a77376d888c8d688000c9db4055c7ba600001105000030a30000001f000000000000000000048000" /-->
       <BodyProperties version="4" key="0016040E400003C67A776955EA791E79989C4B679A8C5255A77376D888C8D68800000DB2055C7BA600001105000030A30000001F000000000000000000048000" />
@@ -854,7 +854,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Patyr. Old emperor's nephew. Heir by blood if Ira is overlooked 000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000046000 -->
-  <NPCCharacter id="lord_1_27" default_group="Infantry" age="37" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=waQPRCaT}Patyr">
+  <NPCCharacter id="lord_1_27" default_group="Infantry" age="37" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=waQPRCaT}Odo">
     <face>
       <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
       <BodyProperties version="4" key="000B6C02C0BC100679D8455AA9684859888735557C6493786867627857B2895800058893058735D900001105000030A30000001F000000000000000001686000" />
@@ -870,7 +870,7 @@
       <Trait id="Generosity" value="1" />
     </Traits>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_277" default_group="Infantry" age="18" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=zaHnL2It}Eutropius">
+  <NPCCharacter id="lord_1_277" default_group="Infantry" age="18" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=zaHnL2It}Raoul">
     <face>
       <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
       <BodyProperties version="4" age="30.7" weight="0" build="0" key="000B8802C0BC1005B9D8455AA96848594597AD77996A54B899D967BA74979778010008930FBA9A7900001105000030A30000001F000000000000000001683100" />
@@ -886,7 +886,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Leonipardes heir. Cunning, aggressive, somewhat devious -->
-  <NPCCharacter id="lord_1_28" name="{=HGBWqbhQ}Temion" default_group="Infantry" age="25" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_28" name="{=HGBWqbhQ}Raimbaut" default_group="Infantry" age="25" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011500700fc0008697797684ab7518ca479a943769585b39599b4916b7ba668000b7e700797a98d000000000000000000000000000000000000000000043001" /-->
       <BodyProperties version="4" key="0011500700FC0008697797684AB4518CA479A943769585B39599B4916B7BA66800054E740597A98D0000000000000000000000000000000000000000011C0001" />
@@ -904,7 +904,7 @@
     </Traits>
   </NPCCharacter>
   <!--Sanion - heir to clan 9. Knight-errant type-->
-  <NPCCharacter id="lord_1_29" default_group="Infantry" age="23" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=5eTb2xr7}Sanion">
+  <NPCCharacter id="lord_1_29" default_group="Infantry" age="23" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord" name="{=5eTb2xr7}Peter">
     <face>
       <!--face_key value="000ba12b40001008a43a8ab8557488874a6a94868b767788988844778a69247900000004079777a800001105000030a30000001f000000000000000000040000" /-->
       <BodyProperties version="4" key="000BA00B40001008A43A8AB8557888874A6A94868B767788988844778A69247900058005079777A800001105000030A30000001F000000000000000000CC0000" />
@@ -923,7 +923,7 @@
   <!-- Lords 31-40 are marriageable daughters
   Combatants are:	Ira, Rhagaea's daughter -->
   <!--Lucon's daughter, conventional aristocratic maiden STEVEDIDFACE -->
-  <NPCCharacter id="lord_1_31" default_group="Cavalry" age="22" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=AccBcEIt}Zoana">
+  <NPCCharacter id="lord_1_31" default_group="Cavalry" age="22" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=AccBcEIt}Zoeanna">
     <face>
       <!--face_key value="0006512fc0bc200486c64a72893b945971883d46c8a8a49b869a54a87478b784000876b4dc4458ac0000000000000ffe00000000000000000000000000006000" /-->
       <BodyProperties version="4" key="0005500FC0BC000486C64A728933945971883D46C8A8A49B869A54A87478B784000536B30C4458AC0000000000000FFE00000000000000000000000000780000" />
@@ -940,7 +940,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Sora, Matthis' daughter. Honorable, a bit moralistic, conscientious ruler -->
-  <NPCCharacter id="lord_1_32" name="{=V1QLbhRl}Sora" voice="softspoken" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_32" name="{=V1QLbhRl}Sarah" voice="softspoken" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000cb99b00001003963657a49e526d58a75688678546525569688969855687d60007d006049779870000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="000BB80B40001003963657A49E536D58A75688678546525569688969855687D600043005049779870000000000000FFE00000000000000000000000000500000" />
@@ -956,7 +956,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Chalia, Neretzes' daughter. Clan 3 daughter. Much more astute than her parents. -->
-  <NPCCharacter id="lord_1_33" voice="ironic" age="22" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=AdK4Ilzw}Chalia">
+  <NPCCharacter id="lord_1_33" voice="ironic" age="22" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=AdK4Ilzw}Jacquelyn">
     <face>
       <!--face_key value="0006652b4000000287b86998a4136688bc87b56726542344956c8b7576556786000000006697a6680000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0005640B4000000287B86998A4156688BC87B56726542344956C8B7576556786000350040397A6680000000000000FFE00000000000000000000000000F00000" />
@@ -975,7 +975,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Nadea, Gario's daughter. Huntress.-->
-  <NPCCharacter id="lord_1_34" default_group="Infantry" age="14" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=uLjRHv9p}Nadea">
+  <NPCCharacter id="lord_1_34" default_group="Infantry" age="14" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=uLjRHv9p}Mona">
     <face>
       <!--face_key value="0005f92980000005a8979a79968745886bc878557396513466647967965548a70000000097889b670000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0005F80A00000005A8979A79968B45886BC878557396513466647967965548A7000EB0070E889B670000000000000FFE00000000000000000000000001180000" />
@@ -991,7 +991,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Mina, daughter of debauched Apys. -->
-  <NPCCharacter id="lord_1_35" name="{=QvfUqzpF}Mina" voice="earnest" age="18" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+  <NPCCharacter id="lord_1_35" name="{=QvfUqzpF}Monica" voice="earnest" age="18" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
     <face>
       <BodyProperties version="4" weight="0.6154" build="0.2899" key="00057C04400020029673264B47856554EA72881968858A46D9A28774766555770374963507334537000000000000000000000000000000000000000020FC2003" />
     </face>
@@ -1007,7 +1007,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Phaea. Dionikos daughter. Mother is also combatant -->
-  <NPCCharacter id="lord_1_36" default_group="Infantry" age="20" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=FUT6eXfw}Phaea">
+  <NPCCharacter id="lord_1_36" default_group="Infantry" age="20" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=FUT6eXfw}Ursula">
     <face>
       <BodyProperties version="4" weight="0.5664" build="0.7577" key="0011900A12142006A87321448876B529E920889893905436D8C49E55747A584504BB86450B3756930000000000000000000000000000000000000000716C3041" />
     </face>
@@ -1022,7 +1022,7 @@
     </Traits>
   </NPCCharacter>
   <!-- rhagaea's daughter, impetuous. Ira must be very young, as her mother is 40 -->
-  <NPCCharacter id="lord_1_37" name="{=HSlPLC4m}Ira" default_group="Cavalry" age="21" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_37" name="{=HSlPLC4m}Philomena" default_group="Cavalry" age="21" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="001cf40e40fc10076c63396b58a66c7159da89aadd789458b79bde7778360676000f0760088be39b000000000000000000000000000000000000000000001180" /-->
       <BodyProperties version="4" key="001CF40E40FC10076C63396B58A46C7159DA89AADD789458B79BDE7778360676000C47660C8BE39B000000000000000000000000000000000000000001681180" />
@@ -1041,7 +1041,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- leonipardes's daughter -->
-  <NPCCharacter id="lord_1_38" name="{=6YiMWxVM}Helea" age="24" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_38" name="{=6YiMWxVM}Helen" age="24" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0002bd2e00000003aa8679a465a81478883ab7777b55214664489a69975696a5000000008788a7860000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0000BC0E00000003AA8679A465A51478883AB7777B55214664489A69975696A5000550070588A7860000000000000FFE00000000000000000000000000A00000" />
@@ -1057,7 +1057,7 @@
     </Traits>
   </NPCCharacter>
   <!-- clan 9 daughter. Debana Mestrikaros. Conventional but a bit off />-->
-  <NPCCharacter id="lord_1_39" name="{=YBGCXSEx}Debana" age="20" voice="ironic" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_39" name="{=YBGCXSEx}Dorothea" age="20" voice="ironic" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.3025" build="0.5377" key="0005F00CC02810048774371C48B5C916EA6489378A81A846D9926C347476669603A856350A065B26000000000000000000000000000000000000000061441002" />
     </face>
@@ -1073,7 +1073,7 @@
   </NPCCharacter>
   <!-- Lords 41-50 lieutenants, uncles and others of the clans-->
   <!-- clan 1 lieutenant. Lucon's cousin. Far more ruthless than the clan leader -->
-  <NPCCharacter id="lord_1_41" name="{=O75XlydW}Arcor" default_group="Cavalry" age="50" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_41" name="{=O75XlydW}Probus" default_group="Cavalry" age="50" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0022752000003385b478815ce898cb34ac8a23954c63417d77a7894b7d57b497000d869406b6674800001105000030a30000001f000000000000000000045000" /-->
       <BodyProperties version="4" key="0022740000003385B478815CE898CB34AC8A23954C63417D77A7894B7D57B4970000069306B6674800001105000030A30000001F000000000000000000045000" />
@@ -1089,7 +1089,7 @@
       <Trait id="Generosity" value="-1" />
     </Traits>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_411" name="{=W1uwgvAQ}Arion" default_group="Cavalry" age="19" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_411" name="{=W1uwgvAQ}Gallus" default_group="Cavalry" age="19" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0022752000003385b478815ce898cb34ac8a23954c63417d77a7894b7d57b497000d869406b6674800001105000030a30000001f000000000000000000045000" /-->
       <BodyProperties version="4" age="30.14" weight="0" build="0" key="002254000000318B8A78815CE898CB34AC8AAA56A7E9BAAD7751A8627D57B49701F006930FA4644100001105000030A30000001F000000000000000000C42140" />
@@ -1106,7 +1106,7 @@
     </Traits>
   </NPCCharacter>
   <!-- clan 2 lieutenant. Mathhis cousin. Ferocious, dedicated to the clan. One eyed -->
-  <NPCCharacter id="lord_1_42" name="{=10urvYUQ}Belithor" default_group="HorseArcher" age="37" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_42" name="{=10urvYUQ}Quintillus" default_group="HorseArcher" age="37" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0006ad2b19bc0346c8647b87d6874a728a687b9aa7686e39e2e25ba8b8e8c7b5000a7b5406a87e7800001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" key="0005AC0B59BC0346C8647B87D6824A728A687B9AA7686E39E2E25BA8B8E8C7B500022B5302A87E7800001105000030A30000001F000000000000000001180000" />
@@ -1122,7 +1122,7 @@
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_422" name="{=LQYkBOsU}Maurentios" default_group="HorseArcher" age="17" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_422" name="{=LQYkBOsU}Marcian" default_group="HorseArcher" age="17" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <BodyProperties version="4" age="30.14" weight="0" build="0" key="00114C0CC000330F65371862C8DAA796D74B88E35876439552595B748B7AB667010006890F77A68B000000000000000000000000000000000000000001547104" />
     </face>
@@ -1138,7 +1138,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Chason. clan 3 lieutenant. Foul tempered -->
-  <NPCCharacter id="lord_1_43" name="{=Dsclf61p}Chason" voice="curt" default_group="Cavalry" age="48" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_43" name="{=Dsclf61p}Baldwin" voice="curt" default_group="Cavalry" age="48" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011cd4597bc034694a8c26585aaa93992d5a78776779c82329b657437695d350005a5a50de9ba6200001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" key="0011CC0597BC034694A8C26585AAA93992D5A78776779C82329B657437695D35000005A60DE9BA6200001105000030A30000001F000000000000000000000000" />
@@ -1156,7 +1156,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Nemos. clan 4 lieutenant for gario. dedicated to gario. stern -->
-  <NPCCharacter id="lord_1_44" name="{=u1lTJoPO}Nemos" voice="curt" default_group="Cavalry" age="38" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_44" name="{=u1lTJoPO}Valentinian" voice="curt" default_group="Cavalry" age="38" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000ccf5c80004008776c57c967305779596a85ab79877778859898977677345b0009000d07a9688700001105000030a30000001f000000000000000000000002" /-->
       <BodyProperties version="4" key="000BCC0CC0004008776C57C967305779596A85AB79877778859898977677345B0000000507A9688700001105000030A30000001F000000000000000000000003" />
@@ -1173,7 +1173,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- clan 7 lieutenant. ulbos, rhagaea ally, fanatic partisan -->
-  <NPCCharacter id="lord_1_47" name="{=xViSxONn}Ulbos" default_group="Cavalry" age="45" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_47" name="{=xViSxONn}Peter" default_group="Cavalry" age="45" voice="curt" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011b52597bc038e94a8c26585aaa93992d5a78776779c82329b657437695d350005a5a40de9ba6200001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" key="0011B40597BC038E94A8C26585AAA93992D5A78776779C82329B657437695D35000005A80DE9BA6200001105000030A30000001F000000000000000000000000" />
@@ -1191,7 +1191,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- clan 9 lieutenant. Oros cousin. Selfish and narrow-minded, timid -->
-  <NPCCharacter id="lord_1_49" name="{=QGIAbglw}Obron" default_group="Cavalry" age="51" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_49" name="{=QGIAbglw}Thomas" default_group="Cavalry" age="51" voice="softspoken" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
     </face>
@@ -1229,7 +1229,7 @@
   <!-- Encurion. Young, ambitious, slighted, but intelligent and highly attentive to others. Lucon's faction 0000f52700000005a65878789bb645948b55d5787db57345a7eb59688555658400000000088779a60000000000000ffe00000000000000000000000000040000
   From Milos: 0016b94a00003005954c59997341585a4969b5769b85789865677b96475832690006100507a7968800001105000030a30000001f000000000000000000000000
     -->
-  <NPCCharacter id="lord_1_20" name="{=rUvnbDi2}Encurion" age="28" voice="softspoken" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="false" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_20" name="{=rUvnbDi2}Heribrand" age="28" voice="softspoken" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" is_female="false" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0000f52640000005a65878789bb045948b55d5787db57345a7eb59688555658400000004088779a60000000000000ffe00000000000000000000000000000000" /-->
       <BodyProperties version="4" key="0000F40580000005A65878789BB045948B55D5787DB57345A7EB59688555658400000003088779A60000000000000FFE00000000000000000000000000000000" />
@@ -1246,7 +1246,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Gyphor. Calm, lucon's faction -->
-  <NPCCharacter id="lord_1_50" name="{=jQjouVRk}Gyphor" age="33" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_50" name="{=jQjouVRk}Frederick" age="33" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="00001922c07c300d85b59a65aa3c9b459c37c864689775ac5549d695b8aade8e0006c9a4014627c300001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" key="00001802C07C300D85B59A65AA3C9B459C37C864689775AC5549D695B8AADE8E000009A3014627C300001105000030A30000001F000000000000000000002000" />
@@ -1264,7 +1264,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Nicasor. Gruff but very competent fanatic, lucon's faction. One eyed -->
-  <NPCCharacter id="lord_1_51" name="{=3qr3bhL6}Nicasor" age="36" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_51" name="{=3qr3bhL6}Andre" age="36" voice="curt" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="00056921507c1404c37b6d89a64664b96727852b496b67a19757a65adaa79924000368a40945845600001105000030a30000001f000000000000000000006000" /-->
       <BodyProperties version="4" key="00056801507C1404C37B6D89A64664B96727852B496B67A19757A65ADAA79924000008A20945845600001105000030A30000001F000000000000000000006000" />
@@ -1283,7 +1283,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Tasynor, Lucon's faction. Smug, privileged, self-righteous -->
-  <NPCCharacter id="lord_1_58" name="{=MaeS2r7p}Tasynor" age="26" voice="earnest" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_58" name="{=MaeS2r7p}Phillipe" age="26" voice="earnest" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016b52cc0bc334056a4c39ba7b77ccd78918637473d7c8cd5e5a4648b7dbc3a000874740c774e6800001105000030a30000001f000000000000000000001000" /-->
       <BodyProperties version="4" key="0016B40CC0BC334056A4C39BA7B77CCD78918637473D7C8CD5E5A4648B7DBC3A000004730C774E6800001105000030A30000001F000000000000000000001000" />
@@ -1302,7 +1302,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Miron, eccentric stoic. Lucon -->
-  <NPCCharacter id="lord_1_64" name="{=6ZTCwKfD}Miron" age="27" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_64" name="{=6ZTCwKfD}Ranulf" age="27" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000bf52580fc334e8489486c8926e456a760cc57355354dbc67e4315618a3cab000665e40977a7b900001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" key="000BF40580FC334E8489486C8926E456A760CC57355354DBC67E4315618A3CAB000005E60977A7B900001105000030A30000001F000000000000000000002000" />
@@ -1322,7 +1322,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Lantanor, opportunist. Somewhat like Primus. Lucon />-->
-  <NPCCharacter id="lord_1_66" name="{=YWJUZlzt}Lantanor" default_group="HorseArcher" age="33" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_66" name="{=YWJUZlzt}Sibylla" default_group="HorseArcher" age="33" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000dad2014bc300dcac3b86636658da2496c32aa369d8da659d498889759587c000a54240ba9c63700001105000030a30000001f000000000000000000007000" /-->
       <BodyProperties version="4" key="000DAC0014BC300DCAC3B86636658DA2496C32AA369D8DA659D498889759587C000004230BA9C63700001105000030A30000001F000000000000000000007000" />
@@ -1341,7 +1341,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Olypos, older. Genuine republican, military-oriented Cicero -->
-  <NPCCharacter id="lord_1_67" name="{=eTS0B8NB}Olypos" default_group="HorseArcher" age="43" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_67" name="{=eTS0B8NB}Balian" default_group="HorseArcher" age="43" voice="ironic" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016e01b40003348980b78896749797b4978a57a8a77777657799579775624670006900007877a8900001105000030a30000001f000000000000000000000002" /-->
       <BodyProperties version="4" key="0016E00B40003348980B78896749797B4978A57A8A77777657799579775624670000000607877A8900001105000030A30000001F000000000000000000000003" />
@@ -1361,7 +1361,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Panalea, Heiress. Husband a general for Garios, he spoke up for her. Senate vote did not recognize her right to inherit -->
-  <NPCCharacter id="lord_1_70" name="{=cjuYkvlX}Panalea" voice="earnest" is_female="true" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_70" name="{=cjuYkvlX}Charles" voice="earnest" is_female="true" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0000d52e0000228bed6277444258c875446a17b9ed8932923b61997568a479eb000b8474c3395e480000000000000ffe00000000000000000000000000004000" /-->
       <BodyProperties version="4" key="0000D40E4000228BED6277444258C875446A17B9ED8932923B61997568A479EB0000047303395E480000000000000FFE00000000000000000000000000004000" />
@@ -1376,7 +1376,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Tynops. Goodnatured, garios faction. -->
-  <NPCCharacter id="lord_1_40" name="{=kfNW01y5}Tynops" voice="softspoken" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_40" name="{=kfNW01y5}Aeden" voice="softspoken" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000e812b4000234d875c989a8860996a1879956888677896699a8679a86723690000000407a6889600001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" key="000B800B4000000D875C989A8860996A1879956888677896699A8679A86723690000000307A6889600001105000030A30000001F000000000000000000000000" />
@@ -1394,7 +1394,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Desporion - Ibn tughluq type. honorable, but easily infuriated. Formerly clan 5 uncle. Garios-->
-  <NPCCharacter id="lord_1_45" name="{=7nVZgjmn}Desporion" age="37" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_45" name="{=7nVZgjmn}Benedict" age="37" voice="softspoken" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
       <BodyProperties version="4" key="0005800000FC000F66A89964658D25876585D896796876769A8899A987A7AB750000065703C578EB000000000000000000000000000000000000000000F46140" />
@@ -1414,7 +1414,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Saratis. Clever, but does not like to fight. Garios -->
-  <NPCCharacter id="lord_1_52" name="{=6TphQddp}Saratis" age="36" voice="ironic" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_52" name="{=6TphQddp}Cyrus" age="36" voice="ironic" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000ba52cc03c300d658918a66a565a686aaab3a57a485991a57a63282749b75400056aa402ae984800001105000030a30000001f000000000000000000001000" /-->
       <BodyProperties version="4" key="000BA40CC03C300D658918A66A565A686AAAB3A57A485991A57A63282749B75400034AA302AE984800001105000030A30000001F000000000000000000281000" />
@@ -1432,7 +1432,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Achios. A talent for dealing with common soldiers, but ruthless. Napoleon/Trotsky type. Garios faction -->
-  <NPCCharacter id="lord_1_53" name="{=3C8F07SL}Achios" voice="ironic" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_53" name="{=3C8F07SL}Titus" voice="ironic" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0012b23940fc1005a6cd68b7aa637b86a8739883b3a5c468d2828372b567a3a3000b34b98a7db34800001105000030a30000001f000000000000000000009002" /-->
       <BodyProperties version="4" key="0011B00880FC1005A6CD68B7AA637B86A8739883B3A5C468D2828372B567A3A3000304B20A7DB34800001105000030A30000001F000000000000000000009002" />
@@ -1450,7 +1450,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Vipon. Cruel. Ambitious -->
-  <NPCCharacter id="lord_1_71" name="{=qJJ8nXFN}Vipon" age="32" voice="softspoken" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_71" name="{=qJJ8nXFN}Wolfgang" age="32" voice="softspoken" default_group="HorseArcher" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0005592b0000400da55b8899724689763869956b7b86578578658a96886733790000000007b8789800001105000030a30000001f000000000000000000000000" /-->
       <BodyProperties version="4" key="0005580B4000300DA55B8899724689763869956B7B86578578658A96886733790003000203B8789800001105000030A30000001F000000000000000000000000" />
@@ -1467,7 +1467,7 @@
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_73" name="{=HQaqg40g}Ovagos" voice="softspoken" age="33" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_73" name="{=HQaqg40g}Alban" voice="softspoken" age="33" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" key="0011B40B403C10088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000008840B7247A6000000000000000000000000000000000000000000003101" />
@@ -1485,7 +1485,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Altenos. Younger enthusiast, less thoughtful than others. Garios faction -->
-  <NPCCharacter id="lord_1_57" name="{=EJFY3KdF}Altenos" voice="earnest" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_57" name="{=EJFY3KdF}Ambroise" voice="earnest" is_female="false" default_group="HorseArcher" age="25" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" key="0016D40E407C334E269C3C75A7984761A6AE8C7B19959CAB9CB685D9565BB66A00058BB2057385AB00001105000030A30000001F000000000000000001409000" />
@@ -1503,7 +1503,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Sejaron. Outward veneer of professionalism, ruthless ambition beneath. Garios -->
-  <NPCCharacter id="lord_1_62" name="{=fb0F6jKI}Sejaron" voice="earnest" is_female="false" default_group="HorseArcher" age="35" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_62" name="{=fb0F6jKI}Bruno" voice="earnest" is_female="false" default_group="HorseArcher" age="35" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000cb12e400003884897d665a3c5435c87d42767b77897c8637a678695873a87000954b4077b64b500001105000030a30000001f000000000000000000001000" /-->
       <BodyProperties version="4" key="000BB00E400003884897D665A3CD435C87D42767B77897C8637A678695873A870005D4B2077B64B500001105000030A30000001F000000000000000000281000" />
@@ -1522,7 +1522,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- turiados, devious but means well. Rhagaea -->
-  <NPCCharacter id="lord_1_30" name="{=P7iNhhPl}Turiados" voice="earnest" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_30" name="{=P7iNhhPl}Pelagio" voice="earnest" age="24" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
       <BodyProperties version="4" key="0016C80E0000200DBC4597A5256457A995879939BBECA7A766C7893AA68945570005435309B1876400001105000030A30000001F000000000000000000A02000" />
@@ -1541,7 +1541,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- former clan 8 lieutenant. brave, good-natured, not especially thoughtful -->
-  <NPCCharacter id="lord_1_48" name="{=katzUyMI}Joron" default_group="Cavalry" age="39" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_48" name="{=katzUyMI}Alamanno" default_group="Cavalry" age="39" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
       <BodyProperties version="4" key="001C880580001008A66A975E5784799294576EAA3A3954B6774485A4155ABB6D000546D40DD3989700001105000030A30000001F000000000000000001189000" />
@@ -1559,7 +1559,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- sichanis, rather quiet schemer.  rhagaea. Cruel -->
-  <NPCCharacter id="lord_1_54" name="{=sZebVgCp}Sichanis" voice="ironic" age="28" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_54" name="{=sZebVgCp}Frederick" voice="ironic" age="28" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0005a14140bc100da85b899c8a71e497a32461b62479196c55058e7245674416000d16550c356542000000000000000000000000000000000000000000004180" /-->
       <BodyProperties version="4" key="0005A00140BC100DA85B899C8A71E497A32461B62479196C55058E7245674416000506530C356542000000000000000000000000000000000000000000004180" />
@@ -1576,7 +1576,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Serandon, humanitarian.  rhagaea -->
-  <NPCCharacter id="lord_1_55" name="{=OymqpgTX}Serandon" voice="softspoken" age="28" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_55" name="{=OymqpgTX}Louis" voice="softspoken" age="28" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
     </face>
@@ -1593,7 +1593,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Baranor. former guard captain for the emperor. rhagaea -->
-  <NPCCharacter id="lord_1_56" name="{=MADTaSFV}Seranor" voice="curt" age="41" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_56" name="{=MADTaSFV}Casimir" voice="curt" age="41" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0005c9258000100e63727ac8926a687a1a85878578987c9b437e6347545abcb7000aa894057768c900001105000030a30000001f000000000000000000004000" /-->
       <BodyProperties version="4" key="0005C8058000100E63727AC8926A687A1A85878578987C9B437E6347545ABCB7000C0892057768C900001105000030A30000001F000000000000000000004000" />
@@ -1611,7 +1611,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Dynon. Humorless altruist. -->
-  <NPCCharacter id="lord_1_63" name="{=AWDNxFbh}Baranor" voice="curt" age="33" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_63" name="{=AWDNxFbh}Clement" voice="curt" age="33" default_group="Cavalry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
       <BodyProperties version="4" key="00065C08807C000D88566B74DA8577A325C64A9B6AA35AD26A5B2DB39752565500065BA20657885E00001105000030A30000001F000000000000000000F03000" />
@@ -1630,7 +1630,7 @@
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Tharos. Rather vicious, unsubtle  -->
-  <NPCCharacter id="lord_1_68" name="{=9xyXdX4I}Tharos" voice="curt" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_68" name="{=9xyXdX4I}Raimbaut" voice="curt" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="000bb12598fc00059a75657577a39a87b3d89a8e9774bd7677a867a97d3a634d00033c540767c68700001105000030a30000001f000000000000000000007000" /-->
       <BodyProperties version="4" key="000BB00598FC00059A75657577A39A87B3D89A8E9774BD7677A867A97D3A634D00060C520767C68700001105000030A30000001F000000000000000000287000" />
@@ -1647,7 +1647,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Niphon. Attentive, political, deceptive -->
-  <NPCCharacter id="lord_1_69" name="{=4YOoGhpK}Niphon" voice="softspoken" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_69" name="{=4YOoGhpK}Alan" voice="softspoken" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0016c64e403c1408e436c9a4849915c6909e955997c1bd57cb837c9596548c1500059b890b71da76000000000000000000000000000000000000000000003141" /-->
       <BodyProperties version="4" key="0016C40E403C1408E436C9A4849415C6909E955997C1BD57CB837C9596548C15000E4B820E71DA76000000000000000000000000000000000000000000003141" />
@@ -1664,7 +1664,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Abalytos. Loves to campaign -->
-  <NPCCharacter id="lord_1_72" name="{=RYksq67N}Abalytos" voice="softspoken" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_72" name="{=RYksq67N}Raynald" voice="softspoken" age="33" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08830B7247A6000000000000000000000000000000000000000000003101" />
@@ -1679,7 +1679,7 @@
       <Trait id="Generosity" value="1" />
     </Traits>
   </NPCCharacter>
-  <NPCCharacter id="lord_1_74" name="{=26W8jFm9}Sechanis" voice="softspoken" age="30" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_74" name="{=26W8jFm9}Theodore" voice="softspoken" age="30" default_group="Infantry" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
       <BodyProperties version="4" key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08840B7247A6000000000000000000000000000000000000000000003101" />
@@ -1715,7 +1715,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Asta, queenly ideal -->
-  <NPCCharacter id="lord_2_2" name="{=XqcD0WEu}Asta" age="37" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_2" name="{=XqcD0WEu}Agna" age="37" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.4526" build="0.5473" key="000A08044070300E4976245366B465B59A4B8308619547498764AA1275284A240898768909675A3A00000000000000000000000000000000000000006F3C2084" />
     </face>
@@ -1731,7 +1731,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Olek, fierce old traditionalist. Custom equipment -->
-  <NPCCharacter id="lord_2_3" name="{=xtEfnInH}Olek" voice="curt" default_group="Infantry" age="48" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_3" name="{=xtEfnInH}Olaf" voice="curt" default_group="Infantry" age="48" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.8046" build="0.684" key="00001002400014C3877014045573D8E16864754492204B6582669E068716192402DAC0250D7CE752000000000000000000000000000000000000000075C050C1" />
     </face>
@@ -1748,7 +1748,7 @@
     </Traits>
   </NPCCharacter>
   <!-- Siga, his sister, older shieldmaiden. Archetype of humorless, honor-obsessed  -->
-  <NPCCharacter id="lord_2_4" name="{=2Bh8DS8S}Siga" age="41" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_4" name="{=2Bh8DS8S}Sorgard" age="41" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7957" build="0.9799" key="00001C04407010098873324163A357B4966D873971979A028B644405773A5B2405BFC6570B8B799C0000000000000000000000000000000000000000797C1081" />
     </face>
@@ -1768,7 +1768,7 @@
   </NPCCharacter>
   <!-- Godun, lord of clan 3, the more outward looking of the three
 voice="Male, northern accent, older, authoritative and competent"-->
-  <NPCCharacter id="lord_2_5" name="{=f6urGGlU}Godun" default_group="Cavalry" age="50" voice="softspoken" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_5" name="{=f6urGGlU}Churig" default_group="Cavalry" age="50" voice="softspoken" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7289" build="0.7611" key="0000300100001385967132012584CCB36EC472158520143875848D198317281904BBB0450B68CB80000000000000000000000000000000000000000073788003" />
     </face>
@@ -1784,7 +1784,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Erta, matriarch of clan 3 -->
-  <NPCCharacter id="lord_2_6" name="{=yNSLGTYc}Erta" voice="earnest" default_group="Cavalry" age="47" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_6" name="{=yNSLGTYc}Svana" voice="earnest" default_group="Cavalry" age="47" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.6953" build="0.6326" key="00050405007020075B7445315583A1B9864D8716668A93288847E81474585B540589A6570833596C0000000000000000000000000000000000000000470420C1" />
     </face>
@@ -1797,7 +1797,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- sturgian heirs -->
   <!-- Simir, Raganvar's son. Cold -->
-  <NPCCharacter id="lord_2_7" name="{=XDAQgjpH}Simir" age="18" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_7" name="{=XDAQgjpH}Skarde" age="18" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7584" build="0.8474" key="00003C04400002C5B97024033683DE956B6778218170DD3485B96D278507091402ADB0240A7AA244000000000000000000000000000000000000000025582080" />
     </face>
@@ -1811,7 +1811,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_2_7_1" name="{=bFeyvTJj}Mimir" age="18" voice="earnest" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_7_1" name="{=bFeyvTJj}Torsten" age="18" voice="earnest" default_group="Infantry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7584" build="0.8474" key="00003C0440000204B97024033683DE956B6778218170DD3485B96D27850709140CADB0C20B7AA244000000000000000000000000000000000000000025582080" />
     </face>
@@ -1826,7 +1826,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Urik, Olek's son. Much like his father, but more aggressive and deceitful -->
-  <NPCCharacter id="lord_2_8" name="{=uDlnsFIF}Urik" age="24" voice="softspoken" is_hero="true" default_group="Cavalry" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_8" name="{=uDlnsFIF}Ulf" age="24" voice="softspoken" is_hero="true" default_group="Cavalry" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7326" build="0.6554" key="000010014B0024D4C77239124572D9B66CA57757A260E7598A9177258303251401EAB0140E597811000000000000000000000000000000000000000079E05102" />
     </face>
@@ -1844,7 +1844,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Lek, heir to faction 3 -->
-  <NPCCharacter id="lord_2_9" name="{=KBq7aQRa}Lek" default_group="Cavalry" age="25" voice="ironic" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_9" name="{=KBq7aQRa}Valishin" default_group="Cavalry" age="25" voice="ironic" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7176" build="0.8336" key="0000180200001344B77048192583DDE37888747472408A5897A86A068116060506EDB0670E7AC393000000000000000000000000000000000000000053E01102" />
     </face>
@@ -1861,7 +1861,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- sturgian heiresses. Raganvar's daughter, ambitious like father -->
-  <NPCCharacter id="lord_2_10" age="17" name="{=CuH8aalQ}Valla" voice="ironic" is_female="true" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" default_group="Cavalry" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_10" age="17" name="{=CuH8aalQ}Volg" voice="ironic" is_female="true" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" default_group="Cavalry" culture="Culture.sturgia" occupation="Lord">
     <face>
       <!--face_key value="0006ac0b007c0145c7a823ea6364a9a17c7bcbe6b481159753bdc588eae9aac7000249c09a486475000000000000000000000000000000000000000000001000" /-->
       <BodyProperties version="4" key="0005AC0B407C0145C7A823EA6364A9A17C7BCBE6B481159753BDC588EAE9AAC7000DB9C20A486475000000000000000000000000000000000000000001681000" />
@@ -1877,7 +1877,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
   </NPCCharacter>
   <!-- Olek's daughter, very conventional maiden -->
-  <NPCCharacter id="lord_2_11" name="{=GFmOwx4L}Idrun" voice="softspoken" default_group="Cavalry" age="20" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_11" name="{=GFmOwx4L}Ragnar" voice="softspoken" default_group="Cavalry" age="20" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_sturgia_noblewoman" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7767" build="0.7672" key="00040C00007000025976122919545880992C87596B95655888644B1875286A3402ACC6240A31A85800000000000000000000000000000000000000006D642001" />
     </face>
@@ -1892,7 +1892,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <Trait id="Generosity" value="1" />
     </Traits>
   </NPCCharacter>
-  <NPCCharacter id="lord_2_111" name="{=wGAJSplG}Rozhivol" voice="softspoken" default_group="Cavalry" age="18" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_111" name="{=wGAJSplG}Mor" voice="softspoken" default_group="Cavalry" age="18" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <!--face_key value="000c8406407c10859c53847baf533ca79a74386431664c8a47597857464ba49e000732a04589775b000000000000000000000000000000000000000000002000" /-->
       <BodyProperties version="4" age="30.7" weight="0" build="0" key="000B8405807C10859C53847BAF533CA79A74386431664C8A47597857464BA49E010002A20F89775B000000000000000000000000000000000000000001682000" />
@@ -1909,7 +1909,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
   </NPCCharacter>
   <!-- Svana, shieldmaiden -->
-  <NPCCharacter id="lord_2_12" name="{=b2d9BYxT}Svana" age="22" voice="curt" default_group="HorseArcher" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_12" name="{=b2d9BYxT}Brinya" age="22" voice="curt" default_group="HorseArcher" is_hero="true" is_female="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.6413" build="0.554" key="00001C08807000021B72130266747492968B77267585A3278B44F71278394B3503D8A6350D4B6750000000000000000000000000000000000000000077BC10C2" />
     </face>
@@ -1924,7 +1924,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_2_121" name="{=IwAcNgLc}Sven" age="19" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_121" name="{=IwAcNgLc}Njal" age="19" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.643" build="0.6475" key="00001C0440003242A87012151682CCA66D657261C170CC2588B49B478A142C0002EAA0240E578831000000000000000000000000000000000000000043E05040" />
     </face>
@@ -1941,7 +1941,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
   </NPCCharacter>
   <!-- sturgian lieutenants -->
   <!-- Raganvad uncle. Decent, loyal, not very thoughtful -->
-  <NPCCharacter id="lord_2_13" name="{=hy7mIh48}Vidar" age="52" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_13" name="{=hy7mIh48}Bjorn" age="52" voice="earnest" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7276" build="0.7776" key="00002C00000013C1A47148063594C9A658577825B120FD37967899398D130615048CB046087C5E910000000000000000000000000000000000000000111030C5" />
     </face>
@@ -1958,7 +1958,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Olek's cousin - classic hotheaded warrior -->
-  <NPCCharacter id="lord_2_14" name="{=ZkaaXxeB}Isvan" voice="earnest" age="38" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_14" name="{=ZkaaXxeB}Valdemaar" voice="earnest" age="38" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.8956" build="0.7734" key="0000040140000344757114192672EBD26C957321B480E14675AC892680041406028CD0240856DAA10000000000000000000000000000000000000000390840C4" />
     </face>
@@ -1975,7 +1975,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Rategost, mystical. Cautious and kind. -->
-  <NPCCharacter id="lord_2_15" name="{=iOYRpw24}Ratagost" age="49" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_15" name="{=iOYRpw24}Zhutyr" age="49" voice="softspoken" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7552" build="0.7989" key="0000200880002445C67115035783A8C36E6476227680A42982769E468C16291905ECB0570E9A6534000000000000000000000000000000000000000021E07103" />
     </face>
@@ -2008,7 +2008,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Vyldur. Fairly gentle, as warlords go -->
-  <NPCCharacter id="lord_2_17" name="{=pMbA799s}Vyldur" age="32" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_17" name="{=pMbA799s}Temyr" age="32" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.8342" build="0.7266" key="00000402C00032858A7115113683CCD47E497254812028629A6C8B5881172A1502FBD0240F9CCE93000000000000000000000000000000000000000061F05080" />
     </face>
@@ -2024,7 +2024,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Fafen. Cold and calculating -->
-  <NPCCharacter id="lord_2_18" name="{=N7qb7ae6}Fafen" age="26" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_18" name="{=N7qb7ae6}Ospak" age="26" voice="curt" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7194" build="0.8492" key="00004401400033C69972411855829E846D757751A430A12886CB59158A15231701CDB0130C578112000000000000000000000000000000000000000033881042" />
     </face>
@@ -2041,7 +2041,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Vashorki. Generally held to be despicable -->
-  <NPCCharacter id="lord_2_19" name="{=mbRvqDhY}Vashorki" age="33" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_19" name="{=mbRvqDhY}Kras" age="33" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.8275" build="0.6594" key="0000140880001343A87138114783EC9655667865A150934678866E468C161406038AC0350868AD0000000000000000000000000000000000000000006B187040" />
     </face>
@@ -2060,7 +2060,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Tovir. Brave and headstrong -->
-  <NPCCharacter id="lord_2_20" name="{=qKrOVIAq}Tovir" age="29" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_20" name="{=qKrOVIAq}Olaf" age="29" voice="earnest" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment_heavy" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.7221" build="0.6354" key="00004800C0001281857113075683B9937764762474409744958778498315180402BAB0240B6D6103000000000000000000000000000000000000000017704101" />
     </face>
@@ -2076,7 +2076,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Svedorn. Generous, honest, emotional -->
-  <NPCCharacter id="lord_2_21" name="{=ja22un5W}Svedorn" age="33" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_21" name="{=ja22un5W}Bylorn" age="33" voice="ironic" default_group="Cavalry" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.5695" build="0.8121" key="00001002C00013829A7148134593ABE56B6874238270D94384635E088917091101DC90140D86E551000000000000000000000000000000000000000071A85083" />
     </face>
@@ -2093,7 +2093,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Lashonek. Wise, pessimistic -->
-  <NPCCharacter id="lord_2_22" name="{=quVUTYOB}Lashonek" age="29" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_22" name="{=quVUTYOB}Borabos" age="29" voice="softspoken" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.6097" build="0.6476" key="00004803800002C4867232085784BBA666987367C530B7547972892A88150405049A904609888D01000000000000000000000000000000000000000073381041" />
     </face>
@@ -2110,7 +2110,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- independent sturgian lord. Galden. Smart but a bit cowardly. Does not exert himself -->
-  <NPCCharacter id="lord_2_23" name="{=HIi53JMZ}Galden" age="29" voice="ironic" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_23" name="{=HIi53JMZ}Kyraslav" age="29" voice="ironic" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.692" build="0.8011" key="0000100000002388B971111366849B9179457673A6403D5373BD7B1B8C040B01035CA03505477930000000000000000000000000000000000000000012B00000" />
     </face>
@@ -2126,7 +2126,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Traits>
     <equipmentSet></equipmentSet>
   </NPCCharacter>
-  <NPCCharacter id="lord_2_24" name="{=PBCwzvbf}Alvar" age="29" voice="ironic" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
+  <NPCCharacter id="lord_2_24" name="{=PBCwzvbf}Magnus" age="29" voice="ironic" default_group="HorseArcher" is_hero="true" battleTemplate="NPCCharacter.sturgia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.sturgia_unarmored_noble_equipment" culture="Culture.sturgia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.8504" build="0.7121" key="00001C0200000284C97026175573987367C476269270332879675B468205050803EBD0350E788C22000000000000000000000000000000000000000073E01045" />
     </face>
