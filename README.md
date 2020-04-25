@@ -33,15 +33,14 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
   - Vlandia = Angevin Empire
   - Sturgia = Second Anglo-Scandinavian Empire (Nordic states have re-combined)
 - Assign the correct cities & towns to their correct starting empires.
+- Replace all existing names in spcultures with genuine names.
+- Add extra names for all sets in spcultures with genuine names.
+- Rename clans to more realistic names.
 
 ### Todo:
 
-- Replace all existing names in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Sturgia, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia)
-- Add extra names for all sets in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Sturgia, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia)
 - Replace all characters in lords with genuine names. (Done: Aserai MALE, Todo: Aserai FEMALE, Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
-- Bring in better looking NPCs from NOBLE NOBLES. (Done: Lords, Todo: Bandits, etc)
 - Tweak cities & towns to better represent their actual sizes/historical significance.
-- Rename clans to more realistic names.
 - Redo lords file because of update meaning NPC makeover may not be needed.
 
 ### Credits:
