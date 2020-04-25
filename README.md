@@ -45,6 +45,7 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Assign the correct cities & towns to their correct starting empires.
 - Rename clans to more realistic names.
+- Redo lords file because of update meaning NPC makeover may not be needed.
 
 ### Credits:
 

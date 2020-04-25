@@ -26,7 +26,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EN2" name="{=Settlements.Settlement.name.castle_EN2}Lochana Castle" owner="Faction.clan_empire_north_6" posX="601.88" posY="503.195" culture="Culture.empire" prosperity="500" gate_posX="604.3249" gate_posY="502.647">
+  <Settlement id="castle_EN2" name="{=Settlements.Settlement.name.castle_EN2}Lochana Castle" owner="Faction.clan_khuzait_1" posX="601.88" posY="503.195" culture="Culture.empire" prosperity="500" gate_posX="604.3249" gate_posY="502.647">
     <Components>
       <Town id="castle_comp_EN2" is_castle="true" level="3" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1294,7 +1294,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_ES2_1" name="{=Settlements.Settlement.name.castle_village_ES2_1}Trabzon" posX="684.084" posY="358.238" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES2_1}Corenia is one of the farthest flung villages of the empire to speak the Calradic tongue. It is located in the oak- and pine-wooded foothills of the Koh Ruhini, the mountains of the dawn, beyond which is spoken only Darshi and the languages of the steppe. ">
+  <Settlement id="castle_village_ES2_1" name="{=Settlements.Settlement.name.castle_village_ES2_1}Rize" posX="684.084" posY="358.238" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_ES2_1}Corenia is one of the farthest flung villages of the empire to speak the Calradic tongue. It is located in the oak- and pine-wooded foothills of the Koh Ruhini, the mountains of the dawn, beyond which is spoken only Darshi and the languages of the steppe. ">
     <Components>
       <Village id="castle_village_comp_ES2_1" village_type="VillageType.wheat_farm" hearth="258" gate_rotation="0.308" trade_bound="Settlement.castle_ES2" bound="Settlement.castle_ES2" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -3649,7 +3649,7 @@
     </CommonAreas>
   </Settlement>
   <!-- From Calradic, Lobster claw  // how about Uxhall precursor - Arma-->
-  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}Cologne" owner="Faction.clan_empire_west_1" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
+  <Settlement id="town_V2" name="{=Settlements.Settlement.name.town_V2}London" owner="Faction.clan_vlandia_1" posX="181.785" posY="495.348" culture="Culture.vlandia" prosperity="4200" gate_posX="177.235" gate_posY="494.12">
     <Components>
       <Town id="town_comp_V2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.308" />
     </Components>
@@ -3723,7 +3723,7 @@
   </Settlement>
   <!-- Vlandian ruling clan 4_1, 2, 7, 13 -->
   <!-- From Calradic Parzeonerea: 'City of He Who Rules By Heaven's Will')-->
-  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}London" owner="Faction.clan_vlandia_2" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
+  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}Hastings" owner="Faction.clan_vlandia_2" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
     <Components>
       <Town id="town_comp_V3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" />
     </Components>
@@ -4505,7 +4505,7 @@
     </CommonAreas>
   </Settlement>
   <!-- "Town of the Sons of Cyd" -->
-  <Settlement id="town_B3" name="{=Settlements.Settlement.name.town_B3}Car Banseth" owner="Faction.clan_empire_west_1" posX="255.387" posY="515.614" culture="Culture.battania" prosperity="2200" gate_posX="253.7009" gate_posY="513.0099">
+  <Settlement id="town_B3" name="{=Settlements.Settlement.name.town_B3}Cologne" owner="Faction.clan_empire_west_1" posX="255.387" posY="515.614" culture="Culture.battania" prosperity="2200" gate_posX="253.7009" gate_posY="513.0099">
     <Components>
       <Town id="town_comp_B3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_battania" wait_mesh="wait_battania_town" gate_rotation="0.808" />
     </Components>
