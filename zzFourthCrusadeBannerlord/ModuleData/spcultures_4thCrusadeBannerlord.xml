@@ -407,9 +407,8 @@
       <name name="Odai" />
       <name name="Osama" />
       <name name="Othman" />
-      <name name="Uasem" />
+      <name name="Aassem" />
       <name name="Omar" />
-      <name name="Uamer" />
       <name name="Ummar" />
       <name name="Uthman" />
       <name name="Udnan" />
@@ -448,61 +447,77 @@
     </male_names>
     <female_names>
       <name name="{=vAKB54zO}Arwa" />
-      <name name="{=3LHG5Efi}Ayasa" />
-      <name name="{=krMVSoId}Bawthan" />
-      <name name="{=YwwaCRSr}Barisha" />
-      <name name="{=Y9030sOS}Darya" />
+      <name name="{=3LHG5Efi}Ayyah" />
+      <name name="{=krMVSoId}Bushra" />
+      <name name="{=YwwaCRSr}Basma" />
+      <name name="{=Y9030sOS}Dalal" />
       <name name="{=qwab4ICX}Dima" />
-      <name name="{=PukaQLbR}Dula" />
-      <name name="{=nhwnbFJ0}Ghalaza" />
-      <name name="{=b0rI89ob}Hara" />
-      <name name="{=qDLWQjuC}Hasawa" />
-      <name name="{=Q26RhEj6}Ifar" />
-      <name name="{=H1OFdfEe}Isna" />
-      <name name="{=aqd6QHES}Janab" />
-      <name name="{=JhLPgr5x}Jinda" />
-      <name name="{=BfbZAB2K}Kanizat" />
-      <name name="{=JR1LKjIc}Khalisa" />
-      <name name="{=q8awVLdN}Laitha" />
-      <name name="{=ljYVVV1s}Luqa" />
-      <name name="{=YwQbvO9O}Lulya" />
-      <name name="{=UAHJ2jTp}Mahayl" />
-      <name name="{=QtyF13kv}Mata" />
-      <name name="{=SNjqoBfZ}Nawa" />
-      <name name="{=t4OvAlBq}Nus" />
-      <name name="{=Cj8vDOqR}Rahan" />
-      <name name="{=bdhXiiWK}Rayma" />
-      <name name="{=yJz9AxjY}Rinana" />
-      <name name="{=TN5MjMJU}Risa" />
-      <name name="{=yd39Cman}Ruwa" />
-      <name name="{=QCiqeUHm}Sabila" />
+      <name name="{=PukaQLbR}Dana" />
+      <name name="{=nhwnbFJ0}Ghazal" />
+      <name name="{=b0rI89ob}Hafsa" />
+      <name name="{=qDLWQjuC}Hamida" />
+      <name name="{=Q26RhEj6}Ifdal" />
+      <name name="{=H1OFdfEe}Inaam" />
+      <name name="{=aqd6QHES}Jana" />
+      <name name="{=JhLPgr5x}Jawahir" />
+      <name name="{=BfbZAB2K}Kareema" />
+      <name name="{=JR1LKjIc}Khadija" />
+      <name name="{=q8awVLdN}Lama" />
+      <name name="{=ljYVVV1s}Lulwa" />
+      <name name="{=YwQbvO9O}Latifa" />
+      <name name="{=UAHJ2jTp}Marwa" />
+      <name name="{=QtyF13kv}Maryam" />
+      <name name="{=SNjqoBfZ}Nada" />
+      <name name="{=t4OvAlBq}Najla" />
+      <name name="{=Cj8vDOqR}Reem" />
+      <name name="{=bdhXiiWK}Rania" />
+      <name name="{=yJz9AxjY}Mona" />
+      <name name="{=TN5MjMJU}Sajida" />
+      <name name="{=yd39Cman}Salma" />
+      <name name="{=QCiqeUHm}Saadia" />
       <name name="{=N0cNsII3}Safiya" />
-      <name name="{=nTYJWGAa}Shatha" />
-      <name name="{=vYQ2SMEv}Siban" />
-      <name name="{=v7tfA4y6}Siyafan" />
-      <name name="{=6d09RcZT}Sulatha" />
-      <name name="{=LfP4vsfD}Sur" />
-      <name name="{=imBaF78b}Thuneikha" />
-      <name name="{=9aPxu1EB}Tinab" />
-      <name name="{=mWCY0aSL}Wara" />
-      <name name="{=CYXRzc1D}Wisan" />
-      <name name="{=528J5D3b}Yasmila" />
-      <name name="{=ieube15m}Zahara" />
-      <name name="{=wYPWlhme}Zandina" />
-      <name name="{=8RolYmff}Zuwaira" />
+      <name name="{=nTYJWGAa}Shams" />
+      <name name="{=vYQ2SMEv}Sammar" />
+      <name name="{=v7tfA4y6}Sumayya" />
+      <name name="{=6d09RcZT}Samiyya" />
+      <name name="{=LfP4vsfD}Sara" />
+      <name name="{=imBaF78b}Tahira" />
+      <name name="{=9aPxu1EB}Zainab" />
+      <name name="{=mWCY0aSL}Fatima" />
+      <name name="{=CYXRzc1D}Wafaa" />
+      <name name="{=528J5D3b}Yasmeen" />
+      <name name="{=ieube15m}Zahra" />
+      <name name="{=wYPWlhme}Fairouz" />
+      <name name="{=8RolYmff}Farah" />
+      <name name="Abeer" />
+      <name name="Ameera" />
+      <name name="Asma" />
+      <name name="Habiba" />
+      <name name="Maymunah" />
+      <name name="Ruqayyah" />
+      <name name="Um Kalthum" />
+      <name name="Rayhanah" />
+      <name name="Sawda" />
+      <name name="Aisha" />
+      <name name="Juwayriyya" />
+      <name name="Ramla" />
+      <name name="Maymuna" />
+      <name name="Salma" />
+      <name name="Safiyya" />
+      <name name="Halimah" />
     </female_names>
     <clan_names>
-      <name name="{=By82n3gR}Bani Aska" />
-      <name name="{=uwalgjVy}Bani Dhamin" />
-      <name name="{=86LT9H6v}Bani Fasus" />
-      <name name="{=c39lybQJ}Bani Julul" />
-      <name name="{=Iwe7Xpke}Bani Kinyan" />
-      <name name="{=irccq0qs}Bani Laikh" />
-      <name name="{=DygS1Bef}Bani Mushala" />
-      <name name="{=bgNQtbS7}Bani Nir" />
-      <name name="{=sAa3o3vw}Bani Tharuq" />
-      <name name="{=L4XUK5n4}Bani Yatash" />
-      <name name="{=WFfbxYu5}Bani Zus" />
+      <name name="{=By82n3gR}Bani Ayyub" />
+      <name name="{=uwalgjVy}Bani Dawood" />
+      <name name="{=86LT9H6v}Bani Faisal" />
+      <name name="{=c39lybQJ}Bani Jalal" />
+      <name name="{=Iwe7Xpke}Bani Kareem" />
+      <name name="{=irccq0qs}Bani Musa" />
+      <name name="{=DygS1Bef}Bani Muhammad" />
+      <name name="{=bgNQtbS7}Bani Nour" />
+      <name name="{=sAa3o3vw}Bani Ismail" />
+      <name name="{=L4XUK5n4}Bani Yusuf" />
+      <name name="{=WFfbxYu5}Bani Zaid" />
     </clan_names>
   </Culture>
   <Culture id="sturgia"
