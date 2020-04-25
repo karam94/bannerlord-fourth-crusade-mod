@@ -521,7 +521,7 @@
     </clan_names>
   </Culture>
   <Culture id="sturgia"
-           name="{=PjO7oY16}Sturgia"
+           name="{=PjO7oY16}Second North Sea Empire"
            is_main_culture="true"
            color="FF1C2A50"
            color2="FF949CCC"
@@ -586,7 +586,7 @@
            gear_dummy="NPCCharacter.gear_dummy_sturgia">
     <male_names>
       <name name="{=jVPr0ZzB}Achyr" />
-      <name name="{=iFJbnbCQ}Agdil" />
+      <name name="{=iFJbnbCQ}Anund" />
       <name name="{=pqlMxWoM}Alek" />
       <name name="{=bNj9gI2y}Astin" />
       <name name="{=oyxam3bN}Blag" />
@@ -594,15 +594,15 @@
       <name name="{=38o99yqa}Borcha" />
       <name name="{=zYAl76GW}Borytor" />
       <name name="{=ODVepnRR}Bylorn" />
-      <name name="{=6FebKbCp}Chel" />
+      <name name="{=6FebKbCp}Cnut" />
       <name name="{=0ZXMKL4M}Chavil" />
       <name name="{=ORJZJYt7}Churig" />
       <name name="{=eYY8319F}Dalibol" />
       <name name="{=CoYOwpLP}Davan" />
-      <name name="{=YdMwMdyf}Dumat" />
+      <name name="{=YdMwMdyf}Eric" />
       <name name="{=z3rmbOSO}Gavyn" />
-      <name name="{=pfAkvdYc}Gorgi" />
-      <name name="{=J5kC0K3W}Gutrag" />
+      <name name="{=pfAkvdYc}Emund" />
+      <name name="{=J5kC0K3W}Harald" />
       <name name="{=aYiL7eDM}Ilmir" />
       <name name="{=ZkaaXxeB}Isvan" />
       <name name="{=WNb0Bw0e}Kavyl" />
@@ -611,31 +611,31 @@
       <name name="{=FkbO2Abd}Kras" />
       <name name="{=fYN6Aawl}Kyraslav" />
       <name name="{=HxKE18yl}Lasvak" />
-      <name name="{=KBq7aQRa}Lek" />
+      <name name="{=KBq7aQRa}Halsten" />
       <name name="{=Py1Jj5mB}Lorik" />
       <name name="{=bzaLf3EU}Magan" />
       <name name="{=BD4XeP07}Mikri" />
-      <name name="{=vPlwv7Vj}Miloch" />
+      <name name="{=vPlwv7Vj}Magnus" />
       <name name="{=Xo1ZwCmu}Mor" />
       <name name="{=G92bovut}Mornid" />
       <name name="{=hWKKCdeX}Mulum" />
       <name name="{=DkXPe3A3}Nevig" />
       <name name="{=A2AYaNWM}Orig" />
-      <name name="{=EUQTT8so}Oshir" />
+      <name name="{=EUQTT8so}Olaf" />
       <name name="{=CSizDomP}Ospak" />
       <name name="{=cv1QgU1H}Pazhel" />
       <name name="{=M1ORaYny}Pol" />
       <name name="{=4KZXSIjc}Porev" />
       <name name="{=eMcQ35QA}Radul" />
       <name name="{=rahYvT3x}Ragnar" />
-      <name name="{=iOYRpw24}Ratagost" />
+      <name name="{=iOYRpw24}Ragnvald" />
       <name name="{=jACaGLM5}Salulk" />
       <name name="{=XDAQgjpH}Simir" />
       <name name="{=rtHgoGvb}Sivur" />
       <name name="{=5YsDdW9s}Sorgard" />
-      <name name="{=mfu9UqLL}Shemyr" />
-      <name name="{=tOmtchNx}Tanir" />
-      <name name="{=B7zKKiYQ}Tatik" />
+      <name name="{=mfu9UqLL}Sweyn" />
+      <name name="{=tOmtchNx}Sverker" />
+      <name name="{=B7zKKiYQ}Sverre" />
       <name name="{=tp3yvlYW}Temyr" />
       <name name="{=gzej3EbY}Tulvo" />
       <name name="{=4ABVdxKn}Tyl" />
@@ -651,86 +651,36 @@
       <name name="{=kEw7yody}Volg" />
       <name name="{=t0TXa7Fp}Vuldrat" />
       <name name="{=bU46gvya}Vulfyr" />
-      <name name="{=OABjrV1T}Vyoshen" />
+      <name name="{=OABjrV1T}Filip" />
       <name name="{=j6K4Z1L6}Yalyr" />
-      <name name="{=NAVXhanI}Yarli" />
+      <name name="{=NAVXhanI}Valdemaar" />
       <name name="{=agn93v7y}Yorig" />
       <name name="{=XxSD6GAu}Yun" />
-      <name name="{=zLl1UEYM}Zhem" />
+      <name name="{=zLl1UEYM}Gorm" />
       <name name="{=Fn064VUZ}Zhutyr" />
-      <name name="Ake" />
-	  <name name="Arvid" />
-	  <name name="Arne" />
-	  <name name="Andor" />
-	  <name name="Amund" />
-	  <name name="Asvaldr" />
-	  <name name="Adalsteinn" />
-	  <name name="Balder" />
-	  <name name="Bjarke" />
-	  <name name="Bjarni" />
-	  <name name="Bjorn" />
-	  <name name="Borg" />
-	  <name name="Brynjar" />
-	  <name name="Dagr" />
-	  <name name="Danr" />
-	  <name name="Donar" />
-	  <name name="Egil" />
-	  <name name="Einar" />
-	  <name name="Eirik" />
-	  <name name="Erlendur" />
-	  <name name="Eysteinn" />
-	  <name name="Eyvindur" />
-	  <name name="Gudmund" />
-	  <name name="Gunnar" />
-	  <name name="Gunder" />
-	  <name name="Gunvald" />
-	  <name name="Hakon" />
-	  <name name="Haldor" />
-	  <name name="Halstein" />
-	  <name name="Halvar" />
-	  <name name="Hallbjorn" />
-	  <name name="Harald" />
-	  <name name="Heimir" />
-	  <name name="Hreidarr" />
-	  <name name="Hrodvaldr" />
-	  <name name="Igor" />
-	  <name name="Ingemar" />
-	  <name name="Ingvar" />
-	  <name name="Ivar" />
-	  <name name="Jari" />
-	  <name name="Kettil" />
-	  <name name="Knut" />
-	  <name name="Magne" />
-	  <name name="Olle" />
-	  <name name="Ove" />
-	  <name name="Olvir" />
-	  <name name="Orvar" />
-	  <name name="Osten" />
-	  <name name="Reidar" />
-	  <name name="Roar" />
-	  <name name="Rollo" />
-	  <name name="Runar" />
-	  <name name="Rurik" />
-	  <name name="Sigurd" />
-	  <name name="Stein" />
-	  <name name="Steiner" />
-	  <name name="Sveinn" />
-	  <name name="Sven" />
-	  <name name="Sigge" />
-	  <name name="Sigmund" />
-	  <name name="Snorri" />
-	  <name name="Steinar" />
-	  <name name="Skallagrim" />
-	  <name name="Tallak" />
-	  <name name="Thorsen" />
-	  <name name="Thorbjorn" />
-	  <name name="Thormund" />
-	  <name name="Thorborg" />
-	  <name name="Torstein" />
-	  <name name="Vidar" />
-	  <name name="Valdemar" />
-	  <name name="Vegard" />
-	  <name name="Ingvar" />
+	    <name name="Arne" />
+	    <name name="Birger" />
+	    <name name="Bjorn" />
+	    <name name="Erik" />
+	    <name name="Frode" />
+	    <name name="Halfdan" />
+	    <name name="Knud" />
+	    <name name="Kare" />
+	    <name name="Leif" />
+	    <name name="Njal" />
+	    <name name="Roar" />
+	    <name name="Rune" />
+	    <name name="Sten" />
+	    <name name="Skarde" />
+	    <name name="Svende" />
+	    <name name="Svend" />
+	    <name name="Troels" />
+	    <name name="Toke" />
+	    <name name="Torsten" />
+	    <name name="Trygve" />
+	    <name name="Ulf" />
+	    <name name="Odger" />
+	    <name name="Age" />
     </male_names>
     <female_names>
       <name name="{=vz038vX7}Achita" />
@@ -769,65 +719,43 @@
       <name name="{=r28vZDkN}Vara" />
       <name name="{=5o1bM9G0}Vasinya" />
       <name name="{=t6e4wphB}Veta" />
-	  <name name="Aila" />
-	  <name name="Astrid" />
-	  <name name="Ashild" />
-	  <name name="Aslaug" />
-	  <name name="Borghild" />
-	  <name name="Brenna" />
-	  <name name="Birgitta" />
-	  <name name="Brynhild" />
-	  <name name="Brynja" />
-	  <name name="Dagny" />
-	  <name name="Dora" />
-	  <name name="Eerika" />
-	  <name name="Erica" />
-	  <name name="Elli" />
-	  <name name="Eydis" />
-	  <name name="Gunhild" />
-	  <name name="Gunilla" />
-	  <name name="Gunvor" />
-	  <name name="Grimhild" />
-	  <name name="Gudrun" />
-	  <name name="Hella" />
-	  <name name="Helle" />
-	  <name name="Halldora" />
-	  <name name="Hilda" />
-	  <name name="Inge" />
-	  <name name="Ingeborg" />
-	  <name name="Ingrid" />
-	  <name name="Jorunn" />
-	  <name name="Laila" />
-	  <name name="Nanna" />
-	  <name name="Runa" />
-	  <name name="Saga" />
-	  <name name="Sigfrid" />
-	  <name name="Signe" />
-	  <name name="Sigrid" />
-	  <name name="Sigrun" />
-	  <name name="Siri" />
-	  <name name="Solveig" />
-	  <name name="Skadi" />
-	  <name name="Svenja" />
-	  <name name="Thora" />
-	  <name name="Thyra" />
-	  <name name="Torild" />
-	  <name name="Torunn" />
-	  <name name="Unni" />
-	  <name name="Valdis" />
-	  <name name="Vilde" />
+      <name name="Astrid" />
+      <name name="Bodil" />
+      <name name="Frida" />
+      <name name="Gertrud" />
+      <name name="Gro" />
+      <name name="Estrid" />
+      <name name="Hilda" />
+      <name name="Gudrun" />
+      <name name="Gunhild" />
+      <name name="Helga" />
+      <name name="Inga" />
+      <name name="Liv" />
+      <name name="Randi" />
+      <name name="Runa" />
+      <name name="Signe" />
+      <name name="Sigrid" />
+      <name name="Revna" />
+      <name name="Sif" />
+      <name name="Tora" />
+      <name name="Tove" />
+      <name name="Thyra" />
+      <name name="Thurid" />
+      <name name="Yrsa" />
+      <name name="Ulfhild" />
+      <name name="Tove" />
     </female_names>
     <clan_names>
-      <name name="{=OLLYkaWd}Asraloving" />
-      <name name="{=yUuM8a0j}Boranoving" />
+      <name name="{=OLLYkaWd}Asralofing" />
+      <name name="{=yUuM8a0j}Boranovung" />
       <name name="{=euyyBbjq}Folyoroving" />
-      <name name="{=ODcWVL1a}Gendiroving" />
-      <name name="{=UYqwbjTP}Iskanoving" />
-      <name name="{=z2Oqk8aq}Maregoving" />
+      <name name="{=ODcWVL1a}Gendirovung" />
+      <name name="{=UYqwbjTP}Iskanofing" />
+      <name name="{=z2Oqk8aq}Maregodung" />
       <name name="{=lpbIXNdK}Suratoving" />
-      <name name="{=RFapQLfR}Vyshoving" />
+      <name name="{=RFapQLfR}Vyshofung" />
       <name name="{=gC1paDtD}Yerchoving" />
-      <name name="{=qD72Ya4I}Zhanoving" />
+      <name name="{=qD72Ya4I}Zhanodung" />
     </clan_names>
   </Culture>
   <Culture id="vlandia"
