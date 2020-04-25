@@ -23,10 +23,7 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 - Mass majority of cities & towns have been renamed to resemble real life cities & towns. Their sizes may not be reflective of their actual sizes however and this is a work in progress.
 - All cultures have been renamed to reflect the new kingdoms.
 - All main starting Lords have been renamed to reflect the new kingdoms.
-
-### Struggles:
-
-- Cannot successfully rename kingdoms:
+- Kingdoms have been renamed:
   - Aserai = Ayyubid Dynasty (Includes the Mohads)
   - Khuzaits = Mongol Empire
   - Southern = Byzantine Empire
@@ -35,6 +32,7 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
   - Battania = Kingdom of France
   - Vlandia = Angevin Empire
   - Sturgia = Second Anglo-Scandinavian Empire (Nordic states have re-combined)
+- Assign the correct cities & towns to their correct starting empires.
 
 ### Todo:
 
@@ -43,7 +41,6 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 - Replace all characters in lords with genuine names. (Done: Aserai MALE, Todo: Aserai FEMALE, Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
 - Bring in better looking NPCs from NOBLE NOBLES. (Done: Lords, Todo: Bandits, etc)
 - Tweak cities & towns to better represent their actual sizes/historical significance.
-- Assign the correct cities & towns to their correct starting empires.
 - Rename clans to more realistic names.
 - Redo lords file because of update meaning NPC makeover may not be needed.
 
