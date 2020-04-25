@@ -36,8 +36,8 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 
 ### Todo:
 
-- Replace all existing names in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
-- Add extra names for all sets in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
+- Replace all existing names in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Sturgia, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia)
+- Add extra names for all sets in spcultures with genuine names. (Done: Aserai MALE, Aserai FEMALE, Sturgia, Todo: Khuzaits, Southern, Northern, Western, Battania, Vlandia)
 - Replace all characters in lords with genuine names. (Done: Aserai MALE, Todo: Aserai FEMALE, Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
 - Bring in better looking NPCs from NOBLE NOBLES. (Done: Lords, Todo: Bandits, etc)
 - Tweak cities & towns to better represent their actual sizes/historical significance.
