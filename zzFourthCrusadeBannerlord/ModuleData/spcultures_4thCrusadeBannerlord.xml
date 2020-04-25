@@ -1434,10 +1434,10 @@
            militia_party_template="PartyTemplate.militia_sturgia_template"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
     <male_names>
-      <name name="{=ig8zAo8f}Ori" />
+      <name name="{=ig8zAo8f}Gavyn" />
     </male_names>
     <female_names>
-      <name name="{=L0fuYckc}Friga" />
+      <name name="{=L0fuYckc}Irya" />
     </female_names>
   </Culture>
   <Culture id="vakken"
@@ -1453,24 +1453,24 @@
            militia_party_template="PartyTemplate.militia_sturgia_template"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
     <male_names>
-      <name name="{=jhT7CfhM}Aivar" />
-      <name name="{=GaMUU2Pf}Kaupi" />
-      <name name="{=3ipKaDWU}Natti" />
-      <name name="{=kL0ldFLG}Pekko" />
-      <name name="{=W1ZpjgQO}Rauko" />
-      <name name="{=WpTXwQw1}Vuoni" />
+      <name name="{=jhT7CfhM}Achyr" />
+      <name name="{=GaMUU2Pf}Anund" />
+      <name name="{=3ipKaDWU}Churig" />
+      <name name="{=kL0ldFLG}Cnut" />
+      <name name="{=W1ZpjgQO}Harald" />
+      <name name="{=WpTXwQw1}Isvan" />
     </male_names>
     <female_names>
-      <name name="{=FlexUfSP}Alivar" />
-      <name name="{=4bQbv3oN}Arha" />
-      <name name="{=rDPExYMQ}Eitar" />
-      <name name="{=jFdZ7mlB}Ilikki" />
-      <name name="{=ELpRLYQt}Jalin" />
-      <name name="{=hBuBpxjb}Kaidi" />
-      <name name="{=j8IOY5Cy}Luona" />
-      <name name="{=iiGXfCWd}Menar" />
-      <name name="{=gG1O5V1n}Olianar" />
-      <name name="{=XAF12HV0}Vikka" />
+      <name name="{=FlexUfSP}Elyaksha" />
+      <name name="{=4bQbv3oN}Gudra" />
+      <name name="{=rDPExYMQ}Idruna" />
+      <name name="{=jFdZ7mlB}Irya" />
+      <name name="{=ELpRLYQt}Kara" />
+      <name name="{=hBuBpxjb}Kalata" />
+      <name name="{=j8IOY5Cy}Marena" />
+      <name name="{=iiGXfCWd}Luvina" />
+      <name name="{=gG1O5V1n}Magna" />
+      <name name="{=XAF12HV0}Marena" />
     </female_names>
   </Culture>
   <Culture id="darshi"
@@ -1486,26 +1486,26 @@
            militia_party_template="PartyTemplate.militia_aserai_template"
            default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000">
     <male_names>
-      <name name="{=JJtww9pt}Aryush" />
-      <name name="{=Zm0Ee6sp}Azadun" />
-      <name name="{=nisA6W98}Baheshtur" />
-      <name name="{=pEvpjIa9}Bunduk" />
-      <name name="{=Z261F0mj}Hamezan" />
-      <name name="{=KmzQabkH}Hivan" />
-      <name name="{=QR3aNalC}Imirza" />
-      <name name="{=mDZqpa9Z}Sanjar" />
+      <name name="{=JJtww9pt}Ayman" />
+      <name name="{=Zm0Ee6sp}Ali" />
+      <name name="{=nisA6W98}Bilal" />
+      <name name="{=pEvpjIa9}Abdul Rahman" />
+      <name name="{=Z261F0mj}Hamza" />
+      <name name="{=KmzQabkH}Muhammad" />
+      <name name="{=QR3aNalC}Imran" />
+      <name name="{=mDZqpa9Z}Saeed" />
     </male_names>
     <female_names>
-      <name name="{=lGRde77R}Anahita" />
-      <name name="{=sa0YrXiv}Azareh" />
-      <name name="{=epxmhQav}Daria" />
-      <name name="{=zSL3MgNQ}Ilzar" />
-      <name name="{=R7avnODK}Nasmeen" />
-      <name name="{=ZPHdPglH}Raksana" />
-      <name name="{=SHXt3kC5}Roshaneh" />
-      <name name="{=wERVdmjj}Sulnaz" />
-      <name name="{=Btb7NzFM}Shima" />
-      <name name="{=GqEEIYay}Tilzad" />
+      <name name="{=lGRde77R}Aliya" />
+      <name name="{=sa0YrXiv}Afaf" />
+      <name name="{=epxmhQav}Dalal" />
+      <name name="{=zSL3MgNQ}Ibtisam" />
+      <name name="{=R7avnODK}Farah" />
+      <name name="{=ZPHdPglH}Lama" />
+      <name name="{=SHXt3kC5}Latifa" />
+      <name name="{=wERVdmjj}Saadia" />
+      <name name="{=Btb7NzFM}Zahra" />
+      <name name="{=GqEEIYay}Zakiya" />
     </female_names>
   </Culture>
   <Culture id="looters"
