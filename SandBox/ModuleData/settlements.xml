@@ -1089,7 +1089,7 @@
   </Settlement>
   <Settlement id="village_EW4_1" name="{=Settlements.Settlement.name.village_EW4_1}Genoa" posX="343.009" posY="351.062" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_1}Arpotis sits in the valley of the Gavys, linking Lake Perasos to the sea. Here on the southern imperial frontier, dates palms are cultivated.">
     <Components>
-      <Village id="village_comp_EW4_1" village_type="VillageType.olive_trees" hearth="125" gate_rotation="0.408" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="village_comp_EW4_1" village_type="VillageType.olive_trees" hearth="125" gate_rotation="0.408" trade_bound="Settlement.town_EW4" bound="Settlement.castle_EW7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_003" />
@@ -1115,7 +1115,7 @@
   </Settlement>
   <Settlement id="village_EW4_3" name="{=Settlements.Settlement.name.village_EW4_3}Rome" posX="340.289" posY="324.207" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_3}Vinela sits on the northern shores of Lake Perasos. The lake is now freshwater, but long ago the basin has cut off from the sea, and ample salt deposits can be found along its shores.">
     <Components>
-      <Village id="village_comp_EW4_3" village_type="VillageType.salt_mine" hearth="295" trade_bound="Settlement.town_EW4" bound="Settlement.town_EW4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
+      <Village id="village_comp_EW4_3" village_type="VillageType.salt_mine" hearth="295" trade_bound="Settlement.town_EW4" bound="Settlement.castle_EW7" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
     <Locations complex_template="LocationComplexTemplate.village_complex">
       <Location id="village_center" scene_name="empire_village_x" />
