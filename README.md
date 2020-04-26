@@ -44,6 +44,8 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Tweak cities & towns to have more accurate bounded settlements.
+- Change kingdom colours/banners.
+- Debug clan names not changing.
 
 ### Credits:
 
