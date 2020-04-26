@@ -36,14 +36,10 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 - Replace all existing names in spcultures with genuine names.
 - Add extra names for all sets in spcultures with genuine names.
 - Rename clans to more realistic names.
+- Replace all characters in lords with genuine names.
+- Redo lords file because of update meaning NPC makeover may not be needed.
 
 ### Todo:
 
-- Replace all characters in lords with genuine names. (Done: Aserai MALE, Todo: Aserai FEMALE, Khuzaits, Southern, Northern, Western, Battania, Vlandia, Sturgia)
 - Tweak cities & towns to better represent their actual sizes/historical significance.
-- Redo lords file because of update meaning NPC makeover may not be needed.
-
-### Credits:
-
-NOBLE NOBLES - TOTAL NPC MAKEOVER:
-https://www.nexusmods.com/mountandblade2bannerlord/mods/194?tab=description
+- Tweak cities & towns to have more accurate bounded settlements.
