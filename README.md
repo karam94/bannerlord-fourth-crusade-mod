@@ -1,17 +1,17 @@
 # Mount & Blade: Bannerlord - 4th Crusade Mod
 
-![Current Map](/images/fullmap-min.png)
+![Current Map](/images/4thCrusadeMod-FullMap-min.png)
 Note: Ignore the factions that control each area for now.
 
 ## Overview
 
-The Kingdom of Calradia now represents a fictional representation of the world, post-Third Crusade. Saladin has captured the Holy Kingdom of Jerusalem and as a result, the Islamic world has seen the Mohads combine with the Ayyubid Dynasty in an attempt to capitalise on the fresh split between the Holy Roman Empire & Byzantine Empire due to disagreements around the planned Fourth Crusade in Europe.
+The Kingdom of Calradia now represents a fictional representation of the world, post-Third Crusade. Saladin has captured the Holy Kingdom of Jerusalem and as a result, the Islamic world has been rallied, resulting in the Mohads combining together with the Ayyubid Dynasty in an attempt to capitalise on the fresh split between the Holy Roman Empire & Byzantine Empire due to disagreements around the planned Fourth Crusade in Europe towards Constantinople.
 
-Like-wise, the Nordic states have also come to an agreement to re-unite the Scandinavian states and form a Second Anglo-Scandinavian Empire as well as a re-emergence of the Second Bulgarian Empire, with both trying to also capitalise on the vulnerable Holy Roman Empire.
+Like-wise, the Nordic states have also come to an agreement to re-unite the Scandinavian states and form a Second Anglo-Scandinavian Empire alongside the expanding Second Bulgarian Empire, with both trying to also capitalise on the vulnerable Holy Roman Empire.
 
 The Mongols have destroyed the remainder of the Seljuk Sultanate of Rum from the East whilst the Angevin Empire struggle to hold off the Kingdom of France to the West side of the Holy Roman Empire.
 
-Which side will you take? Will you re-unite the Holy Roman Empire under a single banner for Christianity once again? Is it time for the Nordic states to roll back the years and take control? Or will you become a vassal of the mighty Saladin and have to juggle a Mongol invasion from your East whilst attempting to spread Islam in the West?
+Which side will you take? Will you re-unite the Holy Roman Empire under a single banner once again, then embark on a journey to recapture the Holy Land of Jerusalem? Is it time for the Nordic states to roll back the years and take control? Or will you become a vassal of the mighty Saladin and have to juggle a Mongol invasion from your East whilst attempting to expand further than southern Spain, in the West?
 
 ## Installation
 
