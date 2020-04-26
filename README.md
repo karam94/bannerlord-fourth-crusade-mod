@@ -15,8 +15,9 @@ Which side will you take? Will you re-unite the Holy Roman Empire under a single
 
 ## Installation
 
-Put in a folder called 'zzFourthCrusadeBannerlord'.
-Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules
+Extract or drag the folders `zzFourthCrusadeBannerlord` and `SandBox` in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules.
+When asked to overwrite existing files, accept to do so (this is due to some files currently not being moddable in early access).
+Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord launcher, order it at the bottom.
 
 ### Changes:
 
@@ -43,3 +44,17 @@ Extract in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Banner
 
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Tweak cities & towns to have more accurate bounded settlements.
+
+### Credits:
+
+French map: https://upload.wikimedia.org/wikipedia/commons/a/a6/Map_France_1180-fr.svg
+Second Bulgarian Empire: https://en.wikipedia.org/wiki/Second_Bulgarian_Empire#Rise
+Fourth Crusade partition map: https://en.wikipedia.org/wiki/Fourth_Crusade#/media/File:LatinEmpire2.png
+Mongol Invasion of Europe: https://en.wikipedia.org/wiki/Mongol_invasion_of_Europe#Invasions_and_conquest_of_Rus'_lands
+Byzantine Empire map: https://en.wikipedia.org/wiki/Byzantine_Empire#/media/File:LatinEmpire2.png
+11th-12th Century trade routes: https://i.imgur.com/MsXaOdV.jpg
+Europe 10th Century map: https://i0.wp.com/www.realhistoryww.com/world_history/ancient/Misc/Synopsis/Europe_1100_AD.jpg
+Ayyubid Sultanate map: https://upload.wikimedia.org/wikipedia/commons/1/1b/Ayyubid_Sultanate_1193_AD.jpg
+Third Crusade map: https://upload.wikimedia.org/wikipedia/commons/6/67/The_Third_Crusade_%281189-1192%29.png
+Europe 11th Century map: https://i.pinimg.com/originals/d7/c4/63/d7c4630926086f8a9f0825e91cc22fc6.jpg
+Eastern Hemisphere 10th Century map: https://upload.wikimedia.org/wikipedia/commons/d/d0/East-Hem_1100ad.jpg

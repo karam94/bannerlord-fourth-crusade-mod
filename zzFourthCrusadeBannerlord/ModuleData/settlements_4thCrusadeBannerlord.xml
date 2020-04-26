@@ -13,7 +13,7 @@
       <Location id="prison" scene_name="empire_dungeon_a" />
     </Locations>
   </Settlement>
-  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Sofia" posX="498.312" posY="377.567" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits where streams from the nearby hills join to form Aris, a small river that runs into Lake Tanaesis. The land here is not especially rich, but is sufficient for the raising of sheep.">
+  <Settlement id="castle_village_EN1_1" name="{=Settlements.Settlement.name.castle_village_EN1_1}Budapest" posX="498.312" posY="377.567" culture="Culture.empire" text="{=Settlements.Settlement.text.castle_village_EN1_1}Varagos sits where streams from the nearby hills join to form Aris, a small river that runs into Lake Tanaesis. The land here is not especially rich, but is sufficient for the raising of sheep.">
     <Components>
       <Village id="castle_village_comp_EN1_1" village_type="VillageType.sheep_farm" hearth="322" gate_rotation="0.008" trade_bound="Settlement.castle_EN1" bound="Settlement.castle_EN1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -670,7 +670,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_EW2" name="{=Settlements.Settlement.name.castle_EW2}Budapest" owner="Faction.clan_empire_north_3" posX="467.798" posY="359.131" culture="Culture.empire" prosperity="760" gate_posX="465.0477" gate_posY="359.6049">
+  <Settlement id="castle_EW2" name="{=Settlements.Settlement.name.castle_EW2}Belgrade" owner="Faction.clan_empire_north_3" posX="467.798" posY="359.131" culture="Culture.empire" prosperity="760" gate_posX="465.0477" gate_posY="359.6049">
     <Components>
       <Town id="castle_comp_EW2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1100,7 +1100,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_village_EW1_2" name="{=Settlements.Settlement.name.castle_village_EW1_2}Lysia" posX="287.921" posY="325.283" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_2}Lysia sits where the waters of Lake Perasos funnel into the Gavys river to make the journey to the sea. Villagers mine salt deposits from the nearby hills.">
+  <Settlement id="castle_village_EW1_2" name="{=Settlements.Settlement.name.castle_village_EW1_2}Andalucia" posX="287.921" posY="325.283" culture="Culture.empire" text="{=Settlements.Settlement.text.village_EW4_2}Lysia sits where the waters of Lake Perasos funnel into the Gavys river to make the journey to the sea. Villagers mine salt deposits from the nearby hills.">
     <Components>
       <Village id="castle_village_comp_EW1_2" village_type="VillageType.salt_mine" hearth="155" trade_bound="Settlement.castle_EW1" bound="Settlement.castle_EW1" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1415,7 +1415,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Tarnovo" owner="Faction.clan_empire_north_3" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
+  <Settlement id="castle_ES6" name="{=Settlements.Settlement.name.castle_ES6}Zagreb" owner="Faction.clan_empire_north_3" posX="493.22" posY="346.296" culture="Culture.empire" prosperity="670" gate_posX="490.7934" gate_posY="346.133">
     <Components>
       <Town id="castle_comp_ES6" is_castle="true" level="1" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1693,7 +1693,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Belgrade" owner="Faction.clan_empire_north_3" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
+  <Settlement id="town_ES4" name="{=Settlements.Settlement.name.town_ES4}Adrianople (Edirne)" owner="Faction.clan_empire_south_1" posX="515.33" posY="333.562" culture="Culture.empire" prosperity="3800" gate_posX="517.5825" gate_posY="329.8356">
     <Components>
       <Town id="town_comp_ES4" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1713,7 +1713,7 @@
       <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Zagreb" posX="516.05" posY="305.207" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_1}Sagora sits in the imperial heartland west of the Ophthys pool, in low grassy hills well suited to the raising of sheep.">
+  <Settlement id="village_ES4_1" name="{=Settlements.Settlement.name.village_ES4_1}Smyrna" posX="516.05" posY="305.207" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_1}Sagora sits in the imperial heartland west of the Ophthys pool, in low grassy hills well suited to the raising of sheep.">
     <Components>
       <Village id="village_comp_ES4_1" village_type="VillageType.sheep_farm" hearth="500" trade_bound="Settlement.town_ES4" bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1739,7 +1739,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Nis" posX="535.418" posY="313.408" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_3}Canterion sits near where the headwaters of the Sethys come rushing out of a stone outcrop in the midst of the Tripotamian highlands. The chalky soil in these parts makes for fine grazing for horses.">
+  <Settlement id="village_ES4_3" name="{=Settlements.Settlement.name.village_ES4_3}Bergama" posX="535.418" posY="313.408" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES4_3}Canterion sits near where the headwaters of the Sethys come rushing out of a stone outcrop in the midst of the Tripotamian highlands. The chalky soil in these parts makes for fine grazing for horses.">
     <Components>
       <Village id="village_comp_ES4_3" village_type="VillageType.europe_horse_ranch" hearth="169" gate_rotation="0.008" trade_bound="Settlement.town_ES4" bound="Settlement.town_ES4" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -1846,7 +1846,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Oakwood -->
-  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Adrianople (Edirne)" posX="554.301" posY="337.683" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies in the southern foothills of the Chisaurian mountains, as they begin to give way to the plains of the southeast. Saffron grows on the hillsides and a wide variety of spice-yielding berries harvested from the nearby oak woods.">
+  <Settlement id="village_ES6_2" name="{=Settlements.Settlement.name.village_ES6_2}Bursa" posX="554.301" posY="337.683" culture="Culture.empire" text="{=Settlements.Settlement.text.village_ES6_2}Spotia lies in the southern foothills of the Chisaurian mountains, as they begin to give way to the plains of the southeast. Saffron grows on the hillsides and a wide variety of spice-yielding berries harvested from the nearby oak woods.">
     <Components>
       <Village id="village_comp_ES6_2" village_type="VillageType.wheat_farm" hearth="163" gate_rotation="0.108" trade_bound="Settlement.town_ES6" bound="Settlement.town_ES6" background_crop_position="0.0" background_mesh="gui_bg_village_empire" wait_mesh="wait_empire_village" castle_background_mesh="gui_bg_castle_empire" />
     </Components>
@@ -2848,7 +2848,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Quyaz" owner="Faction.clan_aserai_1" posX="299.553" posY="264.853" culture="Culture.aserai" prosperity="4000" gate_posX="300.6187" gate_posY="261.9282">
+  <Settlement id="town_A1" name="{=Settlements.Settlement.name.town_A1}Anfa (Casablanca)" owner="Faction.clan_aserai_1" posX="299.553" posY="264.853" culture="Culture.aserai" prosperity="4000" gate_posX="300.6187" gate_posY="261.9282">
     <Components>
       <Town id="town_comp_A1" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_aserai_town" gate_rotation="0.108" />
     </Components>
