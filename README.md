@@ -1,7 +1,6 @@
 # Mount & Blade: Bannerlord - 4th Crusade Mod
 
 ![Current Map](/images/4thCrusadeMod-FullMap-min.png)
-Note: Ignore the factions that control each area for now.
 
 ## Overview
 
@@ -11,20 +10,25 @@ Like-wise, the Nordic states have also come to an agreement to re-unite the Scan
 
 The Mongols have destroyed the remainder of the Seljuk Sultanate of Rum from the East whilst the Angevin Empire struggle to hold off the Kingdom of France to the West side of the Holy Roman Empire.
 
-Which side will you take? Will you re-unite the Holy Roman Empire under a single banner once again, then embark on a journey to recapture the Holy Land of Jerusalem? Is it time for the Nordic states to roll back the years and take control? Or will you become a vassal of the mighty Saladin and have to juggle a Mongol invasion from your East whilst attempting to expand further than southern Spain, in the West?
+Which side will you take? Will you re-unite the Holy Roman Empire under a single banner once again, then embark on a journey to recapture the Holy Land of Jerusalem? Is it time for the Nordic states to roll back the years and take control? Or will you become a vassal of the mighty Saladin and have to juggle a Mongol invasion from your East whilst attempting to expand further in to Spain, in the West?
+
+## Inspiration
+
+Having started a save, I felt like the fictional characters & cities was resulting in a lack of immersion for myself, so I decided to try and make small cosmetic changes to the game to better represent what I believe, the developers have tried to re-create. I felt that if I felt this way, then surely others probably will too and therefore I've decided to release this as a mod.
+
+Whilst we know that Calradia in Warband was based around a fictional, modern-day Turkey... the new Calradia in Bannerlord looked far too much like the North-Eastern Hemisphere for me to ignore.
+
+The story line around the "Empire" splitting, coinciding with Razih (roughly situated where Jerusalem would) and Unqid's strong physical likeness to Saladin, with a Mongol invasion from the East, also seemed to be somewhat inspired roughly by the state of the world in the early 13th Century. So, I have tried to recreate this with some slight fictional tweaks to suit the game.
 
 ## Installation
 
-Extract or drag the folders `zzFourthCrusadeBannerlord` and `SandBox` in C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules.
+Extract or drag the folders `zzFourthCrusadeBannerlord` and `SandBox` in `C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules`.
 When asked to overwrite existing files, accept to do so (this is due to some files currently not being moddable in early access).
 Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord launcher, order it at the bottom.
 
 ### Changes:
 
-- Mass majority of cities & towns have been renamed to resemble real life cities & towns. Their sizes may not be reflective of their actual sizes however and this is a work in progress.
-- All cultures have been renamed to reflect the new kingdoms.
-- All main starting Lords have been renamed to reflect the new kingdoms.
-- Kingdoms have been renamed:
+- Kingdoms & cultures have been renamed:
   - Aserai = Ayyubid Dynasty (Includes the Mohads)
   - Khuzaits = Mongol Empire
   - Southern = Byzantine Empire
@@ -33,12 +37,11 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
   - Battania = Kingdom of France
   - Vlandia = Angevin Empire
   - Sturgia = Second Anglo-Scandinavian Empire (Nordic states have re-combined)
-- Assign the correct cities & towns to their correct starting empires.
-- Replace all existing names in spcultures with genuine names.
-- Add extra names for all sets in spcultures with genuine names.
-- Rename clans to more realistic names.
-- Replace all characters in lords with genuine names.
-- Redo lords file because of update meaning NPC makeover may not be needed.
+- Mass majority of cities & towns have been renamed to resemble real life cities & towns. They have been assigned to the correct starting empires (e.g. Tripoli, despite being surrounded by - Ayyubid cities, belongs to the Byzantines). Their sizes may not be reflective of their actual sizes however and this is a work in progress.
+- All main starting Rulers & Lords have been renamed to reflect the new kingdoms.
+- Replaced all existing names in spcultures with more accurate names.
+- Added extra names for all sets in spcultures with accurate names.
+- Fixed bug that causes game to crash when walking around a city.
 
 ### Todo:
 
@@ -46,6 +49,7 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 - Tweak cities & towns to have more accurate bounded settlements.
 - Change kingdom colours/banners.
 - Debug clan names not changing.
+- **BUG** - Alexios has female body features.
 
 ### Credits:
 
