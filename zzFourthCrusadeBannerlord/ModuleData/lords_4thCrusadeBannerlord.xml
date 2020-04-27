@@ -609,10 +609,10 @@
 	</NPCCharacter>
   -->
   <!-- Rhagaea, queen of imperial faction #3, head of clan 7 STEVEDIDFACE. Courteous demeanor - softspoken or earnest. -->
-  <NPCCharacter id="lord_1_14" name="{=kadJAjaA}Alexios III Angelos" default_group="Infantry" age="43" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_empire_noblewoman_elegant" is_hero="true" is_female="false" culture="Culture.empire" occupation="Lord">
+  <NPCCharacter id="lord_1_14" name="{=kadJAjaA}Alexios III Angelos" default_group="Infantry" age="43" voice="earnest" battleTemplate="NPCCharacter.empire_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.empire_unarmored_noble_equipment" is_hero="true" culture="Culture.empire" occupation="Lord">
     <face>
       <!--face_key value="0000ae3e50fc30045948a3188a41766557598897843a8925a7e38f3985789874000a16580a737521000000000000000000000000000000000000000001fc1040" /-->
-      <BodyProperties version="4" key="0000AC0E50FC30045948A3188A41766557598897843A8925A7E38F398578987400070656077375210000000000000000000000000000000000000000011C1040" />
+      <BodyProperties version="4" key="0000980440CC2994869C77D10337867E42EE26779365AB87B72705349D67AF4901B15614FB8B472E0000000000000000000000000000000000000000256C0002" />
       <!-- Rhagaea needs to be at least in her mid-40s, as she has a grown daughter. She needs to be attractive, with searching eyes. -->
     </face>
     <Traits>

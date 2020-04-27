@@ -1,7 +1,7 @@
 <Module>
   <Name value="4th Crusade Bannerlord"/>
   <Id value="zzFourthCrusadeBannerlord"/>
-   <Version value="v1.1.0"/>
+   <Version value="v1.0.1"/>
    <SingleplayerModule value="true"/>
    <MultiplayerModule value="false"/>
    <Official value="false" />
