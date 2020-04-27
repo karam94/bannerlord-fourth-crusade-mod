@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SPCultures>
   <Culture id="empire"
-           name="{=kiOst6DH}Holy Roman Empire"
+           name="{=kiOst6DH}Empire"
            is_main_culture="true"
            color="FF4E3A55"
            color2="FFDE9953"
@@ -298,7 +298,7 @@
     </clan_names>
   </Culture>
   <Culture id="aserai"
-           name="{=NaNMRPv4}Ayyubid Dynasty"
+           name="{=NaNMRPv4}Aserai"
            is_main_culture="true"
            color="FF965228"
            color2="FF4F2212"
@@ -365,21 +365,18 @@
       <name name="{=n2FdWOtE}Adam" />
       <name name="{=HEGo3ArK}Amer" />
       <name name="{=kErcuRlk}Aziz" />
+      <name name="{=YRzakgRB}Bilal" />
       <name name="{=6p3qkhil}Adel" />
       <name name="{=jgr2xo9r}Asad" />
       <name name="{=Emsd1xmS}Ayyub" />
-      <name name="{=NOchnEwX}Abu Bakr" />
-      <name name="{=gDMdWisO}Ayyoub" />
-      <name name="{=hF3F3u8u}Ashraf" />
-      <name name="{=GK18UxoX}Abdullah" />
-      <name name="{=MRTWZuF4}Abbas" />
-      <name name="{=zCaeJ7GC}Ashraf" />
-      <name name="{=fWKnmnXb}Akram" />
-      <name name="{=YRzakgRB}Bilal" />
       <name name="{=xC3kCGte}Dawoud" />
+      <name name="{=hF3F3u8u}Ashraf" />
       <name name="{=evXLa2XX}Fares" />
       <name name="{=bVtVsEUr}Ghassan" />
+      <name name="{=NOchnEwX}Abu Bakr" />
+      <name name="{=gDMdWisO}Ayyoub" />
       <name name="{=cdQO1eLv}Hussein" />
+      <name name="{=GK18UxoX}Abdullah" />
       <name name="{=sWRKG0e1}Ilyas" />
       <name name="{=2mhCIkuB}Jaafar" />
       <name name="{=nyCtbjg6}Jassem" />
@@ -387,27 +384,30 @@
       <name name="{=egOzKsKS}Karim" />
       <name name="{=YIpKt79X}Kamel" />
       <name name="{=r0dXXtoU}Khaled" />
-      <name name="{=ZSraCpCs}Lakhem" />
+      <name name="{=MRTWZuF4}Abbas" />
+      <name name="{=ZSraCpCs}Ashraf" />
       <name name="{=b7PVGEFM}Laith" />
-      <name name="{=0ZTMVxzw}Lazif" />
+      <name name="{=0ZTMVxzw}Latif" />
       <name name="{=PknomRIt}Marwan" />
       <name name="{=la6HgVXN}Mansour" />
       <name name="{=KSsRA8xm}Nasser" />
-      <name name="{=8UGqSVH5}Nathun" />
-      <name name="{=UlPJ9OYH}Nidr" />
-      <name name="{=rmpKsJwg}Nour Al-Deen" />
+      <name name="{=8UGqSVH5}Khaled" />
+      <name name="{=UlPJ9OYH}Waleed" />
+      <name name="{=rmpKsJwg}Nour" />
       <name name="{=3pgwKPsf}Nouh" />
       <name name="{=Qx7ZfdbV}Qusai" />
       <name name="{=M9gqEb6D}Ridwan" />
       <name name="{=f7u2p3x3}Mustafa" />
       <name name="{=xyIDKleR}Saeed" />
       <name name="{=3rXHA6fI}Salah" />
-      <name name="{=5QHosdnk}Sudais" />
+      <name name="{=5QHosdnk}Saleem" />
       <name name="{=eAro6IVf}Mousa" />
       <name name="{=yToKqfa3}Eisa" />
       <name name="{=5O81vNIS}Taha" />
-      <name name="{=SOkQ7b7r}Thaqir" />
+      <name name="{=fWKnmnXb}Akram" />
       <name name="{=Q2qLCrn2}Yousef" />
+      <name name="{=SOkQ7b7r}Thaqir" />
+      <name name="{=zCaeJ7GC}Ayman" />
       <name name="{=0atYAnDF}Talal" />
       <name name="{=xUSeJEd6}Umar" />
       <name name="{=EKUSZBBj}Uthman" />
@@ -471,8 +471,7 @@
       <name name="Saleh" />
       <name name="Salah" />
       <name name="Saber" />
-      <name name="Dahie" />
-      <name name="Ali" />
+      <name name="Marwan" />
       <name name="Odai" />
       <name name="Osama" />
       <name name="Othman" />
@@ -595,7 +594,7 @@
     </clan_names>
   </Culture>
   <Culture id="sturgia"
-           name="{=PjO7oY16}Second North Sea Empire"
+           name="{=PjO7oY16}Sturgia"
            is_main_culture="true"
            color="FF1C2A50"
            color2="FF949CCC"
@@ -833,7 +832,7 @@
     </clan_names>
   </Culture>
   <Culture id="vlandia"
-           name="{=FjwRsf1C}Angevin Empire"
+           name="{=FjwRsf1C}Vlandia"
            is_main_culture="true"
            color="FF5C2017"
            color2="FFECBA44"
@@ -1061,7 +1060,7 @@
     </clan_names>
   </Culture>
   <Culture id="battania"
-           name="{=0B27RrYJ}Holy Roman Empire"
+           name="{=0B27RrYJ}Battania"
            is_main_culture="true"
            color="FF2D3F1D"
            color2="FFBFCBB0"
@@ -1275,7 +1274,7 @@
     </clan_names>
   </Culture>
   <Culture id="khuzait"
-           name="{=sZLd6VHi}Mongol Empire"
+           name="{=sZLd6VHi}Khuzait"
            is_main_culture="true"
            color="FF58888B"
            color2="FFCCBB89"
