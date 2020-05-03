@@ -37,14 +37,18 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
   - Battania = Kingdom of France
   - Vlandia = Angevin Empire
   - Sturgia = Second Anglo-Scandinavian Empire (Nordic states have re-combined)
-- Mass majority of cities & towns have been renamed to resemble real life cities & towns. They have been assigned to the correct starting empires (e.g. Tripoli, despite being surrounded by - Ayyubid cities, belongs to the Byzantines). Their sizes may not be reflective of their actual sizes however and this is a work in progress.
+- Mass majority of cities & towns have been renamed to resemble real life cities & towns.
+- Cities & towns have been assigned to the correct starting empires (e.g. Tripoli, despite being surrounded by - Ayyubid cities, belongs to the Byzantines). Their in-game sizes however may not currently be reflective of their actual sizes however and this is a work in progress.
 - All main starting Rulers & Lords have been renamed to reflect the new kingdoms.
-- Replaced all existing names in spcultures with more accurate names.
+- Replaced all existing names in spcultures with more accurate names and added variety of extra names for both male & females.
 - Added extra names for all sets in spcultures with accurate names.
+- Changed kingdom colours/banners to represent real designs.
+- Renamed companions from different cultures with more accurate names.
+
+### Reported Bug Fixes:
+
 - Fixed bug that causes game to crash when walking around a city.
 - Fixed bug where Alexios still had Rhagaea's body.
-- Changed kingdom colours/banners to represent real designs.
-- Renamed companions from different cultures with real names.
 
 ### Todo:
 
