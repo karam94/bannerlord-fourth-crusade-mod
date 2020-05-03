@@ -2632,7 +2632,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     <equipmentSet></equipmentSet>
   </NPCCharacter>
   <!-- Countess Calatild, leader of clan 3. Rigid -->
-  <NPCCharacter id="lord_4_6" name="{=KsBoNHW5}Philip" age="45" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.vlandia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_vlandia_noblewoman" culture="Culture.vlandia" occupation="Lord">
+  <NPCCharacter id="lord_4_6" name="{=KsBoNHW5}Jane" age="45" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" battleTemplate="NPCCharacter.vlandia_lord_lady_battle_equipment" civilianTemplate="NPCCharacter.noncombatant_template_vlandia_noblewoman" culture="Culture.vlandia" occupation="Lord">
     <face>
       <BodyProperties version="4" weight="0.3517" build="0.5988" key="0004640700CC000A937028572492B2C7877F875AA7536C989859FD27797983B304995646096E3949000000000000000000000000000000000000000071243043" />
     </face>

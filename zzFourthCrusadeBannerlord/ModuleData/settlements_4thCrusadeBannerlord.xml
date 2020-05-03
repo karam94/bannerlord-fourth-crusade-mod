@@ -387,7 +387,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_EN3" name="{=Settlements.Settlement.name.town_EN3}Sandomierz" owner="Faction.clan_empire_north_3" posX="513.339" posY="419.099" culture="Culture.empire" prosperity="4600" gate_posX="516.5862" gate_posY="416.1982">
+  <Settlement id="town_EN3" name="{=Settlements.Settlement.name.town_EN3}Sandomierz" owner="Faction.clan_empire_north_1" posX="513.339" posY="419.099" culture="Culture.empire" prosperity="4600" gate_posX="516.5862" gate_posY="416.1982">
     <Components>
       <Town id="town_comp_EN3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -871,7 +871,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Lageta and Zeonika, west, akritas lords of soldier faction of empire (clan 6)-->
-  <Settlement id="town_EW1" name="{=Settlements.Settlement.name.town_EW1}Salzburg" owner="Faction.clan_empire_west_3" posX="315.287" posY="397.114" culture="Culture.empire" prosperity="5200" gate_posX="314.4291" gate_posY="392.8451">
+  <Settlement id="town_EW1" name="{=Settlements.Settlement.name.town_EW1}Salzburg" owner="Faction.clan_empire_west_1" posX="315.287" posY="397.114" culture="Culture.empire" prosperity="5200" gate_posX="314.4291" gate_posY="392.8451">
     <Components>
       <Town id="town_comp_EW1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_3" wait_mesh="wait_empire_town" gate_rotation="0.108" />
     </Components>
@@ -1188,7 +1188,7 @@
     </CommonAreas>
   </Settlement>
   <!-- The Rhotians, probably a tribe-->
-  <Settlement id="town_EW6" name="{=Settlements.Settlement.name.town_EW6}Prague" owner="Faction.clan_empire_west_5" posX="390.118" posY="393.159" culture="Culture.empire" prosperity="4900" gate_posX="389.7898" gate_posY="390.9235">
+  <Settlement id="town_EW6" name="{=Settlements.Settlement.name.town_EW6}Prague" owner="Faction.clan_empire_west_1" posX="390.118" posY="393.159" culture="Culture.empire" prosperity="4900" gate_posX="389.7898" gate_posY="390.9235">
     <Components>
       <Town id="town_comp_EW6" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_1" wait_mesh="wait_empire_town" gate_rotation="0.808" />
     </Components>
@@ -1634,7 +1634,7 @@
   </Settlement>
   <!-- Akropora and Halmor, belong to clan 5 varros-->
   <!-- High ford-->
-  <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Athens" owner="Faction.clan_empire_south_2" posX="471.018" posY="269.821" culture="Culture.empire" prosperity="4500" gate_posX="472.3768" gate_posY="268.0157">
+  <Settlement id="town_ES3" name="{=Settlements.Settlement.name.town_ES3}Athens" owner="Faction.clan_empire_south_1" posX="471.018" posY="269.821" culture="Culture.empire" prosperity="4500" gate_posX="472.3768" gate_posY="268.0157">
     <Components>
       <Town id="town_comp_ES3" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
@@ -1812,7 +1812,7 @@
     </CommonAreas>
   </Settlement>
   <!-- vicium and danustika, eastern, clan 9 - brooders -->
-  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Constantinople (Istanbul)" owner="Faction.clan_empire_south_6" posX="566.24" posY="347.43" culture="Culture.empire" prosperity="2600" gate_posX="566.696" gate_posY="345.217">
+  <Settlement id="town_ES6" name="{=Settlements.Settlement.name.town_ES6}Constantinople (Istanbul)" owner="Faction.clan_empire_south_1" posX="566.24" posY="347.43" culture="Culture.empire" prosperity="2600" gate_posX="566.696" gate_posY="345.217">
     <Components>
       <Town id="town_comp_ES6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="menu_empire_2" wait_mesh="wait_empire_town" gate_rotation="0.508" />
     </Components>
@@ -2280,7 +2280,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Sigtuna" owner="Faction.clan_sturgia_2" posX="451.107" posY="515.464" culture="Culture.sturgia" prosperity="3200" gate_posX="448.2916" gate_posY="511.662">
+  <Settlement id="town_S3" name="{=Settlements.Settlement.name.town_S3}Sigtuna" owner="Faction.clan_sturgia_1" posX="451.107" posY="515.464" culture="Culture.sturgia" prosperity="3200" gate_posX="448.2916" gate_posY="511.662">
     <Components>
       <Town id="town_comp_S3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.008" />
     </Components>
@@ -2330,7 +2330,7 @@
   <!-- Akon's place -->
   <!-- Olek's Faction -->
   <!-- Ravenfield -->
-  <Settlement id="town_S4" name="{=Settlements.Settlement.name.town_S4}Halych" owner="Faction.clan_sturgia_4" posX="540.416" posY="548.273" culture="Culture.sturgia" prosperity="3300" gate_posX="537.909" gate_posY="549.673">
+  <Settlement id="town_S4" name="{=Settlements.Settlement.name.town_S4}Halych" owner="Faction.clan_sturgia_1" posX="540.416" posY="548.273" culture="Culture.sturgia" prosperity="3300" gate_posX="537.909" gate_posY="549.673">
     <Components>
       <Town id="town_comp_S4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.808" />
     </Components>
@@ -2405,7 +2405,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Name of a local clan hero-->
-  <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Kerch" owner="Faction.clan_sturgia_3" posX="647.079" posY="569.108" culture="Culture.sturgia" prosperity="1700" gate_posX="651.0615" gate_posY="568.5306">
+  <Settlement id="town_S5" name="{=Settlements.Settlement.name.town_S5}Kerch" owner="Faction.clan_sturgia_1" posX="647.079" posY="569.108" culture="Culture.sturgia" prosperity="1700" gate_posX="651.0615" gate_posY="568.5306">
     <Components>
       <Town id="town_comp_S5" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2468,7 +2468,7 @@
     </CommonAreas>
   </Settlement>
   <!-- Name of a local clan hero-->
-  <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Siberia" owner="Faction.clan_sturgia_6" posX="549.77" posY="586.259" culture="Culture.sturgia" prosperity="1900" gate_posX="554.0275" gate_posY="584.1961">
+  <Settlement id="town_S6" name="{=Settlements.Settlement.name.town_S6}Siberia" owner="Faction.clan_sturgia_1" posX="549.77" posY="586.259" culture="Culture.sturgia" prosperity="1900" gate_posX="554.0275" gate_posY="584.1961">
     <Components>
       <Town id="town_comp_S6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2529,7 +2529,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Viken (Oslo)" owner="Faction.clan_sturgia_5" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
+  <Settlement id="town_S7" name="{=Settlements.Settlement.name.town_S7}Viken (Oslo)" owner="Faction.clan_sturgia_1" posX="296.82" posY="580.832" culture="Culture.sturgia" prosperity="2200" gate_posX="300.7357" gate_posY="583.4869">
     <Components>
       <Town id="town_comp_S7" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_sturgia" wait_mesh="wait_sturgia_town" gate_rotation="0.308" />
     </Components>
@@ -2921,7 +2921,7 @@
     </CommonAreas>
   </Settlement>
   <!-- deep oasis town -->
-  <Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Damascus" owner="Faction.clan_aserai_2" posX="686.263" posY="234.343" culture="Culture.aserai" prosperity="4200" gate_posX="686.8181" gate_posY="236.229">
+  <Settlement id="town_A2" name="{=Settlements.Settlement.name.town_A2}Damascus" owner="Faction.clan_aserai_1" posX="686.263" posY="234.343" culture="Culture.aserai" prosperity="4200" gate_posX="686.8181" gate_posY="236.229">
     <Components>
       <Town id="town_comp_A2" is_castle="false" level="3" background_crop_position="0.235" background_mesh="menu_aserai_1" wait_mesh="wait_aserai_town" gate_rotation="0.808" />
     </Components>
@@ -2980,7 +2980,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Sina" owner="Faction.clan_aserai_4" posX="493.537" posY="111.731" culture="Culture.aserai" prosperity="1800" gate_posX="492.1278" gate_posY="114.4006">
+  <Settlement id="town_A3" name="{=Settlements.Settlement.name.town_A3}Sina" owner="Faction.clan_aserai_1" posX="493.537" posY="111.731" culture="Culture.aserai" prosperity="1800" gate_posX="492.1278" gate_posY="114.4006">
     <Components>
       <Town id="town_comp_A3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
     </Components>
@@ -3039,7 +3039,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Jerusalem" owner="Faction.clan_aserai_2" posX="608.801" posY="178.967" culture="Culture.aserai" prosperity="4500" gate_posX="610.5481" gate_posY="176.2253">
+  <Settlement id="town_A4" name="{=Settlements.Settlement.name.town_A4}Jerusalem" owner="Faction.clan_aserai_1" posX="608.801" posY="178.967" culture="Culture.aserai" prosperity="4500" gate_posX="610.5481" gate_posY="176.2253">
     <Components>
       <Town id="town_comp_A4" is_castle="false" level="1" background_crop_position="0.241" background_mesh="menu_aserai_2" wait_mesh="wait_aserai_town" gate_rotation="0.208" />
     </Components>
@@ -3112,7 +3112,7 @@
     </CommonAreas>
   </Settlement>
   <!-- eastern towns -->
-  <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Cairo" owner="Faction.clan_aserai_3" posX="561.609" posY="119.752" culture="Culture.aserai" prosperity="3200" gate_posX="558.9596" gate_posY="121.2922">
+  <Settlement id="town_A5" name="{=Settlements.Settlement.name.town_A5}Cairo" owner="Faction.clan_aserai_1" posX="561.609" posY="119.752" culture="Culture.aserai" prosperity="3200" gate_posX="558.9596" gate_posY="121.2922">
     <Components>
       <Town id="town_comp_A5" is_castle="false" level="2" background_crop_position="0.179" background_mesh="menu_aserai_3" wait_mesh="wait_aserai_town" gate_rotation="0.908" />
     </Components>
@@ -3243,7 +3243,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Asyut" owner="Faction.clan_aserai_5" posX="379.425" posY="118.472" culture="Culture.aserai" prosperity="2100" gate_posX="380.7408" gate_posY="119.9328">
+  <Settlement id="town_A7" name="{=Settlements.Settlement.name.town_A7}Asyut" owner="Faction.clan_aserai_1" posX="379.425" posY="118.472" culture="Culture.aserai" prosperity="2100" gate_posX="380.7408" gate_posY="119.9328">
     <Components>
       <Town id="town_comp_A7" is_castle="false" level="3" background_crop_position="0.401" background_mesh="menu_aserai_4" wait_mesh="wait_aserai_town" gate_rotation="0.408" />
     </Components>
@@ -3315,7 +3315,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Alexandria" owner="Faction.clan_aserai_6" posX="490.694" posY="163.097" culture="Culture.aserai" prosperity="3500" gate_posX="489.0013" gate_posY="160.3215">
+  <Settlement id="town_A8" name="{=Settlements.Settlement.name.town_A8}Alexandria" owner="Faction.clan_aserai_1" posX="490.694" posY="163.097" culture="Culture.aserai" prosperity="3500" gate_posX="489.0013" gate_posY="160.3215">
     <Components>
       <Town id="town_comp_A8" is_castle="false" level="2" background_crop_position="0.0" background_mesh="menu_empire_4" wait_mesh="wait_aserai_town" gate_rotation="0.508" />
     </Components>
@@ -3723,7 +3723,7 @@
   </Settlement>
   <!-- Vlandian ruling clan 4_1, 2, 7, 13 -->
   <!-- From Calradic Parzeonerea: 'City of He Who Rules By Heaven's Will')-->
-  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}Hastings" owner="Faction.clan_vlandia_2" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
+  <Settlement id="town_V3" name="{=Settlements.Settlement.name.town_V3}Hastings" owner="Faction.clan_vlandia_1" posX="139.205" posY="475.542" culture="Culture.vlandia" prosperity="3200" gate_posX="136.1804" gate_posY="478.1952">
     <Components>
       <Town id="town_comp_V3" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_vlanda" wait_mesh="wait_vlandia_town" gate_rotation="0.008" />
     </Components>
@@ -4987,7 +4987,7 @@
     </CommonAreas>
   </Settlement>
   <!-- clan 3, Arkits, lords 5, 9, 15 -->
-  <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Derbent" owner="Faction.clan_khuzait_2" posX="732.485" posY="536.545" culture="Culture.khuzait" prosperity="2000" gate_posX="730.3407" gate_posY="536.892">
+  <Settlement id="town_K1" name="{=Settlements.Settlement.name.town_K1}Derbent" owner="Faction.clan_khuzait_1" posX="732.485" posY="536.545" culture="Culture.khuzait" prosperity="2000" gate_posX="730.3407" gate_posY="536.892">
     <Components>
       <Town id="town_comp_K1" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5060,7 +5060,7 @@
     </CommonAreas>
   </Settlement>
   <!-- White fortress-->
-  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Yerevan" owner="Faction.clan_khuzait_4" posX="726.701" posY="372.704" culture="Culture.khuzait" prosperity="1900" gate_posX="726.4065" gate_posY="370.1996">
+  <Settlement id="town_K2" name="{=Settlements.Settlement.name.town_K2}Yerevan" owner="Faction.clan_khuzait_1" posX="726.701" posY="372.704" culture="Culture.khuzait" prosperity="1900" gate_posX="726.4065" gate_posY="370.1996">
     <Components>
       <Town id="town_comp_K2" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5194,7 +5194,7 @@
     </CommonAreas>
   </Settlement>
   <!-- clan 2, Khergits. lords 3, 4f, 8, 14 -->
-  <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Tbilisi" owner="Faction.clan_khuzait_3" posX="745.826" posY="448.187" culture="Culture.khuzait" prosperity="3700" gate_posX="743.0511" gate_posY="443.6095">
+  <Settlement id="town_K4" name="{=Settlements.Settlement.name.town_K4}Tbilisi" owner="Faction.clan_khuzait_1" posX="745.826" posY="448.187" culture="Culture.khuzait" prosperity="3700" gate_posX="743.0511" gate_posY="443.6095">
     <Components>
       <Town id="town_comp_K4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
@@ -5338,7 +5338,7 @@
       <Area type="Bog" name="{=iXA5SttU}Bog" />
     </CommonAreas>
   </Settlement>
-  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Tabriz" owner="Faction.clan_khuzait_5" posX="754.602" posY="335.122" culture="Culture.khuzait" prosperity="1700" gate_posX="752.3246" gate_posY="334.0394">
+  <Settlement id="town_K6" name="{=Settlements.Settlement.name.town_K6}Tabriz" owner="Faction.clan_khuzait_1" posX="754.602" posY="335.122" culture="Culture.khuzait" prosperity="1700" gate_posX="752.3246" gate_posY="334.0394">
     <Components>
       <Town id="town_comp_K6" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
     </Components>
