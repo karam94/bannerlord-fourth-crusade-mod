@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <!--
+		Useful NPC clothes
+	  turban:    					<equipment slot="Head" id="Item.tuareg" />
+      aserai robe with brocade: 	<equipment slot="Body" id="Item.desert_robe" />
+
+	tied_cloth_tunic - cloth tunic, usually has markings
+	tunic_with_shoulder_pads - cloth tunic, usually has markings
+	fine_tunic - fine tunic, blue
+
+	desert_robe - robe a - some brocade on sleaves, could be imperial
+	tunic_with_rolled_cloth - tunic with rolled cloth - trimming
+
+	nordic_sloven_leather - Nordic sloven leather
+
+	steppe_robe - mongol cloth black
+
+-->
+  <!-- Tacitus type: Perk, allows you to recite ancestry of lords-->
+  <NPCCharacter id="companion_0" name="{=KbdRplDL}Petrys" voice="earnest" culture="Culture.empire" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_empire" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0005652a186805ce67aa9455b3839554a9b882d665564acc4956492677ac67160007000400178197000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0005640A187C05CE67AA9455B38A9554A9B882D665564ACC4956492677AC6716000AA00A0A178197000000000000000000000000000000000000000001180000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_0" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="30" />
+      <skill id="TwoHanded" value="35" />
+      <skill id="Polearm" value="30" />
+      <skill id="Bow" value="75" />
+      <skill id="Crossbow" value="60" />
+      <skill id="Throwing" value="55" />
+      <!--<skill id="ArcherCommand" value="65" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.steppe_armor" />
+  </NPCCharacter>
+  <!-- Professional soldier: Perk, bonus to training of infantry -->
+  <NPCCharacter id="companion_1" name="{=7UkzXWTQ}Osarios" voice="curt" culture="Culture.empire" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_empire" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0019752fc0fc3000674216a876c867576aa455a9a5db6599872c454666c4591200058a9469458567000000000000000000000000000000000000000000008000" /-->
+      <BodyProperties version="4" key="0016740FC0FC3000674216A876C767576AA455A9A5DB6599872C454666C4591200087A9708458567000000000000000000000000000000000000000000C88000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_1" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="65" />
+      <skill id="TwoHanded" value="50" />
+      <skill id="Polearm" value="65" />
+      <skill id="Bow" value="35" />
+      <skill id="Crossbow" value="30" />
+      <skill id="Throwing" value="45" />
+      <!--<skill id="Athletics" value="70" /> #OLD_SKILL# -->
+      <skill id="Riding" value="65" />
+      <!--<skill id="InfantryCommand" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Engineer: Perk, siege bonus and counterweight trebuchet -->
+  <NPCCharacter id="companion_2" name="{=y9nJNtNx}Senon" voice="curt" culture="Culture.empire" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_empire" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0012712b003c25ce59a9c9bca03aa8285296b84adb946a7a774467689cb776690006ab4482877854000000000000000000000000000000000000000000007040" /-->
+      <BodyProperties version="4" key="0011700B403C25CE59A9C9BCA038A8285296B84ADB946A7A774467689CB7766900088B4808877854000000000000000000000000000000000000000000A07040" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_2" />
+    </Components>
+    <skills>
+      <skill id="Bow" value="65" />
+      <skill id="Crossbow" value="75" />
+      <skill id="Throwing" value="70" />
+      <!--<skill id="Athletics" value="60" /> #OLD_SKILL# -->
+      <skill id="Riding" value="59" />
+      <!--<skill id="ArcherCommand" value="71" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+      <equipment slot="Body" id="Item.highland_cloth" />
+      <!-- blue tunic -->
+      <equipment slot="Leg" id="Item.battania_fur_boots" />
+      <!-- blue tunic -->
+    </equipmentSet>
+  </NPCCharacter>
+  <!-- Matriarch / to add: martira face -->
+  <NPCCharacter id="companion_3" name="{=G9eRRrc0}Haldaea" voice="earnest" culture="Culture.empire" is_female="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_empire" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="000070e3003c100ee32621e9a88687967a661b55cb4ac5c52c64873853c67c6300080b4389b39783000000000000000000000000000000000000000000006141" /-->
+      <BodyProperties version="4" key="00007002C03C100EE32621E9A88887967A661B55CB4AC5C52C64873853C67C6300058B4805B39783000000000000000000000000000000000000000000006141" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_3" />
+    </Components>
+    <skills>
+      <!--<skill id="Commander" value="65" />-->
+      <skill id="Tactics" value="75" />
+      <skill id="OneHanded" value="40" />
+      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
+      <skill id="TwoHanded" value="32" />
+      <!--<skill id="Logistics" value="71" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- border ranger  
+
+  <NPCCharacter id="companion_4" name="Chara" culture="Culture.empire" is_female="true" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion" >
+    <face>
+      <face_key value="001fa80fc0fc3004965c459988c9d6f25a8d439798037977c5a4798577d689ca00046b9045a58a6e000000000000000000000000000000000000000000005000"/>
+    </face>
+    <Components>
+      <Companion id="companion_comp_4" />
+    </Components>
+    <skills>
+      <skill id="Bow" value="45" />
+      <skill id="Crossbow" value="75" />
+      <skill id="OneHanded" value="50" />
+      <skill id="Polearm" value="40" />
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+-->
+  <!-- Boscoric, fallen heretic, now an herbalist-->
+  <NPCCharacter id="companion_5" name="{=dP5A3wwT}Boscoric" voice="ironic" culture="Culture.vlandia" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_vlandia" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="00000d29cca435408e34ac966560a37aa3c2c68ab77778351ab589b4a2d618c7000f000400758421000000000000000000000000000000000000000000002000" /-->
+      <BodyProperties version="4" key="00000C0A0CBC35408E34AC966569A37AA3C2C68AB77778351AB589B4A2D618C7000B90090B758421000000000000000000000000000000000000000000282000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_5" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="55" />
+      <skill id="TwoHanded" value="35" />
+      <skill id="Riding" value="60" />
+      <!--<skill id="CavalryCommand" value="55" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Ewyn, aristocratic maiden left in wake of army. Perk is surgery -->
+  <NPCCharacter id="companion_6" name="{=Ub0awU1n}Ewyn" voice="softspoken" culture="Culture.vlandia" is_female="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_vlandia" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="001f352b003c200199e6c95663a6d95c58d78738499757698aa28a69c64645aa0005b96485a64c18000000000000000000000000000000000000000000002000" /-->
+      <BodyProperties version="4" key="001C340B403C200199E6C95663A7D95C58D78738499757698AA28A69C64645AA0007796607A64C18000000000000000000000000000000000000000000782000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_6" />
+    </Components>
+    <skills>
+      <!--<skill id="Commander" value="65" />-->
+      <skill id="Tactics" value="55" />
+      <!--<skill id="Reign" value="60" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Arigun, ex-member of smuggling ring, knows back door into cities on west of map / calatild face-->
+  <NPCCharacter id="companion_7" name="{=w9fY8ab4}Arigun" voice="ironic" culture="Culture.vlandia" is_female="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_vlandia" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0006c529403c00027393747b359e4847538a4b887fb569ab6c3663743459c33d000374e4b27cda5b000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0005C408803C00027393747B359A4847538A4B887FB569AB6C3663743459C33D0008A4E5087CDA5B000000000000000000000000000000000000000000A00000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_7" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="65" />
+      <skill id="TwoHanded" value="55" />
+      <skill id="Polearm" value="60" />
+      <!--<skill id="InfantryCommand" value="75" /> #OLD_SKILL# -->
+      <!--<skill id="Commander" value="60" />-->
+      <skill id="Riding" value="55" />
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Tabur, experienced bon vivant and party-crasher, knows back doors into cities / nuqar face-->
+  <NPCCharacter id="companion_8" name="{=UgA0uoFA}Tabur" voice="ironic" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="003ff12fc06c1000469769a77a5069ea962f19eefeb657935f86f17f4038a6e3000a000400d47eb6000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="003FF00FC07C1000469769A77A5669EA962F19EEFEB657935F86F17F4038A6E30006600606D47EB6000000000000000000000000000000000000000000A00000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_8" />
+    </Components>
+    <skills>
+      <skill id="Bow" value="65" />
+      <skill id="Crossbow" value="55" />
+      <skill id="Throwing" value="60" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <!--<skill id="ArcherCommand" value="60" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="55" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Lath, desert fugitive / addas face-->
+  <NPCCharacter id="companion_9" name="{=b7PVGEFM}Lath" voice="curt" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0028612cda4841058548b1655778b484b74788b66766633b6b4a86b696bb8873000000000877a852000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0028600CDA3C41058548B1655777B484B74788B66766633B6B4A86B696BB8873000870070877A852000000000000000000000000000000000000000000C80000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_9" />
+    </Components>
+    <skills>
+      <!--<skill id="CavalryCommand" value="75" /> #OLD_SKILL# -->
+      <skill id="Riding" value="65" />
+      <skill id="OneHanded" value="40" />
+      <!--<skill id="Athletics" value="45" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+      <equipment slot="Body" id="Item.fur_armor_with_strap" />
+      <equipment slot="Leg" id="Item.strapped_leather_boots" />
+    </equipmentSet>
+  </NPCCharacter>
+  <!-- Sabila, merchant's daughter and caravaneer / ruma face-->
+  <NPCCharacter id="companion_10" name="{=QCiqeUHm}Sabila" voice="ironic" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="000c6247d2d005ceaa634b26a65648386864a5ba7c8ac67cd2298763dc917bd9000c600900517667000000000000000000000000000000000000000000000002" /-->
+      <BodyProperties version="4" key="000B600712BC05CEAA634B26A65848386864A5BA7C8AC67CD2298763DC917BD90008800708517667000000000000000000000000000000000000000000A00003" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_10" />
+    </Components>
+    <skills>
+      <skill id="Tactics" value="60" />
+      <!--<skill id="Siegecraft" value="45" /> #OLD_SKILL# -->
+      <skill id="Trade" value="60" />
+      <!--<skill id="Diplomacy" value="70" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="35" />
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Urgil, a coalbiter / urik face -->
+  <NPCCharacter id="companion_11" name="{=jqaPJbpP}Urgil" voice="curt" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="00007db2c07815ca57964b964a69479d7207bbceb987945ac239247da477d627000b900700983b5a000000000000000000000000000000000000000000000002" /-->
+      <BodyProperties version="4" key="00007C02C07C15CA57964B964A68479D7207BBCEB987945AC239247DA477D6270007800807983B5A000000000000000000000000000000000000000000500003" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_11" />
+    </Components>
+    <skills>
+      <skill id="TwoHanded" value="50" />
+      <!--<skill id="Athletics" value="45" /> #OLD_SKILL# -->
+      <!--<skill id="InfantryCommand" value="60" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="45" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="50" />
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Yarka, seen as kinslayer / gunswin face-->
+  <NPCCharacter id="companion_12" name="{=7xQv3Np7}Yarka" voice="curt" culture="Culture.aserai" is_female="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="00195d230028250889c896b7a8909c768acba967b474695b57874866e65293b60006000405c88a770000000000000000000000000000000000000000000000c0" /-->
+      <BodyProperties version="4" key="00165C02C03C250889C896B7A89B9C768ACBA967B474695B57874866E65293B6000BB0090BC88A770000000000000000000000000000000000000000011800C0" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_12" />
+    </Components>
+    <skills>
+      <skill id="Bow" value="90" />
+      <skill id="Crossbow" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Pol, foul-tempered smith / olek face-->
+  <NPCCharacter id="companion_13" name="{=M1ORaYny}Pol" voice="earnest" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0009852bc0d834407d96ca62aca6ca45669b6b86b89a995a9c2646ad76613bb900000000008738d3000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="000B840B40BC34407D96CA62ACA5CA45669B6B86B89A995A9C2646AD76613BB900055004058738D3000000000000000000000000000000000000000000780000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_13" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="90" />
+      <skill id="TwoHanded" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Imulir, believes she is under a gaessa / aireen face-->
+  <NPCCharacter id="companion_14" name="{=6LRFHHqT}Imulir" voice="softspoken" culture="Culture.battania" is_female="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_battania" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="00007129407c33cd6d84ac8c8b15874718c74687a25589455477a775785aac76000558a42456778b000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="00007008807C33CD6D84AC8C8B15874718C74687A25589455477A775785AAC76000558A50556778B000000000000000000000000000000000000000000780000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_14" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="55" />
+      <skill id="TwoHanded" value="45" />
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Ferionn. Wildman, too wild for the wolfskins / caladog face-->
+  <NPCCharacter id="companion_15" name="{=I8Iy6Jtv}Ferionn" voice="softspoken" culture="Culture.battania" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_battania" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="003fed2fc0543100c636a0fe239078f0d75f65a9965934485715e4884367f9f100000004079485c3000000000000000000000000000000000000000000003000" /-->
+      <BodyProperties version="4" key="003FEC0FC0543100C636A0FE239678F0D75F65A9965934485715E4884367F9F100066006069485C3000000000000000000000000000000000000000000A03000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_15" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="60" />
+      <skill id="TwoHanded" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
+      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+      <equipment slot="Body" id="Item.tunic_with_rolled_cloth" />
+      <equipment slot="Leg" id="Item.strapped_shoes" />
+    </equipmentSet>
+  </NPCCharacter>
+  <!-- Cadugan. Horse-thief and scamp / oros face-->
+  <NPCCharacter id="companion_16" name="{=RfxXnZ8Z}Cadugan" voice="ironic" culture="Culture.battania" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_battania" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0013412a0030310139a3627c73786c586c437785b5b6bb8596258d2976562c93000a8004073678e3000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0011400A003C310139A3627C73766C586C437785B5B6BB8596258D2976562C9300076006073678E3000000000000000000000000000000000000000000C80000" />
+      <BodyProperties version="4" age="50.95" weight="0.3969" build="0.4635" key="0011400A003C310139A3627C73766C586C437785B5B6BB8596258D2976562C9300076006073678E3000000000000000000000000000000000000000000C80000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_16" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="60" />
+      <skill id="TwoHanded" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
+      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+      <equipment slot="Body" id="Item.highland_cloth" />
+      <equipment slot="Leg" id="Item.leather_boots" />
+    </equipmentSet>
+  </NPCCharacter>
+  <!-- Khuzait chieftain's son, given as hostage to west / monchug face-->
+  <NPCCharacter id="companion_17" name="{=6liU5Bts}Surgai" voice="earnest" culture="Culture.aserai" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="002c912e8060038d66567ba279207988d6698a9cd4b7c973b75064678a462717000e00040036587b000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="002D900E4060038D66567BA279247988D6698A9CD4B7C973B75064678A462717000640050636587B000000000000000000000000000000000000000000C80000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_17" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="55" />
+      <skill id="TwoHanded" value="45" />
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Ger. Half-mad, believes he spends time in the underworld. Trying to rescue his mother. / chaghan face-->
+  <NPCCharacter id="companion_18" name="{=PhdzZKu0}Ger" voice="softspoken" culture="Culture.khuzait" is_female="false" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_khuzait" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="003f5d2fcb9430c9a64aa667c1eaa411967175198c7a327d8a8771583224c9a50004a0040000a844000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="003F5C0FCB7C30C9A64AA667C1E7A411967175198C7A327D8A8771583224C9A5000770060700A844000000000000000000000000000000000000000000A00000" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_18" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="60" />
+      <skill id="TwoHanded" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
+      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
+      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Khachin. Enslaved, used as exoticized arena Amazon. Very good rider / anat face -->
+  <NPCCharacter id="companion_19" name="{=W1yur1cf}Khachin" voice="ironic" culture="Culture.khuzait" is_female="true" is_template="true" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_khuzait" default_group="Infantry" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="00324c0fc02c30058bb87799d6707235b04c8279c5653a584efac0f5768a9938000520000079c086000000000000000000000000000000000000000000000081" /-->
+      <BodyProperties version="4" key="00324C0FC03C30058BB87799D6767235B04C8279C5653A584EFAC0F5768A9938000860050879C086000000000000000000000000000000000000000000780081" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_19" />
+    </Components>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="SergeantCommandSkills" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+  <!-- Dewanos. Former onk from Ethiopian-like off-map country -->
+  <NPCCharacter id="companion_20" name="{=jboLCImM}Dewanos" voice="softspoken" culture="Culture.darshi" default_group="Infantry" civilianTemplate="NPCCharacter.npc_armed_wanderer_equipment_template_aserai" is_hero="true" is_companion="true" occupation="Companion">
+    <face>
+      <!--face_key value="0033614e400005d92528a9467557765a24b76ab9cc2694ac89a8169477beba5000049655f40a91260000000000000000000000000000000000000000010c3080" /-->
+      <BodyProperties version="4" key="0033600E400005D92528A9467554765A24B76AB9CC2694AC89A8169477BEBA5000054655050A9126000000000000000000000000000000000000000000F43080" />
+    </face>
+    <Components>
+      <Companion id="companion_comp_20" />
+    </Components>
+    <skills>
+      <skill id="OneHanded" value="60" />
+      <skill id="TwoHanded" value="70" />
+      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <skill id="Riding" value="85" />
+    </skills>
+    <equipmentSet>
+      <equipment slot="Item0" id="Item.short_sword_t3" />
+    </equipmentSet>
+    <equipment slot="Body" id="Item.fur_armor_with_strap" />
+  </NPCCharacter>
+</NPCCharacters>

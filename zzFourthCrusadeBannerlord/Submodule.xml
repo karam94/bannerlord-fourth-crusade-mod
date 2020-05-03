@@ -1,7 +1,7 @@
 <Module>
   <Name value="4th Crusade Bannerlord"/>
   <Id value="zzFourthCrusadeBannerlord"/>
-   <Version value="v1.0.1"/>
+   <Version value="v1.0.2"/>
    <SingleplayerModule value="true"/>
    <MultiplayerModule value="false"/>
    <Official value="false" />
@@ -43,6 +43,13 @@
 	</XmlNode>
   <XmlNode>                
 		<XmlName id="NPCCharacters" path="lords_4thCrusadeBannerlord"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+      </IncludedGameTypes>
+	</XmlNode>
+  <XmlNode>                
+		<XmlName id="NPCCharacters" path="companions_4thCrusadeBannerlord"/>
       <IncludedGameTypes>
         <GameType value = "Campaign"/>
         <GameType value = "CampaignStoryMode"/>

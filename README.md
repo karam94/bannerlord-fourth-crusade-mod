@@ -42,14 +42,15 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 - Replaced all existing names in spcultures with more accurate names.
 - Added extra names for all sets in spcultures with accurate names.
 - Fixed bug that causes game to crash when walking around a city.
+- Fixed bug where Alexios still had Rhagaea's body.
+- Changed kingdom colours/banners to represent real designs.
+- Renamed companions from different cultures with real names.
 
 ### Todo:
 
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Tweak cities & towns to have more accurate bounded settlements.
-- Change kingdom colours/banners.
 - Debug clan names not changing.
-- **BUG** - Alexios has female body features.
 
 ### Credits:
 
