@@ -1141,7 +1141,7 @@
   </Settlement>
   <!-- Imperial subfaction 2 begins -->
   <!-- Amytatis and Bostrum, clan 4 patriarch and faction 2 leader, soldier's soldier -->
-  <Settlement id="town_EW5" name="{=Settlements.Settlement.name.town_EW5}Vienna" owner="Faction.clan_empire_west_4" posX="441.84" posY="352.923" culture="Culture.empire" prosperity="4400" gate_posX="442.959" gate_posY="357.131">
+  <Settlement id="town_EW5" name="{=Settlements.Settlement.name.town_EW5}Vienna" owner="Faction.clan_empire_west_1" posX="441.84" posY="352.923" culture="Culture.empire" prosperity="4400" gate_posX="442.959" gate_posY="357.131">
     <Components>
       <Town id="town_comp_EW5" is_castle="false" level="1" background_crop_position="0.0" background_mesh="menu_empire_5" wait_mesh="wait_empire_town" gate_rotation="0.908" />
     </Components>
