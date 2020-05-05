@@ -58,6 +58,8 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 - Debug clan names not changing.
 - Investigate work needed to rename troops.
 - Investigate if we need to change any more colour information for kingdoms.
+- Give credits to some of the banner authors.
+- Test the factions ingame during battles.
 
 ### Credits:
 

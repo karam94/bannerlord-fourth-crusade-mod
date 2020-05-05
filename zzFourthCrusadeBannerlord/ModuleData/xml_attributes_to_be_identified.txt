@@ -3,3 +3,4 @@ zzFourthCrusadeBannerlord/ModuleData/settlements_4thCrusadeBannerlord.xml: Settl
 zzFourthCrusadeBannerlord/ModuleData/spkingdoms_4thCrusadeBannerlord.xml: Kingdoms.Kingdom.name, Kingdoms.Kingdom.short_name, Kingdoms.Kingdom.title, Kingdoms.Kingdom.text
 zzFourthCrusadeBannerlord/ModuleData/lords_4thCrusadeBannerlord.xml: NPCCharacters.NPCCharacter.name
 zzFourthCrusadeBannerlord/ModuleData/companions_4thCrusadeBannerlord.xml: NPCCharacters.NPCCharacter.name
+zzFourthCrusadeBannerlord/ModuleData/spclans_4thCrusadeBannerlord.xml: Factions.Faction.name
