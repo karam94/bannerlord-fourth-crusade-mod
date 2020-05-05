@@ -45,6 +45,7 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 - Changed kingdom colours/banners to represent real designs.
 - Renamed companions from different cultures with more accurate names.
 - Change owner of main cities to main clan.
+- Debug clan names not changing.
 
 ### Reported Bug Fixes:
 
@@ -55,10 +56,6 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 
 - Tweak cities & towns to better represent their actual sizes/historical significance.
 - Tweak cities & towns to have more accurate bounded settlements.
-- Debug clan names not changing.
-- Investigate work needed to rename troops.
-- Investigate if we need to change any more colour information for kingdoms.
-- Give credits to some of the banner authors.
 - Test the factions ingame during battles.
 
 ### Credits:

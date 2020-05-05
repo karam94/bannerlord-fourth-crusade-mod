@@ -55,5 +55,12 @@
         <GameType value = "CampaignStoryMode"/>
       </IncludedGameTypes>
 	</XmlNode>
+  <XmlNode>                
+		<XmlName id="Clans" path="spclans_4thCrusadeBannerlord"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+      </IncludedGameTypes>
+	</XmlNode>
    </Xmls>
 </Module>
