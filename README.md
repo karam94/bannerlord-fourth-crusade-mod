@@ -62,6 +62,7 @@ Ensure to select the "Fourth Crusade Bannerlord" mod in the M&B: Bannerlord laun
 
 North Sea Empire Inspired Flag by Bananatoid: https://www.nexusmods.com/mountandblade2bannerlord/mods/884
 Kingdom of France Banner by /u/Charli03_FR: https://www.reddit.com/r/BannerlordBanners/comments/g85mhv/royaume_de_france_kingdom_of_france/
+Templar Banner by /u/Marcquez: https://www.reddit.com/r/BannerlordBanners/comments/fwriyb/templar_knights/
 
 French map: https://upload.wikimedia.org/wikipedia/commons/a/a6/Map_France_1180-fr.svg
 Second Bulgarian Empire: https://en.wikipedia.org/wiki/Second_Bulgarian_Empire#Rise
